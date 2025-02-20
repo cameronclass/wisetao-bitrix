@@ -1,11 +1,5 @@
-<?php
-	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
-		$uri = 'https://';
-	} else {
-		$uri = 'http://';
-	}
-	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'/dashboard/');
-	exit;
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("title","Главная страница");
 ?>
-Something is wrong with the XAMPP installation :-(
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

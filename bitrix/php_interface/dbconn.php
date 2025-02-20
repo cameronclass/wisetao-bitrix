@@ -1,6 +1,4 @@
 <?
-ю
-
 date_default_timezone_set("Asia/Yakutsk");
 
 define("DELAY_DB_CONNECT", true);
