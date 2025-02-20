@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Новости", 
+		"/novosti/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"блог", 
+		"/novaya-stranitsa.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"блог", 
+		"/blog/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

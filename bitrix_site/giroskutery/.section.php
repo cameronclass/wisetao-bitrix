@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Гироскутеры";
+$arDirProperties = Array(
+
+);
+?>

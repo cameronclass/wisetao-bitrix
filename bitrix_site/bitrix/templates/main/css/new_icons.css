@@ -1,0 +1,158 @@
+.icon-nav{
+    width: 24px;
+    height: 23px;
+    background-image: url('../images/menu_new_172.png');
+}
+
+.icon-nav-1{
+    background-position: 0px -2px;
+}
+
+.icon-nav-2{
+    background-position: 0px -27px;
+}
+
+.icon-nav-3{
+    background-position: 0px -55px;
+}
+
+.icon-nav-4{
+    background-position: 0px -80px;
+}
+
+.icon-nav-5{
+    background-position: 0px -108px;
+}
+
+.icon-nav-6{
+    background-position: 0px -136px;
+}
+
+.icon-nav-7{
+    background-position: 0px -217px;
+}
+
+.icon-nav-8{
+    background-position: 0px -190px;
+}
+
+.icon-nav-9{
+    background-position: 0px -240px;
+}
+
+.icon-nav-10{
+    background-position: 0px -270px;
+}
+
+.icon-nav-11{
+    background-position: 0px -300px;
+}
+
+.icon-nav-12{
+    background-position: 0px -296px;
+}
+
+.icon-nav-13{
+    background-position: 0px -325px;
+}
+
+.icon-nav-14{
+    background-position: 0px -353px;
+}
+.icon-nav-20{
+    background-position: 0px -514px;
+}
+.icon-nav-21{
+    background-position: 0px -486px;
+}
+.icon-nav-22{
+    background-position: 0px -461px;
+}
+.icon-nav-23{
+    background-position: 0px -243px;
+}
+.icon-nav-24{
+    background-position: 0px -432px;
+}
+.icon-nav-25{
+    background-position: 0px -405px;
+}
+.icon-nav-26{
+    background-position: 0px -567px;
+}
+.icon-nav-27{
+    background-position: 0px -541px;
+}
+.icon-nav-28{
+    background-position: 0px -350px;
+}
+.icon-nav-29{
+    background-position: 0px -595px;
+}
+.icon-nav-30{
+    background-position: 0px -165px;
+}
+.icon-nav-31{
+    background-position: 0px -620px;
+}
+.icon-nav-32 {
+    background-position: 0px -380px;
+}
+.icon-nav-40 {
+    background-position: 0px -55px;
+}
+.icon-nav-41 {
+    background-position: 0px -649px;
+}
+.icon-benefits{
+    width: 74px;
+    height: 74px;
+    border-radius: 0;
+    background: url('../images/benefits_new.png');
+}
+
+.icon-benefits-1{
+    background-position: 0px 0px;
+}
+
+.icon-benefits-2{
+    background-position: -74px 0px;
+}
+
+.icon-benefits-3{
+    background-position: -148px 0px;
+}
+
+.icon-benefits-4{
+    background-position: -222px 0px;
+}
+
+.icon-one_click {
+    width: 10px;
+    height: 15px;
+    background: url('../images/icon_one_click.png');
+    top: -3px;
+    margin-right: 8px;
+}
+
+.icon-discount {
+    width: 23px;
+    height: 23px;
+    background: url('../images/icon_discount.png');
+}
+
+.icon-add_favorite {
+    width: 26px;
+    height: 24px;
+    background: url('../images/icon_add_favorite.png');
+        top: -1px;
+    margin-right: 12px;
+}
+
+.icon-available_info {
+    width: 18px;
+    height: 12px;
+    background: url('../images/icon_available_info.png');
+        top: -1px;
+    margin-right: 4px;
+}
