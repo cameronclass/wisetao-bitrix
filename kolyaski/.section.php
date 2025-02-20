@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Коляски";
+$arDirProperties = Array(
+
+);
+?>

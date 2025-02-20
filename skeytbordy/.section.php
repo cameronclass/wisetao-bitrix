@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Скейтборды";
+$arDirProperties = Array(
+
+);
+?>

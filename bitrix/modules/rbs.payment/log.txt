@@ -1,0 +1,1397 @@
+Host: velik.test
+Date: 2017-04-04 06:31:31
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"2_0","amount":38353800,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=2","description":"456","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:32:31
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"2_0","amount":38353800,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=2","description":"456","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:32:59
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"2_0","amount":38353800,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=2","description":"456","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:34:33
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:35:39
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:35:48
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:36:07
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:37:43
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:38:21
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:38:33
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:39:31
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"3_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=3","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:40:47
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"4_0","amount":42076800,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=4","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 06:40:59
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"4_0","amount":42076800,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=4","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:15:17
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"4_0","amount":42076800,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=4","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:16:14
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"5_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=5","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:17:00
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"5_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=5","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:17:05
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"5_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=5","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:17:43
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"6_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=6","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:17:49
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"6_0","amount":19176900,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=6","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:23:13
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"7_0","amount":3723000,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=7","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 07:23:20
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"7_0","amount":3723000,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=7","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:05:15
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"8_0","amount":3723000,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=8","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:05:20
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"8_0","amount":3723000,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=8","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:07:33
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"9_0","amount":4000400,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=9","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:07:45
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"9_0","amount":4000400,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=9","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:08:08
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"9_0","amount":4000400,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=9","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:09:09
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"10_0","amount":13867500,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=10","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:10:41
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"10_0","amount":13867500,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=10","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-04 08:13:39
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"11_0","amount":13867500,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=11","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:101
+----------
+Host: velik.test
+Date: 2017-04-14 01:11:02
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"12_0","amount":44153600,"returnUrl":"http:\/\/velik.test\/sale\/payment\/result.php?ID=12","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: null
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:05:32
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"9ad0c252-14d2-4e1e-b432-8656006f4873","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=9ad0c252-14d2-4e1e-b432-8656006f4873"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:34:59
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:35:02
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"0b22ccb1-a82a-4c5d-9065-87cb671761f0","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=0b22ccb1-a82a-4c5d-9065-87cb671761f0"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:37:31
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:37:34
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:37:37
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"60e4c333-befb-4351-9aac-07693f9c78c3","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=60e4c333-befb-4351-9aac-07693f9c78c3"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:42:31
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:42:34
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:42:37
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:42:40
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"20f24c0a-e6e8-414d-a3fd-675be96ae30a","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=20f24c0a-e6e8-414d-a3fd-675be96ae30a"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:46:10
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:46:13
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:46:16
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:46:19
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:46:22
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"8bd7caf0-b8e9-40da-b3f3-2fa0e03189ce","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=8bd7caf0-b8e9-40da-b3f3-2fa0e03189ce"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:47:11
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:47:15
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:47:18
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:47:21
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:47:24
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:47:27
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"ffffa8a2-bfb4-4feb-949e-43dbea5803c7","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=ffffa8a2-bfb4-4feb-949e-43dbea5803c7"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:47:57
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:48:00
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:48:03
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:48:06
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:48:09
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:48:12
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:48:15
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_6","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"30a02ec9-a5ef-4043-bd58-2b2e7cab669c","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=30a02ec9-a5ef-4043-bd58-2b2e7cab669c"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:55:45
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:55:49
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:55:52
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:55:55
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:55:58
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:56:02
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:56:05
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_6","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:56:08
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_7","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"d9f00a8a-b06a-4dbd-b1d7-f2b744306299","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=d9f00a8a-b06a-4dbd-b1d7-f2b744306299"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:56:55
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:56:59
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:57:02
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:57:05
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:57:08
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:57:11
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:57:14
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_6","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:57:17
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_7","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 02:57:20
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_8","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"04b2a9ad-d647-4882-829c-d347cb1c7d51","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=04b2a9ad-d647-4882-829c-d347cb1c7d51"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:08
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:12
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:15
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:18
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:21
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:24
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:27
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_6","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:30
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_7","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:34
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_8","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:00:37
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_9","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"0eb69f44-199b-4dd1-94be-c108bbd4fb54","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=0eb69f44-199b-4dd1-94be-c108bbd4fb54"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:26
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:29
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:32
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:35
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:38
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:41
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:45
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_6","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:48
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_7","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:51
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_8","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:55
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_9","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:01:58
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_10","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"610e3fca-a924-4067-9e63-b8cfc88c240c","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=610e3fca-a924-4067-9e63-b8cfc88c240c"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:28
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:31
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:35
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:38
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:41
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:44
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:47
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_6","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:50
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_7","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:53
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_8","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:04:57
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_9","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:00
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_10","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:29
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_0","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:33
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_1","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:36
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_2","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:39
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_3","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:41
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_4","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:44
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_5","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:47
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_6","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:51
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_7","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:54
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_8","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:05:57
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_9","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:06:00
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"13_10","amount":4444000,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=13","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:08:20
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"14_0","amount":888800,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=14","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:08:23
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"14_1","amount":888800,"returnUrl":"http:\/\/velik2.test\/sale\/payment\/result.php?ID=14","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"03c980f0-2856-423f-a0b1-3c6598e0f72d","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=03c980f0-2856-423f-a0b1-3c6598e0f72d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:214
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\payment.php:60
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\payment.php:2
+	E:\OpenServer\domains\velik2.test\bitrix\modules\sale\lib\paysystem\compatibilityhandler.php:200
+----------
+Host: velik2.test
+Date: 2017-04-21 03:11:46
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/getOrderStatusExtended.do REQUEST: {"orderId":"03c980f0-2856-423f-a0b1-3c6598e0f72d","userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"14_1","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":888800,"currency":"643","date":1.49271200459e+12,"orderDescription":"","ip":"123.164.238.192","merchantOrderParams":[],"attributes":[{"name":"mdOrder","value":"03c980f0-2856-423f-a0b1-3c6598e0f72d"}],"cardAuthInfo":{"expiration":"201912","cardholderName":"ALEXEY SUPERMAN","approvalCode":"123456","pan":"411111**1111"},"authDateTime":1.49271220092e+12,"terminalId":"12345678","authRefNum":"111111111111","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":888800,"depositedAmount":888800,"refundedAmount":0},"bankInfo":{"bankName":"TEST CARD","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"}}
+    RBS::logger < RBS::gateway < RBS::get_order_status_by_orderId < require_once < require_once
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:161
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\rbs.php:229
+	E:\OpenServer\domains\velik2.test\bitrix\modules\rbs.payment\payment\result.php:37
+	E:\OpenServer\domains\velik2.test\bitrix\php_interface\include\sale_payment\payment\result.php:3
+	E:\OpenServer\domains\velik2.test\sale\payment\result.php:2
+----------
+Host: www.vip-velik.ru
+Date: 2017-04-27 22:35:58
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"15_0","amount":1899900,"returnUrl":"http:\/\/www.vip-velik.ru\/sale\/payment\/result.php?ID=15","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"errorCode":"1","errorMessage":"\u0417\u0430\u043a\u0430\u0437 \u0441 \u0442\u0430\u043a\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0443\u0436\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:161
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:214
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/payment.php:60
+	/home/c/ci20642/vip-velik/public_html/bitrix/php_interface/include/sale_payment/payment/payment.php:2
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/sale/lib/paysystem/compatibilityhandler.php:200
+----------
+Host: www.vip-velik.ru
+Date: 2017-04-27 22:35:59
+Module: rbs.payment
+RBS PAYMENT https://3dsec.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"15_1","amount":1899900,"returnUrl":"http:\/\/www.vip-velik.ru\/sale\/payment\/result.php?ID=15","description":"","currency":643,"userName":"vip_velik-api","password":"vip_velik"} RESPONSE: {"orderId":"9c518fa4-d06f-48c5-a4ed-9a78c8de165c","formUrl":"https:\/\/3dsec.sberbank.ru\/payment\/merchants\/vip_velik\/payment_ru.html?mdOrder=9c518fa4-d06f-48c5-a4ed-9a78c8de165c"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:161
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:214
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/payment.php:60
+	/home/c/ci20642/vip-velik/public_html/bitrix/php_interface/include/sale_payment/payment/payment.php:2
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/sale/lib/paysystem/compatibilityhandler.php:200
+----------
+Host: www.vip-velik.ru
+Date: 2017-05-28 20:59:29
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"16_0","amount":200000,"returnUrl":"http:\/\/www.vip-velik.ru\/sale\/payment\/result.php?ID=16","description":"","currency":643,"userName":"vip_velik-api","password":"draiver0843555"} RESPONSE: {"errorCode":"5","errorMessage":"\u0414\u043e\u0441\u0442\u0443\u043f \u0437\u0430\u043f\u0440\u0435\u0449\u0451\u043d"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:161
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:214
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/payment.php:60
+	/home/c/ci20642/vip-velik/public_html/bitrix/php_interface/include/sale_payment/payment/payment.php:2
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/sale/lib/paysystem/compatibilityhandler.php:200
+----------
+Host: www.vip-velik.ru
+Date: 2017-05-28 21:04:14
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"17_0","amount":200000,"returnUrl":"http:\/\/www.vip-velik.ru\/sale\/payment\/result.php?ID=17","description":"","currency":643,"userName":"vip_velik-api","password":"draiver0843555"} RESPONSE: {"orderId":"88ef2d4f-3603-489d-93f3-fdf8080b3706","formUrl":"https:\/\/securepayments.sberbank.ru\/payment\/merchants\/rbs\/payment_ru.html?mdOrder=88ef2d4f-3603-489d-93f3-fdf8080b3706"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:161
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:214
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/payment.php:60
+	/home/c/ci20642/vip-velik/public_html/bitrix/php_interface/include/sale_payment/payment/payment.php:2
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/sale/lib/paysystem/compatibilityhandler.php:200
+----------
+Host: www.vip-velik.ru
+Date: 2017-05-28 21:06:47
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/getOrderStatusExtended.do REQUEST: {"orderId":"88ef2d4f-3603-489d-93f3-fdf8080b3706","userName":"vip_velik-api","password":"draiver0843555"} RESPONSE: {"errorCode":"0","errorMessage":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e","orderNumber":"17_0","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":200000,"currency":"643","date":1495973054500,"ip":"188.162.236.216","merchantOrderParams":[],"attributes":[{"name":"mdOrder","value":"88ef2d4f-3603-489d-93f3-fdf8080b3706"}],"cardAuthInfo":{"expiration":"201903","cardholderName":"VITALIY NOVIKOV","approvalCode":"604656","pan":"427603**9344"},"authDateTime":1495973204859,"terminalId":"11158678","authRefNum":"714884190782","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":200000,"depositedAmount":200000,"refundedAmount":0},"bankInfo":{"bankName":"SBERBANK of Russia","bankCountryCode":"RU","bankCountryName":"\u0420\u043e\u0441\u0441\u0438\u044f"}}
+    RBS::logger < RBS::gateway < RBS::get_order_status_by_orderId < require_once < require_once
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:161
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:229
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/result.php:37
+	/home/c/ci20642/vip-velik/public_html/bitrix/php_interface/include/sale_payment/payment/result.php:3
+	/home/c/ci20642/vip-velik/public_html/sale/payment/result.php:2
+----------
+Host: www.vip-velik.ru
+Date: 2017-05-28 21:26:57
+Module: rbs.payment
+RBS PAYMENT https://securepayments.sberbank.ru/payment/rest/register.do REQUEST: {"orderNumber":"18_0","amount":888800,"returnUrl":"http:\/\/www.vip-velik.ru\/sale\/payment\/result.php?ID=18","description":"","currency":643,"userName":"vip_velik-api","password":"draiver0843555"} RESPONSE: {"orderId":"762f65e2-818d-42e6-b861-96620e82461b","formUrl":"https:\/\/securepayments.sberbank.ru\/payment\/merchants\/rbs\/payment_ru.html?mdOrder=762f65e2-818d-42e6-b861-96620e82461b"}
+    RBS::logger < RBS::gateway < RBS::register_order < require_once < require
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:161
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/rbs.php:214
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/rbs.payment/payment/payment.php:60
+	/home/c/ci20642/vip-velik/public_html/bitrix/php_interface/include/sale_payment/payment/payment.php:2
+	/home/c/ci20642/vip-velik/public_html/bitrix/modules/sale/lib/paysystem/compatibilityhandler.php:200
+----------

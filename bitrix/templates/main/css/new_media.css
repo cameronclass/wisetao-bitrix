@@ -1,0 +1,168 @@
+@media all and (min-width: 1031px){
+	.thumb:hover{
+		z-index: 1000;
+	}
+	#set_filter{display:none;}
+	.catalog-list .thumb:hover .thumb_c{
+		left: 0px;
+		right: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+
+@media all and (max-width: 1200px){
+	.benefits{
+		margin-left: 0;
+	}
+	#set_filter{display:none;}
+	.benefits_item{
+		margin: 0;
+		width: 25%;
+		padding-left: 0;
+		padding-right: 10px;
+	}
+
+	.copyright {
+		width: 32%;
+		font-size: 13px;
+	}
+
+	.social_share_btn{
+		margin-right: 13px;
+	}
+
+	.footer_bottom_social {
+		width: 25%;
+	}
+
+	.footer_phone {
+		width: 16%;
+	}
+
+	.footer_tinkoff {
+		width: 15%;
+		margin-top: -8px;
+	}
+
+	.footer_pay {
+		width: 12%;
+	}
+
+	.product_n1__3{
+		width: 35%;
+	}
+
+	.product_n1__1{
+		width: 36%;
+	}
+}
+
+@media all and (max-width: 1000px){
+	.benefits_item{
+		padding-right: 0;
+	}
+	#set_filter{display:none;}
+	.benefits_item a{
+		font-size: 11px;
+		padding-left: 80px;
+	}
+
+	.nav_block{
+		height: 76px;
+	}
+
+	.copyright, 
+	.footer_bottom_social {
+		width: 50%;
+	} 
+
+	.footer_phone, 
+	.footer_tinkoff,
+	.footer_pay {
+		width: 33.33%;
+	}
+
+	.footer_phone{
+		clear: both;
+	}
+
+	.footer_tinkoff{
+		text-align: center;
+	}
+
+	.social_share{
+		text-align: right;
+	}
+
+	.social_share_btn{
+		margin-right: 0;
+	}
+}
+
+@media all and (max-width: 760px){
+	.benefits_item {
+		margin: 5px 0;
+		width: 100%;
+		height: auto;
+	}
+	#set_filter{
+		display:block;
+		margin-bottom: 40px !important;
+	}
+	.copyright, 
+	.footer_bottom_social, 
+	.footer_phone, 
+	.footer_tinkoff,
+	.footer_pay{
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+
+	.footer_tinkoff{
+		margin-bottom: 10px;
+	}
+
+	.social_share{
+		text-align: center;
+	}
+
+	.social_share_btn{
+		margin: 0 10px;
+	}
+
+	.filter_label{
+		display: none !important;
+	}
+}
+
+@media all and (max-width: 590px){
+	.product_n1__1{
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.product_n1__2,
+	.product_n1__3{
+		padding: 0;
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	.product_n1__2 {
+		float: none;
+	}
+	.product_n2{
+		display: block;
+	}
+
+	.product_n2__1, 
+	.product_n2__2, 
+	.product_n2__3{
+		display: block;
+		margin-bottom: -1px;
+		padding: 20px 10px;
+		height: auto;
+	}
+}
