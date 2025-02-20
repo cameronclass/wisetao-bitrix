@@ -1,2 +1,0 @@
-}((this.BX.UI.Bbcode = this.BX.UI.Bbcode || {}),BX));
-//# sourceMappingURL=model.bundle.js.map

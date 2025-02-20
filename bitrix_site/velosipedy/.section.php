@@ -1,6 +1,0 @@
-<?
-$sSectionName = "Велосипеды";
-$arDirProperties = Array(
-
-);
-?>

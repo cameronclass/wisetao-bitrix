@@ -1,1 +1,0 @@
-/home/c/ci20642/wisetaonov/public_html/bitrix/modules/sale/install/components/bitrix/sale.personal.order/templates/.default/bitrix//home/c/ci20642/wisetaonov/public_html/bitrix/components/bitrix/sale.personal.order/templates/.default/bitrix/
