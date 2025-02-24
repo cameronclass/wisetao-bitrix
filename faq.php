@@ -1,14 +1,14 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");?>
 <?$APPLICATION->SetPageProperty("title","FAQ");?>
-    <div class="content-page__page" itemscope itemtype="https://schema.org/FAQPage">
-        <div class="content-page__title" data-aos="fade-up">
-            <div class="content-page__title_block">
-                <h1 class="content-page__title_text">ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ (FAQ)</h1>
-            </div>
+<div class="content-page__page" itemscope itemtype="https://schema.org/FAQPage">
+    <div class="content-page__title" data-aos="fade-up">
+        <div class="content-page__title_block content-page__title_block_faq">
+            <h1 class="content-page__title_text">ЧАСТО ЗАДАВАЕМЫЕ <br> ВОПРОСЫ <span class="text-orange">(FAQ)</span></h1>
         </div>
-        <div class="content-page__content">
-            <div class="faq-page">
-                <?
+    </div>
+    <div class="content-page__content">
+        <div class="faq-page">
+            <?
                 BXClearCache('/s3/bitrix/news.list/');
                 $APPLICATION->IncludeComponent("bitrix:news.list", "faqs", Array(
                     "ACTIVE_DATE_FORMAT" => "d.m.Y",
@@ -69,8 +69,8 @@
                 ),
                     false
                 );?>
-                <div class="question-block" data-aos="fade-up">
-                    <?
+            <div class="question-block" data-aos="fade-up">
+                <?
                     $APPLICATION->IncludeComponent(
                         "bitrix:form.result.new",
                         "question_collaboration_email", // Имя вашего шаблона
@@ -100,9 +100,9 @@
                         )
                     );
                     ?>
-                </div>
             </div>
         </div>
     </div>
-    <div class="content-page__more"></div>
+</div>
+<div class="content-page__more"></div>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

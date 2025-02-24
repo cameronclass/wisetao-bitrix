@@ -3,210 +3,211 @@
 $title = $_GET['direct-china'] == 'from-china' ? 'Логистика' : 'Логистика в Китай';
 $APPLICATION->SetPageProperty("title",$title);
 ?>
-        <div class="content-page__page">
-            <div class="content-page__content">
-                <div class="logistic-page">
-                    <? if ($_GET['direct-china'] == 'from-china'): ?>
-                    <div class="logistic-main-title">
-                        <h3 class="group-title" >
-                            <span class="text-orange">Онлайн</span> расчет <br> стоимости доставки
-<!--                            и выкупа-->
-                        </h3>
-                        <button data-target=".js-how-to-use" data-class="active" class="marketing-review-links__item mb-4">Как пользоваться калькулятором?</button>
+<div class="content-page__page">
+    <div class="content-page__content">
+        <div class="logistic-page">
+            <? if ($_GET['direct-china'] == 'from-china'): ?>
+            <div class="logistic-main-title">
+                <h3 class="group-title">
+                    <span class="text-orange">Онлайн</span> расчет <br> стоимости доставки
+                    <!--                            и выкупа-->
+                </h3>
+                <button data-target=".js-how-to-use" data-class="active" class="marketing-review-links__item mb-4">Как пользоваться калькулятором?</button>
+            </div>
+
+
+            <!-- How to use -->
+            <div class="ask-panel js-how-to-use">
+                <div class="ask-panel__bg"></div>
+                <div class="ask-panel__content">
+                    <button class="js-ask-close">
+                        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50">
+                            <path d="M 9.15625 6.3125 L 6.3125 9.15625 L 22.15625 25 L 6.21875 40.96875 L 9.03125 43.78125 L 25 27.84375 L 40.9375 43.78125 L 43.78125 40.9375 L 27.84375 25 L 43.6875 9.15625 L 40.84375 6.3125 L 25 22.15625 Z"></path>
+                        </svg>
+                    </button>
+                    <div class="ask-panel__maintitle">
+                        <span class="text-orange">Как</span> <br> пользоваться
+                    </div>
+                    <div class="ask-panel__mainsubtitle">
+                        <span class="text-orange">Онлайн</span> - калькулятором расчета логистики
                     </div>
 
-
-                    <!-- How to use -->
-                    <div class="ask-panel js-how-to-use">
-                        <div class="ask-panel__bg"></div>
-                        <div class="ask-panel__content">
-                            <button class="js-ask-close">
-                                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50">
-                                    <path d="M 9.15625 6.3125 L 6.3125 9.15625 L 22.15625 25 L 6.21875 40.96875 L 9.03125 43.78125 L 25 27.84375 L 40.9375 43.78125 L 43.78125 40.9375 L 27.84375 25 L 43.6875 9.15625 L 40.84375 6.3125 L 25 22.15625 Z"></path>
-                                </svg>
-                            </button>
-                            <div class="ask-panel__maintitle">
-                                <span class="text-orange">Как</span> <br> пользоваться
-                            </div>
-                            <div class="ask-panel__mainsubtitle">
-                                <span class="text-orange">Онлайн</span> - калькулятором расчета логистики
-                            </div>
-
-                            <div class="how-to-use-slider my-4" data-aos="fade-up">
-                                <div class="swiper">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
-                                            <a class="how-to-use-calc fancy-link" data-width="200px" data-height="400" href="<?=SITE_TEMPLATE_PATH?>/assets/video/1.mp4" data-fancybox="gallery">
-                            <span class="how-to-use-calc__img">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
-                            </span>
-                                                <span class="how-to-use-calc__icon">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
-                            </span>
-                                            </a>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/2.mp4" data-fancybox="gallery">
-                            <span class="how-to-use-calc__img">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
-                            </span>
-                                                <span class="how-to-use-calc__icon">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
-                            </span>
-                                            </a>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/3.mp4" data-fancybox="gallery">
-                            <span class="how-to-use-calc__img">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
-                            </span>
-                                                <span class="how-to-use-calc__icon">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
-                            </span>
-                                            </a>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/4.mp4" data-fancybox="gallery">
-                            <span class="how-to-use-calc__img">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
-                            </span>
-                                                <span class="how-to-use-calc__icon">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
-                            </span>
-                                            </a>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/5.mp4" data-fancybox="gallery">
-                            <span class="how-to-use-calc__img">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
-                            </span>
-                                                <span class="how-to-use-calc__icon">
-                                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
-                            </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="how-to-use-slider__arrows aos-init aos-animate" data-aos="fade-up">
-                                        <div class="swiper-button-prev"></div>
-                                        <div class="casePagination">
-                                            <div class="swiper-pagination"></div>
-                                        </div>
-                                        <div class="swiper-button-next"></div>
-                                    </div>
+                    <div class="how-to-use-slider my-4" data-aos="fade-up">
+                        <div class="swiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <a class="how-to-use-calc fancy-link" data-width="200px" data-height="400" href="<?=SITE_TEMPLATE_PATH?>/assets/video/1.mp4" data-fancybox="gallery">
+                                        <span class="how-to-use-calc__img">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
+                                        </span>
+                                        <span class="how-to-use-calc__icon">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
+                                        </span>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/2.mp4" data-fancybox="gallery">
+                                        <span class="how-to-use-calc__img">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
+                                        </span>
+                                        <span class="how-to-use-calc__icon">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
+                                        </span>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/3.mp4" data-fancybox="gallery">
+                                        <span class="how-to-use-calc__img">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
+                                        </span>
+                                        <span class="how-to-use-calc__icon">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
+                                        </span>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/4.mp4" data-fancybox="gallery">
+                                        <span class="how-to-use-calc__img">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
+                                        </span>
+                                        <span class="how-to-use-calc__icon">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
+                                        </span>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="how-to-use-calc fancy-link" href="<?=SITE_TEMPLATE_PATH?>/assets/video/5.mp4" data-fancybox="gallery">
+                                        <span class="how-to-use-calc__img">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/how-to-use-calc.jpg" alt="">
+                                        </span>
+                                        <span class="how-to-use-calc__icon">
+                                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/play-icon.svg" alt="">
+                                        </span>
+                                    </a>
                                 </div>
                             </div>
-
-
-
-                            <div class="ask-panel__subtitle mt-3"><span class="text-orange">Остались вопросы?</span> Задайте вопрос в удобном для вас мессенджере:</div>
-                            <div class="ask-panel__contact">
-                                <a target="_blank" class="ask-panel__btn _telegram" href="https://t.me/+79676433973">
-                                    <span>Написать в Telegram</span>
-                                    <img class="ask-panel__btn_icon" src="<?=SITE_TEMPLATE_PATH?>/assets/images/icons/telegram-neon.png" alt="">
-                                </a>
-                                <a target="_blank" class="ask-panel__btn _whatsapp" href="https://api.whatsapp.com/send?phone=8613154567328">
-                                    <span>Написать в Whatsapp</span>
-                                    <img class="ask-panel__btn_icon" src="<?=SITE_TEMPLATE_PATH?>/assets/images/icons/whatsapp-neon.png" alt="">
-                                </a>
-                                <a target="_blank" class="ask-panel__btn _vk" href="https://vk.me/wisetao">
-                                    <span>Перейти во Вконтакте</span>
-                                    <img class="ask-panel__btn_icon" src="<?=SITE_TEMPLATE_PATH?>/assets/images/icons/vk-neon.png" alt="">
-                                </a>
+                            <div class="how-to-use-slider__arrows aos-init aos-animate" data-aos="fade-up">
+                                <div class="swiper-button-prev"></div>
+                                <div class="casePagination">
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                                <div class="swiper-button-next"></div>
                             </div>
                         </div>
                     </div>
 
-<!--                    --><?//require_once($_SERVER["DOCUMENT_ROOT"]."/calc-layout/calc-index.php") ?>
 
-                        <?require_once($_SERVER["DOCUMENT_ROOT"]."/calc-new/index.php") ?>
 
-                    <div class="logistic-check">
-                        <h3 class="logistic-check__title group-title">Отследить заказ</h3>
-                        <div class="logistic-check__block">
-                            <form class="logistic-check__form">
-                                <input type="text" class="logistic-check__form_text" placeholder="Введите номер заказа">
-                                <button class="logistic-check__form_btn main-btn">Отследить</button>
-                            </form>
-                            <div class="logistic-check__error hidden">
-                                Заказ не найден или такого номера заказа не существует
-                            </div>
-                            <div class="logistic-check__info hidden">
-                                <div class="logistic-check__item">
-                                    <div class="logistic-check__item_title">Получатель:</div>
-                                    <div class="logistic-check__item_text recipient-name">Вася Пупкин</div>
-                                </div>
-                                <div class="logistic-check__item">
-                                    <div class="logistic-check__item_title">Конечная точка прибытия:</div>
-                                    <div class="logistic-check__item_text arrival">Москва</div>
-                                </div>
-                                <div class="logistic-check__item">
-                                    <div class="logistic-check__item_title">Ориентировочная дата прибытия:</div>
-                                    <div class="logistic-check__item_text arrival-date">24.08.2024</div>
-                                </div>
-                                <div class="logistic-check__item">
-                                    <div class="logistic-check__item_title">Способ доставки:</div>
-                                    <div class="logistic-check__item_text delivery-type">Авиа</div>
-                                </div>
-                                <div class="logistic-check__item">
-                                    <div class="logistic-check__item_title">Статус:</div>
-                                    <div class="logistic-check__item_text _paid payment-status">Оплачено</div>
-                                </div>
-                                <div class="logistic-check__item">
-                                    <div class="logistic-check__item_title">Объем:</div>
-                                    <div class="logistic-check__item_text volume">20 <span>м3</span></div>
-                                </div>
-                                <div class="logistic-check__item">
-                                    <div class="logistic-check__item_title">Вес:</div>
-                                    <div class="logistic-check__item_text weight">20 kg</div>
-                                </div>
-                            </div>
-                            <div class="logistic-check__status hidden">
-                                <div class="logistic-check__status_item">
-                                    <span class="logistic-check__status_item_dot">
-                                        <span class="_dot"></span>
-                                    </span>
-                                    <span class="logistic-check__status_item_text">Отправлен, Шенжень (20.08.2024)</span>
-                                </div>
-                                <div class="logistic-check__status_item _active">
-                                    <span class="logistic-check__status_item_dot">
-                                        <span class="_dot"></span>
-                                    </span>
-                                    <span class="logistic-check__status_item_text">В пути в сортировочный центр, Бангкок (22.08.2024)</span>
-                                </div>
-<!--                                 Скрытые элементы-->
-                                <div class="logistic-check__status_item hidden">
-                                    <span class="logistic-check__status_item_dot">
-                                        <span class="_dot"></span>
-                                    </span>
-                                    <span class="logistic-check__status_item_text">На пути к заказчику (25.08.2024)</span>
-                                </div>
-                                <div class="logistic-check__status_item hidden">
-                                    <span class="logistic-check__status_item_dot">
-                                        <span class="_dot"></span>
-                                    </span>
-                                    <span class="logistic-check__status_item_text">Доставлено (28.08.2024)</span>
-                                </div>
-                                <button class="logistic-check__status_more">
-                                    <span>еще</span>
-                                    <svg width="11" height="7" viewBox="0 0 11 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M1 1L5.5 6L10 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </button>
-                            </div>
+                    <div class="ask-panel__subtitle mt-3"><span class="text-orange">Остались вопросы?</span> Задайте вопрос в удобном для вас мессенджере:</div>
+                    <div class="ask-panel__contact">
+                        <a target="_blank" class="ask-panel__btn _telegram" href="https://t.me/+79676433973">
+                            <span>Написать в Telegram</span>
+                            <img class="ask-panel__btn_icon" src="<?=SITE_TEMPLATE_PATH?>/assets/images/icons/telegram-neon.png" alt="">
+                        </a>
+                        <a target="_blank" class="ask-panel__btn _whatsapp" href="https://api.whatsapp.com/send?phone=8613154567328">
+                            <span>Написать в Whatsapp</span>
+                            <img class="ask-panel__btn_icon" src="<?=SITE_TEMPLATE_PATH?>/assets/images/icons/whatsapp-neon.png" alt="">
+                        </a>
+                        <a target="_blank" class="ask-panel__btn _vk" href="https://vk.me/wisetao">
+                            <span>Перейти во Вконтакте</span>
+                            <img class="ask-panel__btn_icon" src="<?=SITE_TEMPLATE_PATH?>/assets/images/icons/vk-neon.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!--                    -->
+            <?//require_once($_SERVER["DOCUMENT_ROOT"]."/calc-layout/calc-index.php") ?>
+
+            <?require_once($_SERVER["DOCUMENT_ROOT"]."/calc-new/index.php") ?>
+
+            <div class="logistic-check">
+                <h3 class="logistic-check__title group-title">Отследить заказ</h3>
+                <div class="logistic-check__block">
+                    <form class="logistic-check__form">
+                        <input type="text" class="logistic-check__form_text" placeholder="Введите номер заказа">
+                        <button class="logistic-check__form_btn main-btn">Отследить</button>
+                    </form>
+                    <div class="logistic-check__error hidden">
+                        Заказ не найден или такого номера заказа не существует
+                    </div>
+                    <div class="logistic-check__info hidden">
+                        <div class="logistic-check__item">
+                            <div class="logistic-check__item_title">Получатель:</div>
+                            <div class="logistic-check__item_text recipient-name">Вася Пупкин</div>
+                        </div>
+                        <div class="logistic-check__item">
+                            <div class="logistic-check__item_title">Конечная точка прибытия:</div>
+                            <div class="logistic-check__item_text arrival">Москва</div>
+                        </div>
+                        <div class="logistic-check__item">
+                            <div class="logistic-check__item_title">Ориентировочная дата прибытия:</div>
+                            <div class="logistic-check__item_text arrival-date">24.08.2024</div>
+                        </div>
+                        <div class="logistic-check__item">
+                            <div class="logistic-check__item_title">Способ доставки:</div>
+                            <div class="logistic-check__item_text delivery-type">Авиа</div>
+                        </div>
+                        <div class="logistic-check__item">
+                            <div class="logistic-check__item_title">Статус:</div>
+                            <div class="logistic-check__item_text _paid payment-status">Оплачено</div>
+                        </div>
+                        <div class="logistic-check__item">
+                            <div class="logistic-check__item_title">Объем:</div>
+                            <div class="logistic-check__item_text volume">20 <span>м3</span></div>
+                        </div>
+                        <div class="logistic-check__item">
+                            <div class="logistic-check__item_title">Вес:</div>
+                            <div class="logistic-check__item_text weight">20 kg</div>
                         </div>
                     </div>
+                    <div class="logistic-check__status hidden">
+                        <div class="logistic-check__status_item">
+                            <span class="logistic-check__status_item_dot">
+                                <span class="_dot"></span>
+                            </span>
+                            <span class="logistic-check__status_item_text">Отправлен, Шенжень (20.08.2024)</span>
+                        </div>
+                        <div class="logistic-check__status_item _active">
+                            <span class="logistic-check__status_item_dot">
+                                <span class="_dot"></span>
+                            </span>
+                            <span class="logistic-check__status_item_text">В пути в сортировочный центр, Бангкок (22.08.2024)</span>
+                        </div>
+                        <!--                                 Скрытые элементы-->
+                        <div class="logistic-check__status_item hidden">
+                            <span class="logistic-check__status_item_dot">
+                                <span class="_dot"></span>
+                            </span>
+                            <span class="logistic-check__status_item_text">На пути к заказчику (25.08.2024)</span>
+                        </div>
+                        <div class="logistic-check__status_item hidden">
+                            <span class="logistic-check__status_item_dot">
+                                <span class="_dot"></span>
+                            </span>
+                            <span class="logistic-check__status_item_text">Доставлено (28.08.2024)</span>
+                        </div>
+                        <button class="logistic-check__status_more">
+                            <span>еще</span>
+                            <svg width="11" height="7" viewBox="0 0 11 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 1L5.5 6L10 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
 
-                    <?endif;?>
+            <?endif;?>
 
-                    <div class="logistic-shipping">
-                        <div class="logistic-shipping__block">
-                            <?
+            <div class="logistic-shipping">
+                <div class="logistic-shipping__block">
+                    <?
                             $customOffset = $_GET['direct-china'] == 'from-china' ? 0 : 4;
                             $customOffsetExtra = $_GET['direct-china'] == 'from-china' ? 0 : 4;
                             $customCountExtra = $_GET['direct-china'] == 'from-china' ? 4 : 10;
                             $APPLICATION->IncludeComponent(
-	"bitrix:news.list", 
-	"main_services", 
+	"bitrix:news.list",
+	"main_services",
 	array(
 		"ACTIVE_DATE_FORMAT" => "d.m.Y",
 		"ADD_SECTIONS_CHAIN" => "N",
@@ -276,7 +277,8 @@ $APPLICATION->SetPageProperty("title",$title);
 	),
 	false
 );?>
-<!--                        --><?//
+                    <!--                        -->
+                    <?//
 //                        $APPLICATION->IncludeComponent("bitrix:news.list", "logistic_about_delivery_types", Array(
 //                            "ACTIVE_DATE_FORMAT" => "d.m.Y",
 //                            "ADD_SECTIONS_CHAIN" => "N",
@@ -338,14 +340,14 @@ $APPLICATION->SetPageProperty("title",$title);
 //                            ),
 //                            false
 //                            );?>
-                        </div>
-                    </div>
+                </div>
+            </div>
 
-                    <div class="logistic-additional block-services">
-                        <div class="block-services__wrap">
-                            <h3 class="logistic-check__title group-title logistic-additional__title">Дополнительные услуги</h3>
-                            <div class="block-services__body">
-                                <?
+            <div class="logistic-additional block-services">
+                <div class="block-services__wrap">
+                    <h3 class="logistic-check__title group-title logistic-additional__title">Дополнительные услуги</h3>
+                    <div class="block-services__body">
+                        <?
 
                                 $APPLICATION->IncludeComponent(
                                     "bitrix:news.list",
@@ -419,13 +421,13 @@ $APPLICATION->SetPageProperty("title",$title);
                                     false
                                 );?>
 
-                            </div>
-                        </div>
                     </div>
+                </div>
+            </div>
 
-                    <div class="logistic-about">
+            <div class="logistic-about">
 
-                        <?$APPLICATION->IncludeComponent("bitrix:news.list", "about_advantages", Array(
+                <?$APPLICATION->IncludeComponent("bitrix:news.list", "about_advantages", Array(
                             "ACTIVE_DATE_FORMAT" => "d.m.Y",
                             "ADD_SECTIONS_CHAIN" => "N",
                             "AJAX_MODE" => "Y",
@@ -486,14 +488,14 @@ $APPLICATION->SetPageProperty("title",$title);
                         ),
                             false
                         );?>
-                        
-
-                        <iframe id="videoFrame" class="iframe-wisetao" style="margin-bottom: 40px; margin-top: 40px;" width="100%" src="https://dzen.ru/embed/v_sJZ3yOe0TY?from_block=partner&from=zen&mute=0&autoplay=0&tv=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
-                        <h3 class="group-title">НАША ИСТОРИЯ</h3>
-                        <div class="timeline">
-                            <?
+                <iframe id="videoFrame" class="iframe-wisetao" style="margin-bottom: 40px; margin-top: 40px;" width="100%" src="https://dzen.ru/embed/v_sJZ3yOe0TY?from_block=partner&from=zen&mute=0&autoplay=0&tv=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+                <h3 class="group-title">НАША ИСТОРИЯ</h3>
+                <div class="timeline">
+                    <?
                             session_start();
                             if (!isset($_SESSION['n_count'])) {
                                 $_SESSION['n_count'] = 2;
@@ -566,14 +568,14 @@ $APPLICATION->SetPageProperty("title",$title);
                             ),
                                 false
                             );?>
-                        </div>
-                    </div>
+                </div>
+            </div>
 
-                    <div class="logistic-blog">
-                        <h3 class="group-title" data-aos="fade-up">ПОЛЕЗНЫЕ СТАТЬИ</h3>
-                        <div class="logistic-blog__block">
+            <div class="logistic-blog">
+                <h3 class="group-title" data-aos="fade-up">ПОЛЕЗНЫЕ СТАТЬИ</h3>
+                <div class="logistic-blog__block">
 
-                            <?$APPLICATION->IncludeComponent("bitrix:news.list", "blog_articles_from_logistic", Array(
+                    <?$APPLICATION->IncludeComponent("bitrix:news.list", "blog_articles_from_logistic", Array(
                                 "ACTIVE_DATE_FORMAT" => "d.m.Y",
                                 "ADD_SECTIONS_CHAIN" => "N",
                                 "AJAX_MODE" => "N",
@@ -637,41 +639,49 @@ $APPLICATION->SetPageProperty("title",$title);
                             ),
                                 false
                             );?>
-                        </div>
-                    </div>
+                </div>
+            </div>
 
-<!--                    <div class="partners">-->
-<!--                        <h3 class="group-title">С НАМИ СОТРУДНИЧАЮТ</h3>-->
-<!--                        <div class="partners__block">-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-1.svg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-2.svg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-3.svg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-4.svg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-4.svg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-3.svg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-2.svg" alt="">-->
-<!--                            </div>-->
-<!--                            <div class="partners__item">-->
-<!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/images/partner-1.svg" alt="">-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                    </div>-->
-                    <div class="logistic-reviews">
-                        <div class="logistic-reviews__block">
-                            <?
+            <!--                    <div class="partners">-->
+            <!--                        <h3 class="group-title">С НАМИ СОТРУДНИЧАЮТ</h3>-->
+            <!--                        <div class="partners__block">-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-1.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-2.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-3.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-4.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-4.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-3.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-2.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                            <div class="partners__item">-->
+            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH?>
+            <!--/assets/images/partner-1.svg" alt="">-->
+            <!--                            </div>-->
+            <!--                        </div>-->
+            <!--                    </div>-->
+            <div class="logistic-reviews">
+                <div class="logistic-reviews__block">
+                    <?
                             $APPLICATION->IncludeComponent("bitrix:news.list", "reviews_from_marketing", Array(
                                 "ACTIVE_DATE_FORMAT" => "d.m.Y",
                                 "ADD_SECTIONS_CHAIN" => "N",
@@ -738,10 +748,10 @@ $APPLICATION->SetPageProperty("title",$title);
                             ),
                                 false
                             );?>
-                        </div>
-                    </div>
-                    <div id="request" class="question-block mt-4" data-aos="fade-up">
-                        <?
+                </div>
+            </div>
+            <div id="request" class="question-block mt-4" data-aos="fade-up">
+                <?
                         $APPLICATION->IncludeComponent(
                             "bitrix:form.result.new",
                             "question_collaboration_email", // Имя вашего шаблона
@@ -791,10 +801,10 @@ $APPLICATION->SetPageProperty("title",$title);
                             )
                         );
                         ?>
-                    </div>
-                </div>
             </div>
         </div>
+    </div>
+</div>
 
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

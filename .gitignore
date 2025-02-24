@@ -406,6 +406,6 @@ bitrix/tmp/
 bitrix/backup/
 upload/tmp/
 upload/resize_cache/
+bitrix/*.DS_Store
 
 *.DS_Store
-*.DS_Store?

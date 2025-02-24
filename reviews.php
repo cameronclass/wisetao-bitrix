@@ -1,12 +1,15 @@
 <? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php"); ?>
 <? $APPLICATION->SetPageProperty("title", "Отзывы"); ?>
-    <div class="content-page__page">
-        <div class="content-page__title">
-            <h1 class="content-page__title_text">ОТЗЫВЫ <br> КЛИЕНТОВ</h1>
+<div class="content-page__page">
+    <div class="content-page__title content-page__title_second">
+        <h1 class="content-page__title_text">ОТЗЫВЫ <br> <span class="text-orange">КЛИЕНТОВ</span></h1>
+        <div class="content-page__title_img">
+            <img class="content-page__title_img_item" src="<?=SITE_TEMPLATE_PATH?>/assets/images/reviews-title.png" alt="">
         </div>
-        <div class="content-page__content">
-            <div class="content-page__content_center">
-                <?
+    </div>
+    <div class="content-page__content">
+        <div class="content-page__content_center">
+            <?
                 session_start();
                 if (!isset($_SESSION['n_count'])) {
                     $_SESSION['n_count'] = 3;
@@ -97,7 +100,11 @@
                 ),
                     false
                 ); ?>
-                <div class="review-ask" data-aos="fade-up">
+            <div class="review-ask" data-aos="fade-up">
+                <div class="review-ask__bg">
+                    <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/review-form.png" alt="">
+                </div>
+                <div class="review-ask__block">
                     <h3 class="review-ask__title">
                         ОСТАВЬ СВОЙ ЧЕСТНЫЙ ОТЗЫВ
                     </h3>
@@ -167,4 +174,5 @@
             </div>
         </div>
     </div>
+</div>
 <? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
