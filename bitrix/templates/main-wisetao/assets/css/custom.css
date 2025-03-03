@@ -13141,7 +13141,7 @@ button:focus {
 .input-form__notice,
 .input-form__notice-valid-number {
   position: absolute;
-  top: 36px;
+  top: 44px;
   font-size: 12px;
   font-weight: 400;
   color: #ed5555;
