@@ -10549,6 +10549,8 @@ button:focus {
   display: flex;
   position: relative;
   text-align: right;
+  align-items: center;
+  gap: 12px;
 }
 
 .main-menu__main_link_icon{
@@ -10568,6 +10570,9 @@ button:focus {
 }
 .main-menu__main_link.active {
   color: white;
+}
+.main-menu__main_link.active .main-menu__main_link_icon img{
+  filter: brightness(10);
 }
 .main-menu__main_link.active::after {
   content: "";
