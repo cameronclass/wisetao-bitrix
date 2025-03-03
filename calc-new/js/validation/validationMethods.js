@@ -34,10 +34,10 @@ export default class ValidationMethods {
         formInstance.addError(field, `Значение должно быть не менее ${min}`);
         return false;
       }
-      if (numericValue > maxValue) {
+      /* if (numericValue > maxValue) {
         formInstance.addError(field, "Нет данных по этим параметрам");
         return false;
-      }
+      } */
     }
 
     return true;

@@ -1,10 +1,24 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<?
-/** @var CMain $APPLICATION */
-$APPLICATION->ShowHead();
-?>
+
+    <?
+    /** @var CMain $APPLICATION */
+    $APPLICATION->ShowHead();
+    ?>
+
+    <?
+    use Bitrix\Main\Page\Asset;
+    /* \Bitrix\Main\Page\Asset::getInstance()->enableMinify(true); */
+
+    $asset = Asset::getInstance();
+
+    $asset->addCss(SITE_TEMPLATE_PATH.'/assets/css/custom.css?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/css/custom.css'), false, ['minify' => true]);
+    $asset->addCss(SITE_TEMPLATE_PATH.'/assets/css/changes.css?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/css/changes.css'), false, ['minify' => true]);
+    $asset->addCss(SITE_TEMPLATE_PATH.'/assets/css/logistic.css?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/css/logistic.css'), false, ['minify' => true]);
+    ?>
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
     <!-- MetaTags -->
@@ -19,7 +33,7 @@ $APPLICATION->ShowHead();
     <meta property="og:site_name" content="WISETAO - работаем в Китае с 2013 года">
     <meta property="og:locale" content="ru_RU">
 
-    <link rel="canonical" href="https://wisetao.com/" />
+    <link rel="canonical" href="https://wisetao.com/">
 
     <!-- Favivon -->
     <link rel="shortcut icon" href="<?=SITE_TEMPLATE_PATH?>/assets/images/logo.svg" type="image/x-icon">
@@ -29,77 +43,29 @@ $APPLICATION->ShowHead();
     <meta name="theme-color" content="#000">
     <meta name="msapplication-navbutton-color" content="#000">
     <meta name="apple-mobile-web-app-status-bar-style" content="#000">
-    <!-- CSS -->
-    <link rel="stylesheet" href="<?=SITE_TEMPLATE_PATH?>/assets/css/custom.css?v=1.1.2">
-    <link rel="stylesheet" href="<?=SITE_TEMPLATE_PATH?>/assets/css/changes.css?v=1.1.2">
-    <link rel="stylesheet" href="<?=SITE_TEMPLATE_PATH?>/assets/css/logistic.css?v=1.1.2">
 
-
-<!--    --><?//$version = date('YmdHi');
-//
-//    \Bitrix\Main\Page\Asset::getInstance()->addJs('https://cdn-ru.bitrix24.ru/b27596596/crm/tag/call.tracker.js?v=' . $version, true);?>
-<!--    <link rel="stylesheet" href="/calc-layout/css/calc-style.css?v=1.1.4">-->
-    <? \Bitrix\Main\Page\Asset::getInstance()->addCss('/calc-layout/css/calc-style.css?v='.filemtime($_SERVER['DOCUMENT_ROOT'].'/calc-layout/css/calc-style.css')); ?>
     <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&apikey=daa45afb-a989-4163-8df6-1b1edba1137d&suggest_apikey=5e11305c-8d8a-4669-9069-5c56422200c1"></script>
-    <title><?$APPLICATION->ShowTitle();?></title>
 
+    <title>
+        <?$APPLICATION->ShowTitle();?>
+    </title>
 
-    <!-- Yandex.Metrika counter -->
-    <script>
-        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-            m[i].l=1*new Date();
-            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-        ym(97300667, "init", {
-            clickmap:true,
-            trackLinks:true,
-            accurateTrackBounce:true,
-            webvisor:true
-        });
-    </script>
-    <!-- /Yandex.Metrika counter -->
-
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-PRC5J9LZ');
-    </script>
-    <!-- End Google Tag Manager -->
-
-    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
 </head>
 <body>
 
-<div id="preloader">
-    <dotlottie-player style="width: 120px;height: 120px;" src="<?=SITE_TEMPLATE_PATH?>/assets/js/preloader.json" background="transparent" speed="1" style="width: 100%; height: 100%" direction="1" playMode="normal" autoplay loop></dotlottie-player>
-</div>
+    <div id="preloader">
+        <dotlottie-player style="width: 120px;height: 120px;" src="<?=SITE_TEMPLATE_PATH?>/assets/js/preloader.json" background="transparent" speed="1" style="width: 100%; height: 100%" direction="1" playMode="normal" autoplay loop></dotlottie-player>
+    </div>
 
-<div class="link-clicked">
-    <dotlottie-player style="width: 120px;height: 120px;" src="<?=SITE_TEMPLATE_PATH?>/assets/js/preloader.json" background="transparent" speed="1" style="width: 100%; height: 100%" direction="1" playMode="normal" autoplay loop></dotlottie-player>
-</div>
+    <div class="link-clicked">
+        <dotlottie-player style="width: 120px;height: 120px;" src="<?=SITE_TEMPLATE_PATH?>/assets/js/preloader.json" background="transparent" speed="1" style="width: 100%; height: 100%" direction="1" playMode="normal" autoplay loop></dotlottie-player>
+    </div>
 
+    <div id="panel">
+        <? $APPLICATION->ShowPanel(); ?>
+    </div>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRC5J9LZ"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<div id="panel"><? $APPLICATION->ShowPanel(); ?></div>
-<?//
-//if (isset($_SERVER['REAL_FILE_PATH'])) {
-//    $currentFile = $_SERVER['REAL_FILE_PATH'];
-//} elseif (isset($_SERVER['SCRIPT_NAME'])) {
-//    $currentFile = $_SERVER['SCRIPT_NAME'];
-//} else {
-//    $currentFile = $_SERVER['PHP_SELF'];
-//}
-//
-//echo "Current script: " . $currentFile;
-//?>
-<? if ($APPLICATION->GetCurPage(false) == '/'
+    <? if ($APPLICATION->GetCurPage(false) == '/'
     || explode('-', $APPLICATION->GetCurPage(false))[0] == '/hash'
     || explode('-', $APPLICATION->GetCurPage(false))[0] == '/bitrix_include_areas'
     && count(explode('/', $APPLICATION->GetCurPage(false))) == 3): ?>
@@ -134,7 +100,8 @@ $APPLICATION->ShowHead();
                             <div class="main-select__logo_text">Работаем с 2013 г.</div>
                         </div>
                     </div>
-<!--                    <dotlottie-player style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: 2;width: 300px;height: 300px;" src="--><?php //=SITE_TEMPLATE_PATH?><!--/assets/js/logo.json" background="transparent" speed="1" style="width: 100%; height: 100%" direction="1" playMode="normal" autoplay></dotlottie-player>-->
+                    <!--                    <dotlottie-player style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: 2;width: 300px;height: 300px;" src="--><?php //=SITE_TEMPLATE_PATH?>
+                    <!--/assets/js/logo.json" background="transparent" speed="1" style="width: 100%; height: 100%" direction="1" playMode="normal" autoplay></dotlottie-player>-->
                     <button type="button" class="main-select__from">Из Китая</button>
                     <button type="button" class="main-select__to">В Китай</button>
                 </div>
@@ -386,11 +353,11 @@ $APPLICATION->ShowHead();
                     </button>
 
                     <button class="js-go-index menu-back-btn"><span> &lt; </span> <span>Из Китая</span></button>
-                    
+
                 </div>
             </div>
         </div>
-        </div>
+    </div>
 
 
     <!-- В Китай -->
@@ -495,14 +462,15 @@ $APPLICATION->ShowHead();
         </div>
 
     </div>
+
     <div class="main-bg">
         <div class="main-bg__overlay">
             <img class="main-bg__img" src="<?=SITE_TEMPLATE_PATH?>/assets/images/bg.svg" alt="">
         </div>
     </div>
 
-<? endif; ?>
-<? if ($APPLICATION->GetCurPage(false) != '/' && $APPLICATION->GetCurPage(false) != '/menu.php'
+    <? endif; ?>
+    <? if ($APPLICATION->GetCurPage(false) != '/' && $APPLICATION->GetCurPage(false) != '/menu.php'
 && explode('-', $APPLICATION->GetCurPage(false))[0] != '/hash'
 && explode('-', $APPLICATION->GetCurPage(false))[0] != '/bitrix_include_areas'): ?>
     <div class="content-bg">
@@ -514,33 +482,33 @@ $APPLICATION->ShowHead();
                 <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/bg.svg" alt="">
             </div>
             <? if (explode('/', $APPLICATION->GetCurPage(false))[2] == 'logistic'): ?>
-                <div class="main-wall">
-                    <div class="block-banner alignfull">
-                        <div class="block-banner__top">
-                            <video autoplay="" loop="" muted="" playsinline="" id="block-banner__video">
-                                <source src="<?=SITE_TEMPLATE_PATH?>/assets/video/banner.mp4" type="video/mp4">
-                            </video>
-                            <div class="main-wall__overlay"></div>
-                            <div class="main-wall__heading">
-                                <div class="main-wall__heading_block">
-                                    <h1 class="main-wall__heading_h1">
-                                        <span class="main-wall__heading_first">ДОСТАВКА ГРУЗОВ</span>
-                                        <?$from = $_GET['direct-china'] == 'from-china' ? 'ИЗ КИТАЯ' : 'В КИТАЙ';?>
-                                        <?$calc = $_GET['direct-china'] == 'from-china' ? 'РАСЧИТАТЬ СТОИМОСТЬ ОНЛАЙН' : '';?>
-                                        <span class="main-wall__heading_second"><?=$from?></span>
-                                    </h1>
-                                    <div class="main-wall__heading_text">
-                                        <span>АВИА / АВТО / ЖД / МОРЕ</span>
-                                        <span><?=$calc?></span>
-                                        <button class="main-wall__heading_icon js-slide-to-calc" >
-                                            <img class="arrow-animation" src="/bitrix/templates/main-wisetao/assets/images/icons/arrow-down-log.svg" alt="">
-                                        </button>
-                                    </div>
+            <div class="main-wall">
+                <div class="block-banner alignfull">
+                    <div class="block-banner__top">
+                        <video autoplay="" loop="" muted="" playsinline="" id="block-banner__video">
+                            <source src="<?=SITE_TEMPLATE_PATH?>/assets/video/banner.mp4" type="video/mp4">
+                        </video>
+                        <div class="main-wall__overlay"></div>
+                        <div class="main-wall__heading">
+                            <div class="main-wall__heading_block">
+                                <h1 class="main-wall__heading_h1">
+                                    <span class="main-wall__heading_first">ДОСТАВКА ГРУЗОВ</span>
+                                    <?$from = $_GET['direct-china'] == 'from-china' ? 'ИЗ КИТАЯ' : 'В КИТАЙ';?>
+                                    <?$calc = $_GET['direct-china'] == 'from-china' ? 'РАСЧИТАТЬ СТОИМОСТЬ ОНЛАЙН' : '';?>
+                                    <span class="main-wall__heading_second"><?=$from?></span>
+                                </h1>
+                                <div class="main-wall__heading_text">
+                                    <span>АВИА / АВТО / ЖД / МОРЕ</span>
+                                    <span><?=$calc?></span>
+                                    <button class="main-wall__heading_icon js-slide-to-calc">
+                                        <img class="arrow-animation" src="/bitrix/templates/main-wisetao/assets/images/icons/arrow-down-log.svg" alt="">
+                                    </button>
                                 </div>
                             </div>
-
                         </div>
-                        <?
+
+                    </div>
+                    <?
                         $APPLICATION->IncludeComponent("bitrix:news.list", "service_balloon", Array(
                             "ACTIVE_DATE_FORMAT" => "d.m.Y",
                             "ADD_SECTIONS_CHAIN" => "N",
@@ -608,9 +576,9 @@ $APPLICATION->ShowHead();
                             false
                         );
                         ?>
-                    </div>
-
                 </div>
+
+            </div>
             <?endif;?>
             <main class="container-fluid">
                 <div class="content-page">
@@ -623,36 +591,35 @@ $APPLICATION->ShowHead();
                         <div class="hover-for-menu"></div>
                         <div class="page-menu">
                             <script>
-                                document.addEventListener('DOMContentLoaded', function () {
-                                    let fluidContainer = document.querySelector('.container-fluid.main');
-                                    let isMainContainer = false;
-                                    let isPageMenu = false;
-                                    document.addEventListener('mousemove', function (event) {
-                                        let x = event.clientX;
-                                        let y = event.clientY;
-                                        let elementsUnderCursor = document.elementsFromPoint(x, y);
-                                        isMainContainer = false;
-                                        isPageMenu = false;
-                                        elementsUnderCursor.forEach(function (element) {
-                                            if (element && element.classList.contains('logistic-page')) {
-                                                isMainContainer = true;
-                                            }
-                                            if (element && element.classList.contains('page-menu')) {
-                                                isPageMenu = true;
-                                            }
-                                        });
-                                        if (isMainContainer || isPageMenu) {
-                                            if(fluidContainer) {
-                                                fluidContainer.style.zIndex = 6;
-                                            }
+                            document.addEventListener('DOMContentLoaded', function() {
+                                let fluidContainer = document.querySelector('.container-fluid.main');
+                                let isMainContainer = false;
+                                let isPageMenu = false;
+                                document.addEventListener('mousemove', function(event) {
+                                    let x = event.clientX;
+                                    let y = event.clientY;
+                                    let elementsUnderCursor = document.elementsFromPoint(x, y);
+                                    isMainContainer = false;
+                                    isPageMenu = false;
+                                    elementsUnderCursor.forEach(function(element) {
+                                        if (element && element.classList.contains('logistic-page')) {
+                                            isMainContainer = true;
                                         }
-                                        else {
-                                            if(fluidContainer) {
-                                                fluidContainer.style.zIndex = '';
-                                            }
+                                        if (element && element.classList.contains('page-menu')) {
+                                            isPageMenu = true;
                                         }
                                     });
+                                    if (isMainContainer || isPageMenu) {
+                                        if (fluidContainer) {
+                                            fluidContainer.style.zIndex = 6;
+                                        }
+                                    } else {
+                                        if (fluidContainer) {
+                                            fluidContainer.style.zIndex = '';
+                                        }
+                                    }
                                 });
+                            });
                             </script>
                             <!-- Logo -->
                             <a href="/" class="page-menu__logo">
@@ -747,4 +714,4 @@ $APPLICATION->ShowHead();
                             </div>
                         </div>
 
-<? endif; ?>
+                        <? endif; ?>

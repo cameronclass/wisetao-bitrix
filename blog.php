@@ -1,16 +1,16 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");?>
 <?$APPLICATION->SetPageProperty("title","Блог");?>
-                        <div class="content-page__page" itemscope itemtype="https://schema.org/Blog">
-                            <div class="content-page__title" data-aos="fade-up">
-                                <div class="content-page__title_block">
-                                    <h1 class="content-page__title_text _text-left" itemprop="name">Блог</h1>
-                                    <div class="content-page__title_logo"><img src="<?=SITE_TEMPLATE_PATH?>/assets/images/wisetao-blog-logo.svg" alt=""></div>
-                                    <div class="content-page__title_subtext" itemprop="description">о самом интересном и важном в работе с Китаем</div>
-                                </div>
-                            </div>
-                            <div class="content-page__content">
-                                <div class="blog-page">
-                                    <?
+<div class="content-page__page" itemscope itemtype="https://schema.org/Blog">
+    <div class="content-page__title" data-aos="fade-up">
+        <div class="content-page__title_block">
+            <h1 class="content-page__title_text _text-left" itemprop="name">Блог</h1>
+            <div class="content-page__title_logo"><img src="<?=SITE_TEMPLATE_PATH?>/assets/images/wisetao-blog-logo.svg" alt=""></div>
+            <div class="content-page__title_subtext" itemprop="description">о самом интересном и важном в работе с Китаем</div>
+        </div>
+    </div>
+    <div class="content-page__content">
+        <div class="blog-page">
+            <?
                                     session_start();
                                     if (!isset($_SESSION['n_count'])) {
                                         $_SESSION['n_count'] = 13;
@@ -105,7 +105,7 @@
                                         false
                                     );?>
 
-                                    <div class="logistic-additional block-services" itemscope itemtype="https://schema.org/Service">
+            <!-- <div class="logistic-additional block-services" itemscope itemtype="https://schema.org/Service">
                                         <div class="block-services__wrap">
                                             <h3 class="logistic-check__title group-title logistic-additional__title" itemprop="name">Наши Услуги</h3>
                                             <div class="block-services__body">
@@ -181,10 +181,10 @@
 
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
 
-                                    <div class="question-block" data-aos="fade-up">
-                                        <?
+            <div class="question-block" data-aos="fade-up">
+                <?
                                             $APPLICATION->IncludeComponent(
                                                 "bitrix:form.result.new",
                                                 "question_collaboration_email", // Имя вашего шаблона
@@ -214,8 +214,8 @@
                                                 )
                                             );
                                         ?>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            </div>
+        </div>
+    </div>
+</div>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

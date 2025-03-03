@@ -1591,13 +1591,13 @@ input[type="number"] {
   z-index: 2;
 }
 .calc-select__options::-webkit-scrollbar {
-  width: 3px;
+  width: 5px;
   border-radius: 5px;
 }
 
 /* Track */
 .calc-select__options::-webkit-scrollbar-track {
-  background: #2f3743;
+  /* background: #0d0f14; */
 }
 
 /* Handle */
@@ -1614,7 +1614,7 @@ input[type="number"] {
   border-top: 1px solid #ffffff3b;
 }
 
-.calc-select__label:hover{
+.calc-select__label:hover {
   background-color: #f09023;
 }
 
@@ -2195,6 +2195,12 @@ input[type="number"] {
   .main-calc-buy-info__form .group-input:nth-child(7) {
     grid-column-start: 1;
     grid-column-end: 7;
+  }
+  .main-calc-parametr__main {
+    grid-template-columns: 1fr 1fr;
+  }
+  .content-page__page {
+    width: 90%;
   }
 }
 @media screen and (max-width: 768px) {

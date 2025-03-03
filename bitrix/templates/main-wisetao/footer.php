@@ -2,28 +2,28 @@
     && $APPLICATION->GetCurPage(false) != '/menu.php'
     && explode('-', $APPLICATION->GetCurPage(false))[0] != '/hash'
     && explode('-', $APPLICATION->GetCurPage(false))[0] != '/bitrix_include_areas'): ?>
-    </div>
-    </div>
-    </main>
-    </div>
+</div>
+</div>
+</main>
+</div>
 
-    </div>
+</div>
 
-    <footer class="footer">
-        <div class="footer-bg">
-            <div class="footer-bg__gradient1"></div>
-            <div class="footer-bg__gradient2"></div>
-            <img class="footer-bg__img" src="<?=SITE_TEMPLATE_PATH?>/assets/images/bg.svg" alt="">
-        </div>
-        <div class="container-fluid" data-aos="fade-up">
-            <div class="footer__block container">
-                <div class="footer__logo">
-                    <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/logo.svg?v=1.1.1" alt="">
-                </div>
-                <div class="footer__menu">
-                    <div class="footer__menu_block">
-                        <div class="footer__menu_title">Из Китая</div>
-                        <?
+<footer class="footer">
+    <div class="footer-bg">
+        <div class="footer-bg__gradient1"></div>
+        <div class="footer-bg__gradient2"></div>
+        <img class="footer-bg__img" src="<?=SITE_TEMPLATE_PATH?>/assets/images/bg.svg" alt="">
+    </div>
+    <div class="container-fluid" data-aos="fade-up">
+        <div class="footer__block container">
+            <div class="footer__logo">
+                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/logo.svg?v=1.1.1" alt="">
+            </div>
+            <div class="footer__menu">
+                <div class="footer__menu_block">
+                    <div class="footer__menu_title">Из Китая</div>
+                    <?
                         $APPLICATION->IncludeComponent("bitrix:news.list", "footer_menu", Array(
                             "ACTIVE_DATE_FORMAT" => "d.m.Y",
                             "ADD_SECTIONS_CHAIN" => "N",
@@ -92,10 +92,10 @@
                             false
                         );
                         ?>
-                    </div>
-                    <div class="footer__menu_block">
-                        <div class="footer__menu_title">В Китай</div>
-                        <?
+                </div>
+                <div class="footer__menu_block">
+                    <div class="footer__menu_title">В Китай</div>
+                    <?
                         $APPLICATION->IncludeComponent("bitrix:news.list", "footer_menu", Array(
                             "ACTIVE_DATE_FORMAT" => "d.m.Y",
                             "ADD_SECTIONS_CHAIN" => "N",
@@ -164,10 +164,10 @@
                             false
                         );
                         ?>
-                    </div>
-                    <div class="footer__menu_block">
-                        <div class="footer__menu_title"><a href="/">Все услуги</a></div>
-                        <?
+                </div>
+                <div class="footer__menu_block">
+                    <div class="footer__menu_title"><a href="/">Все услуги</a></div>
+                    <?
                         $APPLICATION->IncludeComponent("bitrix:news.list", "footer_menu", Array(
                             "ACTIVE_DATE_FORMAT" => "d.m.Y",
                             "ADD_SECTIONS_CHAIN" => "N",
@@ -237,41 +237,38 @@
                             false
                         );
                         ?>
-                    </div>
-                </div>
-                <div class="footer__contact">
-                    <a class="btn-primary" href="mailto:zakaz@wisetao.com"
-                        onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'E-mail_button'}); return true;">zakaz@wisetao.com</a>
-                    <a class="footer__number" href="tel:+8613154567328"
-                       onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'Tap_to_phone'}); return true;">+86 13154567328</a>
-                    <div class="footer__social">
-                        <a href="#" class="footer__social_link">
-                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/soc-phone.svg" alt="">
-                        </a>
-                        <a href="https://vk.me/wisetao" class="footer__social_link"
-                            onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'Vk_messend'}); return true;">
-                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/soc-vk.svg" alt="">
-                        </a>
-                        <a href="#" class="footer__social_link">
-                            <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/soc-youtube.svg" alt="">
-                        </a>
-                    </div>
                 </div>
             </div>
-        </div>
-    </footer>
-
-    <div class="block-cookie" data-aos-delay="3000" data-aos="fade-up">
-        <div class="container">
-            <div class="block-cookie__block">
-                <div class="block-cookie__content">
-                    <div class="block-cookie__title">Подтвердить COOkie</div>
-                    <div class="block-cookie__text">Этот сайт использует файлы Cookie для хранения данных. Продолжая использовать сайт вы даете свое согласие на работу с этими файлами</div>
+            <div class="footer__contact">
+                <a class="btn-primary" href="mailto:zakaz@wisetao.com" onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'E-mail_button'}); return true;">zakaz@wisetao.com</a>
+                <a class="footer__number" href="tel:+8613154567328" onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'Tap_to_phone'}); return true;">+86 13154567328</a>
+                <div class="footer__social">
+                    <a href="#" class="footer__social_link">
+                        <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/soc-phone.svg" alt="">
+                    </a>
+                    <a href="https://vk.me/wisetao" class="footer__social_link" onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'Vk_messend'}); return true;">
+                        <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/soc-vk.svg" alt="">
+                    </a>
+                    <a href="#" class="footer__social_link">
+                        <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/soc-youtube.svg" alt="">
+                    </a>
                 </div>
-                <button class="calc-panel__link block-cookie__btn">ПРИНИМАЮ</button>
             </div>
         </div>
     </div>
+</footer>
+
+<div class="block-cookie" data-aos-delay="3000" data-aos="fade-up">
+    <div class="container">
+        <div class="block-cookie__block">
+            <div class="block-cookie__content">
+                <div class="block-cookie__title">Подтвердить COOkie</div>
+                <div class="block-cookie__text">Этот сайт использует файлы Cookie для хранения данных. Продолжая использовать сайт вы даете свое согласие на работу с этими файлами</div>
+            </div>
+            <button class="calc-panel__link block-cookie__btn">ПРИНИМАЮ</button>
+        </div>
+    </div>
+</div>
 
 <? endif; ?>
 
@@ -287,14 +284,14 @@
 <?\Bitrix\Main\Page\Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/assets/js/activate_menu.js?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/js/activate_menu.js'));?>
 
 <? if (explode('/', $APPLICATION->GetCurPage(false))[2] == 'logistic'): ?>
-    <script src="<?=SITE_TEMPLATE_PATH?>/assets/js/swiper-bundle.min.js"></script>
-    <script src="<?=SITE_TEMPLATE_PATH?>/assets/js/main_services.js"></script>
-    <script src="<?=SITE_TEMPLATE_PATH?>/assets/js/scroll-magic.min.js"></script>
+<script src="<?=SITE_TEMPLATE_PATH?>/assets/js/swiper-bundle.min.js"></script>
+<script src="<?=SITE_TEMPLATE_PATH?>/assets/js/main_services.js"></script>
+<script src="<?=SITE_TEMPLATE_PATH?>/assets/js/scroll-magic.min.js"></script>
 <?endif;?>
 <? if (explode('/', $APPLICATION->GetCurPage(false))[3] == 'blog'): ?>
-    <script src="<?=SITE_TEMPLATE_PATH?>/assets/js/tag_line_calc.js"></script>
-    <script src="<?=SITE_TEMPLATE_PATH?>/assets/js/main_services.js"></script>
-    <script src="<?=SITE_TEMPLATE_PATH?>/assets/js/scroll-magic.min.js"></script>
+<script src="<?=SITE_TEMPLATE_PATH?>/assets/js/tag_line_calc.js"></script>
+<script src="<?=SITE_TEMPLATE_PATH?>/assets/js/main_services.js"></script>
+<script src="<?=SITE_TEMPLATE_PATH?>/assets/js/scroll-magic.min.js"></script>
 <?endif;?>
 <?
 //if (explode('/', $APPLICATION->GetCurPage(false))[2] == 'logistic') {
@@ -332,11 +329,66 @@
 
 <?//\Bitrix\Main\Page\Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/assets/js/del_params_edit_mode.js?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/js/del_params_edit_mode.js'));?>
 <script>
-    (function(w,d,u){
-        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
-        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-    })(window,document,'https://cdn-ru.bitrix24.ru/b27596596/crm/tag/call.tracker.js');
+(function(w, d, u) {
+    var s = d.createElement('script');
+    s.async = true;
+    s.src = u + '?' + (Date.now() / 60000 | 0);
+    var h = d.getElementsByTagName('script')[0];
+    h.parentNode.insertBefore(s, h);
+})(window, document, 'https://cdn-ru.bitrix24.ru/b27596596/crm/tag/call.tracker.js');
 </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script>
+(function(m, e, t, r, i, k, a) {
+    m[i] = m[i] || function() {
+        (m[i].a = m[i].a || []).push(arguments)
+    };
+    m[i].l = 1 * new Date();
+    for (var j = 0; j < document.scripts.length; j++) {
+        if (document.scripts[j].src === r) {
+            return;
+        }
+    }
+    k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(97300667, "init", {
+    clickmap: true,
+    trackLinks: true,
+    accurateTrackBounce: true,
+    webvisor: true
+});
+</script>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google Tag Manager -->
+<script>
+(function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-PRC5J9LZ');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRC5J9LZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
 
 </body>
 

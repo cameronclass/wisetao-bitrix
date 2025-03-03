@@ -65,3 +65,7 @@ RewriteRule ^(.*)$ /bitrix/virtual_file_system.php [L]
   ExpiresByType application/javascript "access plus 3 day"
 </IfModule>
 
+<FilesMatch "\.(js)$">
+  Header set Cache-Control "no-cache, no-store, must-revalidate"
+</FilesMatch>
+

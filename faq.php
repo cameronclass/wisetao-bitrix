@@ -70,6 +70,7 @@
                     false
                 );?>
             <div class="question-block" data-aos="fade-up">
+
                 <?
                     $APPLICATION->IncludeComponent(
                         "bitrix:form.result.new",
@@ -100,6 +101,7 @@
                         )
                     );
                     ?>
+
             </div>
         </div>
     </div>

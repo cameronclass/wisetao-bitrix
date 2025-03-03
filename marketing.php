@@ -119,58 +119,57 @@ if (isset($in_dev) && $in_dev == 'YES' || isset($in_dev_section) && $in_dev_sect
 $page_url = $APPLICATION->GetCurPage(true);
 ?>
 <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": "<?= $title; ?>",
-        "url": "https://wisetao.com<?= $page_url; ?>",
-        "description": "WISETAO предоставляет полный спектр услуг по работе с Китаем: от доставки грузов и производства товаров до бизнес-туров и бухгалтерского сопровождения. Работаем с 2013 года, обеспечивая качественное обслуживание и надежное партнерство.",
-        "mainEntity": {
-            "@type": "Service",
-            "serviceType": "<?= $title; ?>",
-            "provider": {
-                "@type": "Organization",
-                "name": "WiseTao",
-                "url": "https://wisetao.com",
-                "logo": "https://wisetao.com/bitrix/templates/main-wisetao/assets/images/logo.svg",
-                "contactPoint": {
-                    "@type": "ContactPoint",
-                    "telephone": "+8613154567328",
-                    "contactType": "customer service",
-                    "availableLanguage": ["Chinese", "Russian"]
-                },
-                "sameAs": [
-                    "https://vk.me/wisetao",
-                    "https://t.me/+79676433973",
-                    "https://api.whatsapp.com/send?phone=8613154567328"
-                ]
-            },
-            "areaServed": {
-                "@type": "Place",
-                "name": "China"
-            },
-            "availableChannel": {
-                "@type": "ServiceChannel",
-                "serviceUrl": "https://wisetao.com<?= $page_url ?>",
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "<?= $title; ?>",
+    "url": "https://wisetao.com<?= $page_url; ?>",
+    "description": "WISETAO предоставляет полный спектр услуг по работе с Китаем: от доставки грузов и производства товаров до бизнес-туров и бухгалтерского сопровождения. Работаем с 2013 года, обеспечивая качественное обслуживание и надежное партнерство.",
+    "mainEntity": {
+        "@type": "Service",
+        "serviceType": "<?= $title; ?>",
+        "provider": {
+            "@type": "Organization",
+            "name": "WiseTao",
+            "url": "https://wisetao.com",
+            "logo": "https://wisetao.com/bitrix/templates/main-wisetao/assets/images/logo.svg",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+8613154567328",
+                "contactType": "customer service",
                 "availableLanguage": ["Chinese", "Russian"]
             },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://wisetao.com<?= $page_url ?>",
-                "priceCurrency": ["USD", "RUB", "CNY"],
-                "eligibleRegion": {
-                    "@type": "Place",
-                    "name": "Worldwide"
-                }
+            "sameAs": [
+                "https://vk.me/wisetao",
+                "https://t.me/+79676433973",
+                "https://api.whatsapp.com/send?phone=8613154567328"
+            ]
+        },
+        "areaServed": {
+            "@type": "Place",
+            "name": "China"
+        },
+        "availableChannel": {
+            "@type": "ServiceChannel",
+            "serviceUrl": "https://wisetao.com<?= $page_url ?>",
+            "availableLanguage": ["Chinese", "Russian"]
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://wisetao.com<?= $page_url ?>",
+            "priceCurrency": ["USD", "RUB", "CNY"],
+            "eligibleRegion": {
+                "@type": "Place",
+                "name": "Worldwide"
             }
         }
     }
-
+}
 </script>
 
 
 <div class="content-page__page">
-    <div class="content-page__title" data-aos="fade-up">
+    <div class="content-page__title content-page__title_pages" data-aos="fade-up">
         <div class="content-page__title_block">
             <h1 class="content-page__title_text"><?= $title; ?></h1>
         </div>
@@ -273,8 +272,7 @@ $page_url = $APPLICATION->GetCurPage(true);
                                 <div class="calc-panel__text">Самостоятельно сделайте расчет доставки за 1 минуту! И
                                     выберите оптимальный для вас вариант.
                                 </div>
-                                <a href="/<?= $_GET['direct-china'] ?>/logistic/" class="calc-panel__link"
-                                   onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'tap_to_calculator'}); return true;">Рассчитать</a>
+                                <a href="/<?= $_GET['direct-china'] ?>/logistic/" class="calc-panel__link" onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'tap_to_calculator'}); return true;">Рассчитать</a>
                             </div>
                             <?
                             $sectionId = SectionTable::getList([
@@ -451,9 +449,9 @@ $page_url = $APPLICATION->GetCurPage(true);
             ];
             ?>
             <? if ($templateIblockNames['first']): ?>
-                <?= $templateIblockNames['first']['title'] ?>
-                <?= $templateIblockNames['first']['open'] ?>
-                <?
+            <?= $templateIblockNames['first']['title'] ?>
+            <?= $templateIblockNames['first']['open'] ?>
+            <?
                 //FIRST_INCLUDE
                 $APPLICATION->IncludeComponent("bitrix:news.list", $templateIblockNames['first']['template'],
                     array(
@@ -525,7 +523,7 @@ $page_url = $APPLICATION->GetCurPage(true);
                     ),
                     false
                 ); ?>
-                <?= $templateIblockNames['first']['close'] ?>
+            <?= $templateIblockNames['first']['close'] ?>
             <? endif; ?>
             <?= $templateIblockNames['second']['title'] ?>
             <?= $templateIblockNames['second']['open'] ?>
@@ -826,13 +824,17 @@ $page_url = $APPLICATION->GetCurPage(true);
     </div>
 
     <script>
-        function toggleCalcForm(e) {
-            e.preventDefault();
-            if (_tmr) {
-                _tmr.push({type: 'reachGoal', id: 3555455, goal: 'order_service_page'});
-            }
-            document.querySelector('.ask-panel').classList.toggle('active');
+    function toggleCalcForm(e) {
+        e.preventDefault();
+        if (_tmr) {
+            _tmr.push({
+                type: 'reachGoal',
+                id: 3555455,
+                goal: 'order_service_page'
+            });
         }
+        document.querySelector('.ask-panel').classList.toggle('active');
+    }
     </script>
 
 </div>

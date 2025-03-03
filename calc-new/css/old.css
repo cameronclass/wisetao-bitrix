@@ -1,6 +1,3 @@
-
-
-
 /*Одобрено*/
 .add-container {
   display: flex;
@@ -326,8 +323,6 @@
   font-size: 12px;
   overflow: visible;
 }
-
-
 
 .main-calc img.pop-up-ads-banner {
   width: 100%;
@@ -1274,8 +1269,6 @@ label.dimensions-label {
   outline: none;
 }
 
-
-
 .custom-input-label-dimensions.active {
   color: white;
 }
@@ -1773,9 +1766,6 @@ label.dimensions-label {
   margin-bottom: -5px;
   margin-top: -3px;
 }
-
-
-
 
 .delivery-types-dropdown {
   position: relative;
@@ -3169,5 +3159,3 @@ ymaps {
     gap: 10px;
   }
 }
-
-
