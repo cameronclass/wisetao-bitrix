@@ -1,4 +1,15 @@
 <?
+define("BX_USE_MYSQLI", true);
+define("DBPersistent", false);
+
+$DBType = "mysql";
+$DBHost = "localhost";
+$DBLogin = "localhost";
+$DBPassword = "";
+$DBName = "bitrix_local";
+$DBDebug = false;
+$DBDebugToFile = false;
+
 date_default_timezone_set("Asia/Yakutsk");
 
 define("DELAY_DB_CONNECT", true);
