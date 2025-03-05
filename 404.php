@@ -1,8 +1,8 @@
 <?
-include_once($_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/main/include/urlrewrite.php');
-require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+include_once($_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/main/include/urlrewrite.php');
+require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 ?>
-<?$APPLICATION->SetPageProperty("title","Ошибка 404. Страница не найдена.");?>
+<? $APPLICATION->SetPageProperty("title", "Ошибка 404. Страница не найдена."); ?>
 <div class="content-page__page">
     <div class="content-page__title">
         <div class="content-page__title_block"></div>
@@ -15,9 +15,9 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
                 <div class="error-page__link">Перейти на <a href="/">Главную страницу</a></div>
             </div>
             <div class="error-page__img">
-                <img src="<?=SITE_TEMPLATE_PATH?>/assets/images/404.png" alt="">
+                <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/404.png" alt="">
             </div>
         </div>
     </div>
 </div>
-<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>

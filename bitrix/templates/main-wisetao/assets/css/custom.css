@@ -10553,14 +10553,14 @@ button:focus {
   gap: 12px;
 }
 
-.main-menu__main_link_icon{
+.main-menu__main_link_icon {
   display: none;
 }
 @media screen and (max-width: 767px) {
   .main-menu__main_link {
     padding: 10px 0;
   }
-  .main-menu__main_link_icon{
+  .main-menu__main_link_icon {
     display: flex;
     align-items: center;
   }
@@ -10571,7 +10571,7 @@ button:focus {
 .main-menu__main_link.active {
   color: white;
 }
-.main-menu__main_link.active .main-menu__main_link_icon img{
+.main-menu__main_link.active .main-menu__main_link_icon img {
   filter: brightness(10);
 }
 .main-menu__main_link.active::after {

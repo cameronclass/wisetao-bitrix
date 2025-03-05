@@ -1,16 +1,20 @@
-<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");?>
-<?$APPLICATION->SetPageProperty("title","FAQ");?>
+<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php"); ?>
+<? $APPLICATION->SetPageProperty("title", "FAQ"); ?>
 <div class="content-page__page" itemscope itemtype="https://schema.org/FAQPage">
     <div class="content-page__title" data-aos="fade-up">
         <div class="content-page__title_block content-page__title_block_faq">
-            <h1 class="content-page__title_text">ЧАСТО ЗАДАВАЕМЫЕ <br> ВОПРОСЫ <span class="text-orange">(FAQ)</span></h1>
+            <h1 class="content-page__title_text">ЧАСТО ЗАДАВАЕМЫЕ <br> ВОПРОСЫ <span class="text-orange">(FAQ)</span>
+            </h1>
         </div>
     </div>
     <div class="content-page__content">
         <div class="faq-page">
             <?
-                BXClearCache('/s3/bitrix/news.list/');
-                $APPLICATION->IncludeComponent("bitrix:news.list", "faqs", Array(
+            BXClearCache('/s3/bitrix/news.list/');
+            $APPLICATION->IncludeComponent(
+                "bitrix:news.list",
+                "faqs",
+                array(
                     "ACTIVE_DATE_FORMAT" => "d.m.Y",
                     "ADD_SECTIONS_CHAIN" => "N",
                     "AJAX_MODE" => "Y",
@@ -67,44 +71,44 @@
                     "SORT_ORDER1" => "ASC",
                     "SORT_ORDER2" => "DESC",
                 ),
-                    false
-                );?>
+                false
+            ); ?>
             <div class="question-block" data-aos="fade-up">
 
                 <?
-                    $APPLICATION->IncludeComponent(
-                        "bitrix:form.result.new",
-                        "question_collaboration_email", // Имя вашего шаблона
-                        array(
-                            "WEB_FORM_ID" => "1", // ID вашей веб-формы
-                            "COMPONENT_TEMPLATE" => "question_collaboration_email",
-                            "LIST_URL" => "",
-                            "IGNORE_CUSTOM_TEMPLATE" => "N",
-                            "USE_EXTENDED_ERRORS" => "N",
-                            "SEF_MODE" => "Y",
-                            "AJAX_MODE" => "Y",
-                            "AJAX_OPTION_JUMP" => "N",
-                            "AJAX_OPTION_STYLE" => "N",
-                            "AJAX_OPTION_HISTORY" => "N",
-                            "SEF_FOLDER" => "",
-                            "CACHE_TYPE" => "A",
-                            "CACHE_TIME" => "3600",
-                            "EDIT_URL" => "",
-                            "SUCCESS_URL" => "",
-                            "CHAIN_ITEM_TEXT" => "",
-                            "CHAIN_ITEM_LINK" => "",
-                            "VARIABLE_ALIASES" => array(
-                                "RESULT_ID" => "",
-                                "WEB_FORM_ID" => "",
-                                "formresult" => "",
-                            ),
-                        )
-                    );
-                    ?>
+                $APPLICATION->IncludeComponent(
+                    "bitrix:form.result.new",
+                    "question_collaboration_email", // Имя вашего шаблона
+                    array(
+                        "WEB_FORM_ID" => "1", // ID вашей веб-формы
+                        "COMPONENT_TEMPLATE" => "question_collaboration_email",
+                        "LIST_URL" => "",
+                        "IGNORE_CUSTOM_TEMPLATE" => "N",
+                        "USE_EXTENDED_ERRORS" => "N",
+                        "SEF_MODE" => "Y",
+                        "AJAX_MODE" => "Y",
+                        "AJAX_OPTION_JUMP" => "N",
+                        "AJAX_OPTION_STYLE" => "N",
+                        "AJAX_OPTION_HISTORY" => "N",
+                        "SEF_FOLDER" => "",
+                        "CACHE_TYPE" => "A",
+                        "CACHE_TIME" => "3600",
+                        "EDIT_URL" => "",
+                        "SUCCESS_URL" => "",
+                        "CHAIN_ITEM_TEXT" => "",
+                        "CHAIN_ITEM_LINK" => "",
+                        "VARIABLE_ALIASES" => array(
+                            "RESULT_ID" => "",
+                            "WEB_FORM_ID" => "",
+                            "formresult" => "",
+                        ),
+                    )
+                );
+                ?>
 
             </div>
         </div>
     </div>
 </div>
 <div class="content-page__more"></div>
-<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>

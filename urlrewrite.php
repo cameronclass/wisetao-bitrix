@@ -2,7 +2,7 @@
 
 $iblockId = 32;
 
-require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
+require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/main/include/prolog_before.php");
 
 if (!\Bitrix\Main\Loader::includeModule("iblock")) {
     die('Error loading iblock module');
@@ -78,28 +78,28 @@ $fourthLevelElementsString = implode('|', $fourthLevelCodes);
 // Обновление правил в массиве $arUrlRewrite
 $arUrlRewrite = array(
     17 => array(
-        'CONDITION' => '#^/(from-china|in-china)/('.$secondLevelElementsString.')/('.$thirdLevelElementsString.')/('.$fourthLevelElementsString.')((?:/bitrix_include_areas-([YN]))?)/(\?.*)?$#',
+        'CONDITION' => '#^/(from-china|in-china)/(' . $secondLevelElementsString . ')/(' . $thirdLevelElementsString . ')/(' . $fourthLevelElementsString . ')((?:/bitrix_include_areas-([YN]))?)/(\?.*)?$#',
         'RULE' => 'direct-china=$1&data-in-level=$3&data-in-menu=$2&name=$4&bitrix_include_areas=$6$7',
         'ID' => '',
         'PATH' => '/marketing.php',
         'SORT' => 100,
     ),
     11 => array(
-        'CONDITION' => '#^/(from-china|in-china)/('.$secondLevelElementsString.')/('.$thirdLevelElementsString.')((?:/bitrix_include_areas-([YN]))*)/(\?.*)?$#',
+        'CONDITION' => '#^/(from-china|in-china)/(' . $secondLevelElementsString . ')/(' . $thirdLevelElementsString . ')((?:/bitrix_include_areas-([YN]))*)/(\?.*)?$#',
         'RULE' => 'direct-china=$1&data-in-menu=$2&name=$3&bitrix_include_areas=$5',
         'ID' => '',
         'PATH' => '/marketing.php',
         'SORT' => 100,
     ),
     10 => array(
-        'CONDITION' => '#^/(from-china|in-china)/('.$secondLevelElementsString.')((?:/bitrix_include_areas-([YN]))*)/(\?.*)?$#',
+        'CONDITION' => '#^/(from-china|in-china)/(' . $secondLevelElementsString . ')((?:/bitrix_include_areas-([YN]))*)/(\?.*)?$#',
         'RULE' => 'direct-china=$1&name=$2&bitrix_include_areas=$4',
         'ID' => '',
         'PATH' => '/marketing.php',
         'SORT' => 100,
     ),
     6 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/(about)/(contacts)((?:/bitrix_include_areas-([YN]))*)/(.*)#',
             'RULE' => 'direct-china=$1&data-in-menu=$2&name=$3&bitrix_include_areas=$5$6',
             'ID' => '',
@@ -107,7 +107,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     4 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/(about)/(blog)/([a-zA-Z0-9-]+-([0-9]+))/(.*)#',
             'RULE' => 'direct-china=$1&data-in-menu=$2&name=$3&ID=$5$6',
             'ID' => '',
@@ -115,7 +115,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     3 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/(about)/(company-history)/(.*)#',
             'RULE' => 'direct-china=$1&data-in-menu=$2&name=$3$4',
             'ID' => '',
@@ -123,7 +123,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     13 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/(about)/(reviews)/(.*)#',
             'RULE' => 'direct-china=$1&data-in-menu=$2&name=$3$4',
             'ID' => '',
@@ -131,7 +131,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     19 =>
-        array (
+        array(
             'CONDITION' => '#^/(hash-[a-zA-Z0-9-]+)/(data-in-level-[a-zA-Z0-9-]+)/#',
             'RULE' => 'data-in-menu=$1&data-in-level=$2',
             'ID' => '',
@@ -139,7 +139,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     5 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/(about)/(blog)/(.*)#',
             'RULE' => 'direct-china=$1&data-in-menu=$2&name=$3$4',
             'ID' => '',
@@ -147,7 +147,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     8 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/(about)/(faq)/(.*)#',
             'RULE' => 'direct-china=$1&data-in-menu=$2&name=$3$4',
             'ID' => '',
@@ -155,7 +155,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     9 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/(logistic)/(.*)$#',
             'RULE' => 'direct-china=$1&data-in-menu=$2',
             'ID' => '',
@@ -163,7 +163,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     7 =>
-        array (
+        array(
             'CONDITION' => '#^/developing/([a-zA-Z0-9-]+)/(.*)$#',
             'RULE' => 'direct-china=$1$2',
             'ID' => '',
@@ -171,7 +171,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     18 =>
-        array (
+        array(
             'CONDITION' => '#^/bitrix_include_areas-([YN])/$#',
             'RULE' => 'bitrix_include_areas=$1',
             'ID' => '',
@@ -179,7 +179,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     16 =>
-        array (
+        array(
             'CONDITION' => '#^/(from-china|in-china)/$#',
             'RULE' => '',
             'ID' => 'bitrix:form.result.new',
@@ -187,7 +187,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     0 =>
-        array (
+        array(
             'CONDITION' => '#^/bitrix/services/ymarket/#',
             'RULE' => '',
             'ID' => '',
@@ -195,7 +195,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     15 =>
-        array (
+        array(
             'CONDITION' => '#^/(hash-[a-zA-Z0-9-]+)/#',
             'RULE' => 'data-in-menu=$1',
             'ID' => '',
@@ -203,7 +203,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     1 =>
-        array (
+        array(
             'CONDITION' => '#^/novosti/#',
             'RULE' => '',
             'ID' => 'bitrix:news',
@@ -211,7 +211,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     2 =>
-        array (
+        array(
             'CONDITION' => '#^/rest/#',
             'RULE' => '',
             'ID' => NULL,
@@ -219,7 +219,7 @@ $arUrlRewrite = array(
             'SORT' => 100,
         ),
     14 =>
-        array (
+        array(
             'CONDITION' => '#^/$#',
             'RULE' => '',
             'ID' => '',

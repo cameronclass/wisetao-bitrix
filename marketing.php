@@ -272,7 +272,8 @@ $page_url = $APPLICATION->GetCurPage(true);
                                 <div class="calc-panel__text">Самостоятельно сделайте расчет доставки за 1 минуту! И
                                     выберите оптимальный для вас вариант.
                                 </div>
-                                <a href="/<?= $_GET['direct-china'] ?>/logistic/" class="calc-panel__link" onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'tap_to_calculator'}); return true;">Рассчитать</a>
+                                <a href="/<?= $_GET['direct-china'] ?>/logistic/" class="calc-panel__link"
+                                    onclick="_tmr.push({ type: 'reachGoal', id: 3555455, goal: 'tap_to_calculator'}); return true;">Рассчитать</a>
                             </div>
                             <?
                             $sectionId = SectionTable::getList([
@@ -289,68 +290,71 @@ $page_url = $APPLICATION->GetCurPage(true);
                                 // Другие необходимые условия фильтрации
                             ];
                             BXClearCache('/s3/bitrix/news.list/');
-                            $APPLICATION->IncludeComponent("bitrix:news.list", "blog_articles_from_marketing", array(
-                                "ACTIVE_DATE_FORMAT" => "d.m.Y",
-                                "ADD_SECTIONS_CHAIN" => "N",
-                                "AJAX_MODE" => "N",
-                                "AJAX_OPTION_ADDITIONAL" => "",
-                                "AJAX_OPTION_HISTORY" => "N",
-                                "AJAX_OPTION_JUMP" => "N",
-                                "AJAX_OPTION_STYLE" => "Y",
-                                "CACHE_FILTER" => "N",
-                                "CACHE_GROUPS" => "Y",
-                                "CACHE_TIME" => "36000000",
-                                "CACHE_TYPE" => "A",
-                                "CHECK_DATES" => "Y",
-                                "DETAIL_URL" => "",
-                                "DISPLAY_BOTTOM_PAGER" => "N",
-                                "DISPLAY_DATE" => "N",
-                                "DISPLAY_NAME" => "N",
-                                "DISPLAY_PICTURE" => "Y",
-                                "DISPLAY_PREVIEW_TEXT" => "Y",
-                                "DISPLAY_TOP_PAGER" => "N",
-                                "FIELD_CODE" => array(
-                                    0 => "ID",
-                                    1 => "CODE",
-                                    2 => "NAME",
-                                    3 => "PREVIEW_PICTURE",
-                                    4 => "PREVIEW_TEXT",
-                                    5 => "DATE_CREATE",
+                            $APPLICATION->IncludeComponent(
+                                "bitrix:news.list",
+                                "blog_articles_from_marketing",
+                                array(
+                                    "ACTIVE_DATE_FORMAT" => "d.m.Y",
+                                    "ADD_SECTIONS_CHAIN" => "N",
+                                    "AJAX_MODE" => "N",
+                                    "AJAX_OPTION_ADDITIONAL" => "",
+                                    "AJAX_OPTION_HISTORY" => "N",
+                                    "AJAX_OPTION_JUMP" => "N",
+                                    "AJAX_OPTION_STYLE" => "Y",
+                                    "CACHE_FILTER" => "N",
+                                    "CACHE_GROUPS" => "Y",
+                                    "CACHE_TIME" => "36000000",
+                                    "CACHE_TYPE" => "A",
+                                    "CHECK_DATES" => "Y",
+                                    "DETAIL_URL" => "",
+                                    "DISPLAY_BOTTOM_PAGER" => "N",
+                                    "DISPLAY_DATE" => "N",
+                                    "DISPLAY_NAME" => "N",
+                                    "DISPLAY_PICTURE" => "Y",
+                                    "DISPLAY_PREVIEW_TEXT" => "Y",
+                                    "DISPLAY_TOP_PAGER" => "N",
+                                    "FIELD_CODE" => array(
+                                        0 => "ID",
+                                        1 => "CODE",
+                                        2 => "NAME",
+                                        3 => "PREVIEW_PICTURE",
+                                        4 => "PREVIEW_TEXT",
+                                        5 => "DATE_CREATE",
+                                    ),
+                                    "FILE_404" => "",
+                                    "FILTER_NAME" => "arFilter",
+                                    "HIDE_LINK_WHEN_NO_DETAIL" => "N",
+                                    "IBLOCK_ID" => "17",
+                                    "IBLOCK_TYPE" => "blog",
+                                    "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+                                    "INCLUDE_SUBSECTIONS" => "N",
+                                    "MESSAGE_404" => "",
+                                    "NEWS_COUNT" => 4,
+                                    "PAGER_BASE_LINK_ENABLE" => "N",
+                                    "PAGER_DESC_NUMBERING" => "N",
+                                    "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+                                    "PAGER_SHOW_ALL" => "N",
+                                    "PAGER_SHOW_ALWAYS" => "N",
+                                    "PAGER_TEMPLATE" => ".default",
+                                    "PAGER_TITLE" => "Блог (статьи и тэги)",
+                                    "PARENT_SECTION" => "",
+                                    "PARENT_SECTION_CODE" => "",
+                                    "PREVIEW_TRUNCATE_LEN" => "",
+                                    "PROPERTY_CODE" => array(
+                                        0 => "TAGS",
+                                    ),
+                                    "SET_BROWSER_TITLE" => "N",
+                                    "SET_LAST_MODIFIED" => "N",
+                                    "SET_META_DESCRIPTION" => "N",
+                                    "SET_META_KEYWORDS" => "N",
+                                    "SET_STATUS_404" => "N",
+                                    "SET_TITLE" => "N",
+                                    "SHOW_404" => "N",
+                                    "SORT_BY1" => "SORT",
+                                    "SORT_BY2" => "DATE_CREATE",
+                                    "SORT_ORDER1" => "ASC",
+                                    "SORT_ORDER2" => "DESC",
                                 ),
-                                "FILE_404" => "",
-                                "FILTER_NAME" => "arFilter",
-                                "HIDE_LINK_WHEN_NO_DETAIL" => "N",
-                                "IBLOCK_ID" => "17",
-                                "IBLOCK_TYPE" => "blog",
-                                "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
-                                "INCLUDE_SUBSECTIONS" => "N",
-                                "MESSAGE_404" => "",
-                                "NEWS_COUNT" => 4,
-                                "PAGER_BASE_LINK_ENABLE" => "N",
-                                "PAGER_DESC_NUMBERING" => "N",
-                                "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
-                                "PAGER_SHOW_ALL" => "N",
-                                "PAGER_SHOW_ALWAYS" => "N",
-                                "PAGER_TEMPLATE" => ".default",
-                                "PAGER_TITLE" => "Блог (статьи и тэги)",
-                                "PARENT_SECTION" => "",
-                                "PARENT_SECTION_CODE" => "",
-                                "PREVIEW_TRUNCATE_LEN" => "",
-                                "PROPERTY_CODE" => array(
-                                    0 => "TAGS",
-                                ),
-                                "SET_BROWSER_TITLE" => "N",
-                                "SET_LAST_MODIFIED" => "N",
-                                "SET_META_DESCRIPTION" => "N",
-                                "SET_META_KEYWORDS" => "N",
-                                "SET_STATUS_404" => "N",
-                                "SET_TITLE" => "N",
-                                "SHOW_404" => "N",
-                                "SORT_BY1" => "SORT",
-                                "SORT_BY2" => "DATE_CREATE",
-                                "SORT_ORDER1" => "ASC",
-                                "SORT_ORDER2" => "DESC",
-                            ),
                                 false
                             );
                             ?>
@@ -374,20 +378,20 @@ $page_url = $APPLICATION->GetCurPage(true);
                                     </div>',
                     ]
                     : ($_GET['name'] != 'photo-video-report' &&
-                    $_GET['name'] != 'redemption-1688-taobao' &&
-                    $_GET['name'] != 'photo-video-shooting' &&
-                    $_GET['name'] != 'printery' &&
-                    $_GET['name'] != 'language-adaptation' &&
-                    $_GET['name'] != 'develop-design' &&
-                    $_GET['name'] != 'reg-domen' &&
-                    $_GET['name'] != 'hosting-cn' &&
-                    $_GET['name'] != 'website-develop' &&
-                    $_GET['name'] != 'icp-license' &&
-                    $_GET['name'] != 'mobile-app' &&
-                    $_GET['name'] != 'photo-studio' &&
-                    $_GET['name'] != 'transferMoney-company' &&
-                    $_GET['data-in-menu'] != 'cons' &&
-                    $_GET['name'] != 'invitation-cn' ?
+                        $_GET['name'] != 'redemption-1688-taobao' &&
+                        $_GET['name'] != 'photo-video-shooting' &&
+                        $_GET['name'] != 'printery' &&
+                        $_GET['name'] != 'language-adaptation' &&
+                        $_GET['name'] != 'develop-design' &&
+                        $_GET['name'] != 'reg-domen' &&
+                        $_GET['name'] != 'hosting-cn' &&
+                        $_GET['name'] != 'website-develop' &&
+                        $_GET['name'] != 'icp-license' &&
+                        $_GET['name'] != 'mobile-app' &&
+                        $_GET['name'] != 'photo-studio' &&
+                        $_GET['name'] != 'transferMoney-company' &&
+                        $_GET['data-in-menu'] != 'cons' &&
+                        $_GET['name'] != 'invitation-cn' ?
                         [
                             'IBLOCK_ID' => '31',
                             'template' => 'cases_marketing',
@@ -453,7 +457,9 @@ $page_url = $APPLICATION->GetCurPage(true);
             <?= $templateIblockNames['first']['open'] ?>
             <?
                 //FIRST_INCLUDE
-                $APPLICATION->IncludeComponent("bitrix:news.list", $templateIblockNames['first']['template'],
+                $APPLICATION->IncludeComponent(
+                    "bitrix:news.list",
+                    $templateIblockNames['first']['template'],
                     array(
                         "ACTIVE_DATE_FORMAT" => "d.m.Y",
                         "ADD_SECTIONS_CHAIN" => "N",
@@ -541,7 +547,9 @@ $page_url = $APPLICATION->GetCurPage(true);
                 // Другие необходимые условия фильтрации
             ];
             //SECOND_INCLUDE
-            $APPLICATION->IncludeComponent("bitrix:news.list", $templateIblockNames['second']['template'],
+            $APPLICATION->IncludeComponent(
+                "bitrix:news.list",
+                $templateIblockNames['second']['template'],
                 array(
                     "ACTIVE_DATE_FORMAT" => "d.m.Y",
                     "ADD_SECTIONS_CHAIN" => "N",
@@ -615,135 +623,141 @@ $page_url = $APPLICATION->GetCurPage(true);
             <?= $templateIblockNames['second']['close'] ?>
             <?
             BXClearCache('/s3/bitrix/news.list/');
-            $APPLICATION->IncludeComponent("bitrix:news.list", "faqs_from_marketing", array(
-                "ACTIVE_DATE_FORMAT" => "d.m.Y",
-                "ADD_SECTIONS_CHAIN" => "N",
-                "AJAX_MODE" => "N",
-                "AJAX_OPTION_ADDITIONAL" => "",
-                "AJAX_OPTION_HISTORY" => "N",
-                "AJAX_OPTION_JUMP" => "N",
-                "AJAX_OPTION_STYLE" => "Y",
-                "CACHE_FILTER" => "N",
-                "CACHE_GROUPS" => "Y",
-                "CACHE_TIME" => "36000000",
-                "CACHE_TYPE" => "A",
-                "CHECK_DATES" => "Y",
-                "DETAIL_URL" => "",
-                "DISPLAY_BOTTOM_PAGER" => "N",
-                "DISPLAY_DATE" => "N",
-                "DISPLAY_NAME" => "N",
-                "DISPLAY_PICTURE" => "Y",
-                "DISPLAY_PREVIEW_TEXT" => "Y",
-                "DISPLAY_TOP_PAGER" => "N",
-                "FIELD_CODE" => array(
-                    0 => "ID",
-                    1 => "CODE",
-                    2 => "NAME",
-                    3 => "PREVIEW_PICTURE",
-                    4 => "PREVIEW_TEXT",
+            $APPLICATION->IncludeComponent(
+                "bitrix:news.list",
+                "faqs_from_marketing",
+                array(
+                    "ACTIVE_DATE_FORMAT" => "d.m.Y",
+                    "ADD_SECTIONS_CHAIN" => "N",
+                    "AJAX_MODE" => "N",
+                    "AJAX_OPTION_ADDITIONAL" => "",
+                    "AJAX_OPTION_HISTORY" => "N",
+                    "AJAX_OPTION_JUMP" => "N",
+                    "AJAX_OPTION_STYLE" => "Y",
+                    "CACHE_FILTER" => "N",
+                    "CACHE_GROUPS" => "Y",
+                    "CACHE_TIME" => "36000000",
+                    "CACHE_TYPE" => "A",
+                    "CHECK_DATES" => "Y",
+                    "DETAIL_URL" => "",
+                    "DISPLAY_BOTTOM_PAGER" => "N",
+                    "DISPLAY_DATE" => "N",
+                    "DISPLAY_NAME" => "N",
+                    "DISPLAY_PICTURE" => "Y",
+                    "DISPLAY_PREVIEW_TEXT" => "Y",
+                    "DISPLAY_TOP_PAGER" => "N",
+                    "FIELD_CODE" => array(
+                        0 => "ID",
+                        1 => "CODE",
+                        2 => "NAME",
+                        3 => "PREVIEW_PICTURE",
+                        4 => "PREVIEW_TEXT",
+                    ),
+                    "FILE_404" => "",
+                    "FILTER_NAME" => "",
+                    "HIDE_LINK_WHEN_NO_DETAIL" => "N",
+                    "IBLOCK_ID" => "23",
+                    "IBLOCK_TYPE" => "faqs",
+                    "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+                    "INCLUDE_SUBSECTIONS" => "N",
+                    "MESSAGE_404" => "",
+                    "NEWS_COUNT" => 100,
+                    "PROPERTY_CODE" => array(
+                        0 => "TITLE",
+                    ),
+                    "PAGER_BASE_LINK_ENABLE" => "N",
+                    "PAGER_DESC_NUMBERING" => "N",
+                    "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+                    "PAGER_SHOW_ALL" => "N",
+                    "PAGER_SHOW_ALWAYS" => "N",
+                    "PAGER_TEMPLATE" => ".default",
+                    "PAGER_TITLE" => "Популярные вопросы",
+                    "PARENT_SECTION" => "",
+                    "PARENT_SECTION_CODE" => "",
+                    "PREVIEW_TRUNCATE_LEN" => "",
+                    "SET_BROWSER_TITLE" => "N",
+                    "SET_LAST_MODIFIED" => "N",
+                    "SET_META_DESCRIPTION" => "N",
+                    "SET_META_KEYWORDS" => "N",
+                    "SET_STATUS_404" => "N",
+                    "SET_TITLE" => "N",
+                    "SHOW_404" => "N",
+                    "SORT_BY1" => "DATE_CREATE",
+                    "SORT_BY2" => "SORT",
+                    "SORT_ORDER1" => "ASC",
+                    "SORT_ORDER2" => "ASC",
                 ),
-                "FILE_404" => "",
-                "FILTER_NAME" => "",
-                "HIDE_LINK_WHEN_NO_DETAIL" => "N",
-                "IBLOCK_ID" => "23",
-                "IBLOCK_TYPE" => "faqs",
-                "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
-                "INCLUDE_SUBSECTIONS" => "N",
-                "MESSAGE_404" => "",
-                "NEWS_COUNT" => 100,
-                "PROPERTY_CODE" => array(
-                    0 => "TITLE",
-                ),
-                "PAGER_BASE_LINK_ENABLE" => "N",
-                "PAGER_DESC_NUMBERING" => "N",
-                "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
-                "PAGER_SHOW_ALL" => "N",
-                "PAGER_SHOW_ALWAYS" => "N",
-                "PAGER_TEMPLATE" => ".default",
-                "PAGER_TITLE" => "Популярные вопросы",
-                "PARENT_SECTION" => "",
-                "PARENT_SECTION_CODE" => "",
-                "PREVIEW_TRUNCATE_LEN" => "",
-                "SET_BROWSER_TITLE" => "N",
-                "SET_LAST_MODIFIED" => "N",
-                "SET_META_DESCRIPTION" => "N",
-                "SET_META_KEYWORDS" => "N",
-                "SET_STATUS_404" => "N",
-                "SET_TITLE" => "N",
-                "SHOW_404" => "N",
-                "SORT_BY1" => "DATE_CREATE",
-                "SORT_BY2" => "SORT",
-                "SORT_ORDER1" => "ASC",
-                "SORT_ORDER2" => "ASC",
-            ),
                 false
             ); ?>
             <?
             BXClearCache('/s3/bitrix/news.list/');
-            $APPLICATION->IncludeComponent("bitrix:news.list", "reviews_from_marketing", array(
-                "ACTIVE_DATE_FORMAT" => "d.m.Y",
-                "ADD_SECTIONS_CHAIN" => "N",
-                "AJAX_MODE" => "N",
-                "AJAX_OPTION_ADDITIONAL" => "",
-                "AJAX_OPTION_HISTORY" => "N",
-                "AJAX_OPTION_JUMP" => "N",
-                "AJAX_OPTION_STYLE" => "Y",
-                "CACHE_FILTER" => "N",
-                "CACHE_GROUPS" => "Y",
-                "CACHE_TIME" => "36000000",
-                "CACHE_TYPE" => "A",
-                "CHECK_DATES" => "Y",
-                "DETAIL_URL" => "",
-                "DISPLAY_BOTTOM_PAGER" => "N",
-                "DISPLAY_DATE" => "N",
-                "DISPLAY_NAME" => "N",
-                "DISPLAY_PICTURE" => "Y",
-                "DISPLAY_PREVIEW_TEXT" => "Y",
-                "DISPLAY_TOP_PAGER" => "N",
-                "FIELD_CODE" => array(
-                    0 => "ID",
-                    1 => "CODE",
-                    2 => "NAME",
-                    3 => "PREVIEW_PICTURE",
-                    4 => "PREVIEW_TEXT",
+            $APPLICATION->IncludeComponent(
+                "bitrix:news.list",
+                "reviews_from_marketing",
+                array(
+                    "ACTIVE_DATE_FORMAT" => "d.m.Y",
+                    "ADD_SECTIONS_CHAIN" => "N",
+                    "AJAX_MODE" => "N",
+                    "AJAX_OPTION_ADDITIONAL" => "",
+                    "AJAX_OPTION_HISTORY" => "N",
+                    "AJAX_OPTION_JUMP" => "N",
+                    "AJAX_OPTION_STYLE" => "Y",
+                    "CACHE_FILTER" => "N",
+                    "CACHE_GROUPS" => "Y",
+                    "CACHE_TIME" => "36000000",
+                    "CACHE_TYPE" => "A",
+                    "CHECK_DATES" => "Y",
+                    "DETAIL_URL" => "",
+                    "DISPLAY_BOTTOM_PAGER" => "N",
+                    "DISPLAY_DATE" => "N",
+                    "DISPLAY_NAME" => "N",
+                    "DISPLAY_PICTURE" => "Y",
+                    "DISPLAY_PREVIEW_TEXT" => "Y",
+                    "DISPLAY_TOP_PAGER" => "N",
+                    "FIELD_CODE" => array(
+                        0 => "ID",
+                        1 => "CODE",
+                        2 => "NAME",
+                        3 => "PREVIEW_PICTURE",
+                        4 => "PREVIEW_TEXT",
+                    ),
+                    "FILE_404" => "",
+                    "FILTER_NAME" => "",
+                    "HIDE_LINK_WHEN_NO_DETAIL" => "N",
+                    "IBLOCK_ID" => "21",
+                    "IBLOCK_TYPE" => "reviews",
+                    "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+                    "INCLUDE_SUBSECTIONS" => "N",
+                    "MESSAGE_404" => "",
+                    "NEWS_COUNT" => 500,
+                    "PROPERTY_CODE" => array(
+                        0 => "TOPICS",
+                        1 => "SERVICES",
+                        2 => "REVIEWER_NAME",
+                        3 => "REVIEW_TYPE",
+                    ),
+                    "PAGER_BASE_LINK_ENABLE" => "N",
+                    "PAGER_DESC_NUMBERING" => "N",
+                    "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+                    "PAGER_SHOW_ALL" => "N",
+                    "PAGER_SHOW_ALWAYS" => "N",
+                    "PAGER_TEMPLATE" => ".default",
+                    "PAGER_TITLE" => "Отзывы",
+                    "PARENT_SECTION" => "",
+                    "PARENT_SECTION_CODE" => "",
+                    "PREVIEW_TRUNCATE_LEN" => "",
+                    "SET_BROWSER_TITLE" => "N",
+                    "SET_LAST_MODIFIED" => "N",
+                    "SET_META_DESCRIPTION" => "N",
+                    "SET_META_KEYWORDS" => "N",
+                    "SET_STATUS_404" => "N",
+                    "SET_TITLE" => "N",
+                    "SHOW_404" => "N",
+                    "SORT_BY1" => "DATE_CREATE",
+                    "SORT_BY2" => "SORT",
+                    "SORT_ORDER1" => "ASC",
+                    "SORT_ORDER2" => "ASC",
                 ),
-                "FILE_404" => "",
-                "FILTER_NAME" => "",
-                "HIDE_LINK_WHEN_NO_DETAIL" => "N",
-                "IBLOCK_ID" => "21",
-                "IBLOCK_TYPE" => "reviews",
-                "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
-                "INCLUDE_SUBSECTIONS" => "N",
-                "MESSAGE_404" => "",
-                "NEWS_COUNT" => 500,
-                "PROPERTY_CODE" => array(
-                    0 => "TOPICS",
-                    1 => "SERVICES",
-                    2 => "REVIEWER_NAME",
-                    3 => "REVIEW_TYPE",
-                ),
-                "PAGER_BASE_LINK_ENABLE" => "N",
-                "PAGER_DESC_NUMBERING" => "N",
-                "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
-                "PAGER_SHOW_ALL" => "N",
-                "PAGER_SHOW_ALWAYS" => "N",
-                "PAGER_TEMPLATE" => ".default",
-                "PAGER_TITLE" => "Отзывы",
-                "PARENT_SECTION" => "",
-                "PARENT_SECTION_CODE" => "",
-                "PREVIEW_TRUNCATE_LEN" => "",
-                "SET_BROWSER_TITLE" => "N",
-                "SET_LAST_MODIFIED" => "N",
-                "SET_META_DESCRIPTION" => "N",
-                "SET_META_KEYWORDS" => "N",
-                "SET_STATUS_404" => "N",
-                "SET_TITLE" => "N",
-                "SHOW_404" => "N",
-                "SORT_BY1" => "DATE_CREATE",
-                "SORT_BY2" => "SORT",
-                "SORT_ORDER1" => "ASC",
-                "SORT_ORDER2" => "ASC",
-            ),
                 false
             ); ?>
             <div class="question-block" data-aos="fade-up">

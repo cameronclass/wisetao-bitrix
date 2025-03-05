@@ -65,7 +65,8 @@
                         <div class="content-page__line">
                             <div class="content-page__line_block"></div>
                             <div class="content-page__line_content">
-                                <img class="content-page__line_active" src="assets/images/icons/menu-active-icon.svg" alt="">
+                                <img class="content-page__line_active" src="assets/images/icons/menu-active-icon.svg"
+                                    alt="">
                                 <img class="content-page__line_icon" src="assets/images/icons/menu-icon.svg" alt="">
                             </div>
                         </div>
@@ -73,19 +74,23 @@
                             <div class="row align-items-center">
                                 <div class="col-7">
                                     <h2>Мобильные приложения</h2>
-                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and
+                                        publishing industries for previewing layouts and visual mockups.</p>
                                 </div>
                                 <div class="col-5">
-                                    <img class="content-page__content_img" src="assets/images/icons/warehouse.svg" alt="">
+                                    <img class="content-page__content_img" src="assets/images/icons/warehouse.svg"
+                                        alt="">
                                 </div>
                                 <div class="col-5">
                                     <img class="content-page__content_img" src="assets/images/content-1.png" alt="">
                                 </div>
                                 <div class="col-7">
-                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and
+                                        publishing industries for previewing layouts and visual mockups.</p>
                                 </div>
                                 <div class="col-7">
-                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and
+                                        publishing industries for previewing layouts and visual mockups.</p>
                                 </div>
                                 <div class="col-5">
                                     <img class="content-page__content_img" src="assets/images/content-2.png" alt="">

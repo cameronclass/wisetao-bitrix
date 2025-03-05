@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    initializeDropDownLists();
-    initializeExpandButtons();
-    initializeToggleFAQItems();
+  initializeDropDownLists();
+  initializeExpandButtons();
+  initializeToggleFAQItems();
 });

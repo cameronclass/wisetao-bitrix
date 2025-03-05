@@ -404,8 +404,10 @@ bitrix/cache/
 bitrix/managed_cache/
 bitrix/tmp/
 bitrix/backup/
+bitrix/stack_cache
 upload/tmp/
 upload/resize_cache/
+
 bitrix/*.DS_Store
 
 # OS generated files
