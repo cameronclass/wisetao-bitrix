@@ -11571,7 +11571,7 @@ button:focus {
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
 }
-.marketing-review-card__text.active {
+.marketing-review-card__text._active {
   overflow: auto;
   display: inherit;
   -webkit-line-clamp: initial;
