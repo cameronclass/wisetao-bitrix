@@ -638,7 +638,8 @@ class PdfPrepare {
     this.getOfferWhiteDataComponents.sumDuty.value =
       state.clientData.tnvedSelectedImp;
     this.getOfferWhiteDataComponents.NDS.value = (State.nds * 100).toFixed(0);
-    this.getOfferWhiteDataComponents.Saide.value = state.whiteCargoRate;
+    this.getOfferWhiteDataComponents.Saide.value =
+      state.calculatedData.auto.pricePerKg.dollar;
 
     this.getOfferWhiteDataComponents.totalDuty.value = Math.round(
       state.calculatedData.auto.duty.ruble

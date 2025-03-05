@@ -1,2 +1,22 @@
 sudo lsof -i -P | grep LISTEN
 
+запуск и остановление сервера через терминал
+sudo /Applications/XAMPP/xamppfiles/xampp start
+sudo /Applications/XAMPP/xamppfiles/xampp restart
+sudo /Applications/XAMPP/xamppfiles/xampp stop
+
+показывает процессы какие запущены
+ps aux | grep httpd
+ps aux | grep mysqld
+
+файл настройки локального сервера
+sudo nano /Applications/XAMPP/xamppfiles/etc/httpd.conf
+
+Проверьте права доступа к файлам
+ls -ld /Applications/XAMPP/xamppfiles/htdocs/bitrix_site
+ls -l /Applications/XAMPP/xamppfiles/htdocs/bitrix_site
+
+проверка версию php на запущенном сервере
+cd /Applications/XAMPP/xamppfiles/bin
+./php -v
+

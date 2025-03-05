@@ -13,7 +13,7 @@
 
     $asset = Asset::getInstance();
 
-    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/custom.css?v=' . filemtime(SITE_TEMPLATE_PATH . '/assets/css/custom.css'), false, ['minify' => true]);
+    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/style.css?v=' . filemtime(SITE_TEMPLATE_PATH . '/assets/css/style.css'), false, ['minify' => true]);
     $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/changes.css?v=' . filemtime(SITE_TEMPLATE_PATH . '/assets/css/changes.css'), false, ['minify' => true]);
     $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/logistic.css?v=' . filemtime(SITE_TEMPLATE_PATH . '/assets/css/logistic.css'), false, ['minify' => true]);
     ?>

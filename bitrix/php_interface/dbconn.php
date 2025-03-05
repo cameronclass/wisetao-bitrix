@@ -30,10 +30,4 @@ define("BX_DIR_PERMISSIONS", 0755);
 @ini_set("memory_limit", "512M");
 define("BX_DISABLE_INDEX_PAGE", true);
 define('LOG_FILENAME', $_SERVER['DOCUMENT_ROOT'] . '/_main.log');
-
-
-// Минификация CSS/JS
-define("BX_COMPRESSED_CSS_JS", true); // Включаем сжатие
-define("BX_COMPOSITE_GROUP_SIZE", 8192); // Размер группы для объединения
-COption::SetOptionString("main", "compressed_js_css_path", "/upload/compressed/"); // Путь для сохранения
 ?>

@@ -135,8 +135,6 @@ $APPLICATION->SetPageProperty("title", $title);
                 </div>
             </div>
 
-            <?//require_once($_SERVER["DOCUMENT_ROOT"]."/calc-layout/calc-index.php") ?>
-
             <? require_once($_SERVER["DOCUMENT_ROOT"] . "/calc-new/index.php") ?>
 
             <div class="logistic-check">
