@@ -13,22 +13,10 @@
 
     $asset = Asset::getInstance();
 
-    // Указываем одну группу для всех файлов
-    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/custom.css', false, ['GROUP' => 'main_styles']);
-    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/changes.css', false, ['GROUP' => 'main_styles']);
-    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/logistic.css', false, ['GROUP' => 'main_styles']);
+    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/custom.css?v=' . filemtime(SITE_TEMPLATE_PATH . '/assets/css/custom.css'), false, ['minify' => true]);
+    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/changes.css?v=' . filemtime(SITE_TEMPLATE_PATH . '/assets/css/changes.css'), false, ['minify' => true]);
+    $asset->addCss(SITE_TEMPLATE_PATH . '/assets/css/logistic.css?v=' . filemtime(SITE_TEMPLATE_PATH . '/assets/css/logistic.css'), false, ['minify' => true]);
     ?>
-
-    <?
-    /*     use Bitrix\Main\Page\Asset;
-
-        $asset = Asset::getInstance();
-
-        $asset->addCss(SITE_TEMPLATE_PATH.'/assets/css/custom.css?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/css/custom.css'), false, ['minify' => true]);
-        $asset->addCss(SITE_TEMPLATE_PATH.'/assets/css/changes.css?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/css/changes.css'), false, ['minify' => true]);
-        $asset->addCss(SITE_TEMPLATE_PATH.'/assets/css/logistic.css?v='.filemtime(SITE_TEMPLATE_PATH.'/assets/css/logistic.css'), false, ['minify' => true]); */
-    ?>
-
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
