@@ -1,9 +1,6 @@
 <? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php"); ?>
 <? $APPLICATION->SetPageProperty("title", "Раздел в разработке."); ?>
 <div class="content-page__page">
-    <div class="content-page__title" data-aos="fade-up">
-        <div class="content-page__title_block"></div>
-    </div>
     <div class="content-page__content">
         <div class="error-page">
             <div class="error-page__developing">

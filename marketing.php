@@ -7,22 +7,20 @@ use Bitrix\Iblock\SectionTable;
 use Bitrix\Iblock\ElementTable;
 
 $query = ElementTable::query();
-
 $query->setSelect([
     'ID',
     'IBLOCK_ID',
     'NAME',
     'IBLOCK_SECTION_ID',
-    'CODE', // Символьный код раздела или элемента
+    'CODE',
 ]);
-
 $query->setFilter([
     'IBLOCK_ID' => 32,
-    '=CODE' => $_GET['name'] // Символьный код элемента
+    '=CODE' => $_GET['name']
 ]);
-
 $result = $query->exec();
 $element = $result->fetch();
+
 
 // Добавляем элементы в структуру
 
@@ -41,6 +39,22 @@ if ($element) {
     $serviceTitle = $elementProperties['SERVICE_TITTLE'];
     $getSectionId = $element['IBLOCK_SECTION_ID'];
     $in_dev = $elementProperties['IN_DEV'];
+    if (!empty($elementProperties['TITLE_IMG'])) {
+        $titleImage = CFile::GetPath($elementProperties['TITLE_IMG']);
+    }
+    // Получаем UF_TEXT_LONG из раздела
+    $sectionData = CIBlockSection::GetList(
+        [],
+        [
+            'ID' => $getSectionId,
+            'IBLOCK_ID' => 32,
+        ],
+        false,
+        [
+            'UF_TEXT_LONG',
+        ],
+    )->fetch();
+    $textLong = $sectionData['UF_TEXT_LONG'];
 } else {
     $element = CIBlockSection::GetList(
         [],
@@ -54,15 +68,19 @@ if ($element) {
             'IBLOCK_ID',
             'NAME',
             'IBLOCK_SECTION_ID',
-            'CODE', // Символьный код раздела или элемента
+            'CODE',
             'UF_SERVICE_TITTLE',
             'UF_IN_DEV',
+            'UF_TITLE_IMG',
+            'UF_TEXT_LONG',
         ],
     )->fetch();
     $title = $element['NAME'];
     $serviceTitle = $element['UF_SERVICE_TITTLE'];
     $getSectionId = $element['IBLOCK_SECTION_ID'];
     $in_dev = CUserFieldEnum::GetList([], ['ID' => $element['UF_IN_DEV'], 'USER_FIELD_NAME' => 'UF_IN_DEV',])->Fetch()['XML_ID'];
+    $titleImage = $element['UF_TITLE_IMG'] ? CFile::GetPath($element['UF_TITLE_IMG']) : '';
+    $textLong = $element['UF_TEXT_LONG'];
 }
 
 $sectionData = CIBlockSection::GetList(
@@ -118,6 +136,7 @@ if (isset($in_dev) && $in_dev == 'YES' || isset($in_dev_section) && $in_dev_sect
 <?
 $page_url = $APPLICATION->GetCurPage(true);
 ?>
+
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -149,11 +168,6 @@ $page_url = $APPLICATION->GetCurPage(true);
             "@type": "Place",
             "name": "China"
         },
-        "availableChannel": {
-            "@type": "ServiceChannel",
-            "serviceUrl": "https://wisetao.com<?= $page_url ?>",
-            "availableLanguage": ["Chinese", "Russian"]
-        },
         "offers": {
             "@type": "Offer",
             "url": "https://wisetao.com<?= $page_url ?>",
@@ -166,14 +180,21 @@ $page_url = $APPLICATION->GetCurPage(true);
     }
 }
 </script>
-
+<!-- textLong: <?= htmlspecialchars($textLong); ?> -->
 
 <div class="content-page__page">
-    <div class="content-page__title content-page__title_pages" data-aos="fade-up">
-        <div class="content-page__title_block">
-            <h1 class="content-page__title_text"><?= $title; ?></h1>
+    <div class="content-page__title
+    <?= $titleImage ? 'content-page__title_second' : '' ?>
+    <?= ($textLong == '1') ? 'content-page__title_long' : '' ?>
+    content-page__title_marketing" data-aos="fade-up">
+        <h1 class="content-page__title_text"><?= $title; ?></h1>
+        <?php if ($titleImage): ?>
+        <div class="content-page__title_img">
+            <img class="content-page__title_img_item" src="<?= $titleImage ?>" alt="<?= htmlspecialchars($title) ?>">
         </div>
+        <?php endif; ?>
     </div>
+
     <div class="content-page__content">
         <div class="marketing">
 
@@ -189,9 +210,8 @@ $page_url = $APPLICATION->GetCurPage(true);
                     ])->fetch()['ID'];
                     $arFilter = [
                         'IBLOCK_ID' => 33,
-                        'SECTION_ID' => $sectionId, // Фильтруем по ID раздела
-                        'ACTIVE' => 'Y', // Только активные элементы
-                        // Другие необходимые условия фильтрации
+                        'SECTION_ID' => $sectionId,
+                        'ACTIVE' => 'Y',
                     ];
                     $APPLICATION->IncludeComponent(
                         "bitrix:news.list",
@@ -374,7 +394,7 @@ $page_url = $APPLICATION->GetCurPage(true);
                         'title' => '<h2 class="group-title" data-aos="fade-up">' . $serviceTitle . '</h2>',
                         'open' => '',
                         'close' => '<div class="d-flex justify-content-center mb-5" data-aos="fade-up">
-                                        <a href="https://wisetao.com/in-china/logistic/" class="calc-btn">Рассчитать стоимость</a>
+                                        <a href="https://wisetao.com/from-china/logistic/" class="calc-btn">Рассчитать стоимость</a>
                                     </div>',
                     ]
                     : ($_GET['name'] != 'photo-video-report' &&
@@ -432,7 +452,7 @@ $page_url = $APPLICATION->GetCurPage(true);
                         'title' => '<h3 class="group-title" data-aos="fade-up">' . $serviceTitle . '</h3>',
                         'open' => '',
                         'close' => '<div class="d-flex justify-content-center mb-5" data-aos="fade-up">
-                                        <a href="https://wisetao.com/in-china/logistic/" class="calc-btn">Рассчитать стоимость</a>
+                                        <a href="https://wisetao.com/from-china/logistic/" class="calc-btn">Рассчитать стоимость</a>
                                     </div>',
                     ],
 

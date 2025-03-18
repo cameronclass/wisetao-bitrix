@@ -4,9 +4,6 @@ require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 ?>
 <? $APPLICATION->SetPageProperty("title", "Ошибка 404. Страница не найдена."); ?>
 <div class="content-page__page">
-    <div class="content-page__title">
-        <div class="content-page__title_block"></div>
-    </div>
     <div class="content-page__content">
         <div class="error-page">
             <div class="error-page__text">

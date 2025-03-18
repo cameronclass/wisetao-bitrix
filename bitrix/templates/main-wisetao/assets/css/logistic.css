@@ -819,6 +819,10 @@ body .navigations .swiper-button-next svg path {
   .block-mainServices__body {
     height: auto;
   }
+  .logistic-main-title {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 480px) {

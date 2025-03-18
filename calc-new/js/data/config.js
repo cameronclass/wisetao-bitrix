@@ -1,7 +1,5 @@
 // config.js
 export const CONFIG = {
-  botToken: "7077778313:AAGQu7UV0XiNs0z8aGDyQiCwaqzOEgZLnbQ",
-  chatId: "-413166690",
   redeemBotToken: "7773944407:AAEYhChPWpyvyDvDoBuYmKFaJShfDV30JIQ",
   redeemChatId: -4638573770,
   jsonPath: "../../calc-new/js/rates.json",
@@ -12,6 +10,7 @@ export const CONFIG = {
   railwayUrl:
     "https://api-calc.wisetao.com:4343/api/calculate-railway-expedition-delivery",
   kitUrl: "https://api-calc.wisetao.com:4343/api/calculate-kit-delivery",
+  api: "https://api-calc.wisetao.com:4343",
   daDataUrl:
     "https://suggestions.dadata.ru/suggestions/api/4_1/rs/geolocate/address",
   daDataToken: "9faf0df4e5f608e5e0f42f750b27009d5b4847ae",

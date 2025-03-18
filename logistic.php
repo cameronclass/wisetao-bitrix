@@ -12,7 +12,7 @@ $APPLICATION->SetPageProperty("title", $title);
                     <span class="text-orange">Онлайн</span> расчет <br> стоимости доставки
                     <!--                            и выкупа-->
                 </h3>
-                <button data-target=".js-how-to-use" data-class="active" class="marketing-review-links__item mb-4">Как
+                <button data-target=".js-how-to-use" data-class="active" class="main-btn _bordered mb-4">Как
                     пользоваться калькулятором?</button>
             </div>
 
@@ -676,43 +676,6 @@ $APPLICATION->SetPageProperty("title", $title);
                 </div>
             </div>
 
-            <!--                    <div class="partners">-->
-            <!--                        <h3 class="group-title">С НАМИ СОТРУДНИЧАЮТ</h3>-->
-            <!--                        <div class="partners__block">-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-1.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-2.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-3.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-4.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-4.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-3.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-2.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                            <div class="partners__item">-->
-            <!--                                <img class="partners__img" src="--><?php //=SITE_TEMPLATE_PATH ?>
-            <!--/assets/images/partner-1.svg" alt="">-->
-            <!--                            </div>-->
-            <!--                        </div>-->
-            <!--                    </div>-->
             <div class="logistic-reviews">
                 <div class="logistic-reviews__block">
                     <?

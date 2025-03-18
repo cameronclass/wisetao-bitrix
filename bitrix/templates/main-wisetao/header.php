@@ -121,8 +121,22 @@
                     </div>
                     <!--                    <dotlottie-player style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);z-index: 2;width: 300px;height: 300px;" src="--><?php //=SITE_TEMPLATE_PATH ?>
                     <!--/assets/js/logo.json" background="transparent" speed="1" style="width: 100%; height: 100%" direction="1" playMode="normal" autoplay></dotlottie-player>-->
-                    <button type="button" class="main-select__from">Из Китая</button>
-                    <button type="button" class="main-select__to">В Китай</button>
+                    <button type="button" class="main-select__from">
+                        <span>Из Китая</span>
+                        <svg class="main-select__to_icon" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path d="M7 7H17M17 7V17M17 7L7 17" stroke="#E8E8E8" stroke-width="1.5"
+                                stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </button>
+                    <button type="button" class="main-select__to">
+                        <span>В Китай</span>
+                        <svg class="main-select__to_icon" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path d="M7 7H17M17 7V17M17 7L7 17" stroke="#E8E8E8" stroke-width="1.5"
+                                stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </button>
                 </div>
 
                 <div class="main-select__menu">

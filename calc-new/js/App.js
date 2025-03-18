@@ -1,15 +1,15 @@
 // CalculatorApp.js
+import { Currency } from "./api/Currency.js";
+import { TnvedManager } from "./api/TnvedManager.js";
 import { Calculator } from "./calculations/Calculator.js";
+import KitDeliveryCalculator from "./calculations/KitDeliveryCalculator.js";
+import PriceSelector from "./calculations/PriceSelector.js";
+import RailwayExpeditionCalculator from "./calculations/RailwayExpeditionCalculator.js";
 import { CONFIG } from "./data/config.js";
+import { DataProvider } from "./data/DataProvider.js";
+import RedeemManager from "./data/RedeemManager.js";
 import { State } from "./data/State.js";
 import { UiRenderer } from "./ui/UiRenderer.js";
-import RailwayExpeditionCalculator from "./calculations/RailwayExpeditionCalculator.js";
-import KitDeliveryCalculator from "./calculations/KitDeliveryCalculator.js";
-import { Currency } from "./api/Currency.js";
-import { DataProvider } from "./data/DataProvider.js";
-import { TnvedManager } from "./api/TnvedManager.js";
-import PriceSelector from "./calculations/PriceSelector.js";
-import RedeemManager from "./data/RedeemManager.js";
 import FormValidation from "./validation/FormValidation.js?v=2.2";
 
 export class CalculatorApp {
@@ -37,7 +37,7 @@ export class CalculatorApp {
 
     // Загрузка курсов валют
     try {
-      const currency = new Currency(CONFIG.botToken, CONFIG.chatId);
+      const currency = new Currency(CONFIG.api);
       await currency.loadAndSaveRates();
       console.log("Курсы успешно сохранены", State.currencyRates);
     } catch (error) {

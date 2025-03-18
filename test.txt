@@ -20,3 +20,18 @@ ls -l /Applications/XAMPP/xamppfiles/htdocs/bitrix_site
 cd /Applications/XAMPP/xamppfiles/bin
 ./php -v
 
+
+Дать доступ к серверу записывать файлы
+ps aux | grep httpd
+sudo dscl . append /Groups/staff GroupMembership daemon
+sudo chmod -R 775 /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload
+
+Экспорт базы данных
+/Applications/XAMPP/xamppfiles/bin/mysqldump -u root -p bitrix_local > ~/Downloads/backup.sql
+
+
+В калькуляторе Laravel
+docker exec -it saide-apache-php bash
+cd /var/www/html/cargocalc
+php artisan make:controller CurrencyController
+

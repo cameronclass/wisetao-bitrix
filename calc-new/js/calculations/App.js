@@ -1,16 +1,16 @@
 // CalculatorApp.js
-import { Calculator } from "./Calculator.js?v=1.1";
+import { Currency } from "../api/Currency.js?v=1.1";
+import { TnvedManager } from "../api/TnvedManager.js?v=1.1";
 import { CONFIG } from "../data/config.js?v=1.1";
+import { DataProvider } from "../data/DataProvider.js?v=1.1";
+import RedeemManager from "../data/RedeemManager.js?v=1.1";
 import { State } from "../data/State.js";
 import { UiRenderer } from "../ui/UiRenderer.js?v=1.1";
-import RailwayExpeditionCalculator from "./RailwayExpeditionCalculator.js?v=1.1";
-import KitDeliveryCalculator from "./KitDeliveryCalculator.js?v=1.1";
-import { Currency } from "../api/Currency.js?v=1.1";
-import { DataProvider } from "../data/DataProvider.js?v=1.1";
-import { TnvedManager } from "../api/TnvedManager.js?v=1.1";
-import PriceSelector from "./PriceSelector.js?v=1.1";
-import RedeemManager from "../data/RedeemManager.js?v=1.1";
 import FormValidation from "../validation/FormValidation.js?v=1.3";
+import { Calculator } from "./Calculator.js?v=1.1";
+import KitDeliveryCalculator from "./KitDeliveryCalculator.js?v=1.1";
+import PriceSelector from "./PriceSelector.js?v=1.1";
+import RailwayExpeditionCalculator from "./RailwayExpeditionCalculator.js?v=1.1";
 
 export class CalculatorApp {
   constructor(fields) {
@@ -37,7 +37,7 @@ export class CalculatorApp {
 
     // Загрузка курсов валют
     try {
-      const currency = new Currency(CONFIG.botToken, CONFIG.chatId);
+      const currency = new Currency(CONFIG.api);
       await currency.loadAndSaveRates();
       console.log("Курсы успешно сохранены");
     } catch (error) {
