@@ -1,0 +1,140 @@
+=== Начало сжатия ===
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//404.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//404.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//56d5ecc8d3fc662b877df07d61a4df6b (1).png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//56d5ecc8d3fc662b877df07d61a4df6b (1).png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//auto.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//auto.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//avia.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//avia.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/1-inside.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/1-inside.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/1.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/1.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/blog-inside-content.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/blog-inside-content.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/blog-inside-content.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//blog/blog-inside-content.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/1.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/1.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/10.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/10.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/11.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/11.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/12.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/12.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/2.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/2.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/3.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/3.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/4.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/4.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/5.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/5.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/6.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/6.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/7.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/7.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/8.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/8.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/9.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//company/9.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//contacts-bg.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//contacts-bg.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//content-1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//content-1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//content-2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//content-2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//content-img.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//content-img.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//how-to-use-calc.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//how-to-use-calc.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/Logo.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/Logo.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/telegram-neon.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/telegram-neon.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/vk-neon.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/vk-neon.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/wechat-neon.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/wechat-neon.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/whatsapp-neon.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//icons/whatsapp-neon.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//log-blog-4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//logistic-main.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//logistic-main.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/10.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/10.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/11.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/11.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/12.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/12.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/13.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/13.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/14.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/14.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/15.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/15.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/16.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/16.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/17.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/17.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/18.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/18.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/19.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/19.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/20.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/20.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/21.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/21.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/22.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/22.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/23.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/23.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/24.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/24.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/25.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/25.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/7.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/7.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//marketing/title-images/9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//menu/card.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//menu/card.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//menu-bg.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//menu-bg.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//review-bg.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//review-bg.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//review-form.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//review-form.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//reviews-title.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//reviews-title.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//saide_mj_Production.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//saide_mj_Production.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//sheald_protect.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//sheald_protect.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//train.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images//train.png
+✅ Сжатие завершено!

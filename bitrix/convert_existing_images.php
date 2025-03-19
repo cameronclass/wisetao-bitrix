@@ -2,8 +2,8 @@
 set_time_limit(0);
 ini_set('memory_limit', '1024M');
 
-$uploadDir = $_SERVER['DOCUMENT_ROOT'] . "/bitrix/templates/assets/images/";
-$logFile = $_SERVER['DOCUMENT_ROOT'] . "/bitrix/templates/assets/images/compress_log.txt";
+$uploadDir = $_SERVER['DOCUMENT_ROOT'] . "/bitrix/templates/main-wisetao/assets/images/";
+$logFile = $_SERVER['DOCUMENT_ROOT'] . "/bitrix/templates/main-wisetao/assets/images/compress_log.txt";
 
 file_put_contents($logFile, "=== Начало сжатия ===\n", FILE_APPEND);
 
