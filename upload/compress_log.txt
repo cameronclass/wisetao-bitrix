@@ -1,0 +1,1161 @@
+=== Начало сжатия ===
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/00a/mtgj0blj0057hnmep0praql4yyxpr8j6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/00a/mtgj0blj0057hnmep0praql4yyxpr8j6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/019/wcl1hnvdo92v4w80jdsqkmyb4hrnx4cr.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/019/wcl1hnvdo92v4w80jdsqkmyb4hrnx4cr.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/01b/8rpdr7qkvzdm5498oqoxpz8g12yc1cmz.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/01b/8rpdr7qkvzdm5498oqoxpz8g12yc1cmz.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/031/ktimdcmznr0nlswps2mfm680s7dsecsb.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/031/ktimdcmznr0nlswps2mfm680s7dsecsb.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/031/s8k05531q0fyj39v26kp738bc7sejr42.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/031/s8k05531q0fyj39v26kp738bc7sejr42.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/032/xvhqy7vlzccpubt5irt923jblv0hxgnj.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/032/xvhqy7vlzccpubt5irt923jblv0hxgnj.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/040/l4jaoiimxeguu21aezd9is4jsxih1dbp.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/040/l4jaoiimxeguu21aezd9is4jsxih1dbp.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/04f/0zpanw2900loqiamgcl6jmdh2p9iet1u.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/04f/0zpanw2900loqiamgcl6jmdh2p9iet1u.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/04f/bu110fbq815n40roeepb3ay92ms3kin4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/04f/bu110fbq815n40roeepb3ay92ms3kin4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/058/9gfwvaqwxd4svn00m3gxdpnzm4j2ido1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/058/9gfwvaqwxd4svn00m3gxdpnzm4j2ido1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/05d/pb47gdjs6efz6cekig3ewd0oc023w5n2.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/061/qlj71wv3g98pogku2ktjr5cnk2sk3mf1.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/064/216n1o5510g3njy12xjh9h1lghpxwk2h.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/064/216n1o5510g3njy12xjh9h1lghpxwk2h.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/067/l445ht5tk2f84zt7nl6k2v6yetr7vbpn.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/067/l445ht5tk2f84zt7nl6k2v6yetr7vbpn.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/06e/v3dwbu10clrt1imnje2cuky6jtz0krja.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/07c/cmqkp84ulns4zuu7p6p9aq2hhrodrk8f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/07c/cmqkp84ulns4zuu7p6p9aq2hhrodrk8f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/07d/07d1226f33162da78d824ed2ef501ca3.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/07d/07d1226f33162da78d824ed2ef501ca3.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/087/w7qmlzjssxa17ypg9nz3apw4ac7fe6yt.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/087/w7qmlzjssxa17ypg9nz3apw4ac7fe6yt.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/088/0885c99b1b96d0bf63de2524bfc01d4f.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/088/0885c99b1b96d0bf63de2524bfc01d4f.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/092/ld4jrmxmmf9hpweu333ij11de1n8q53r.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/098/4g1b7519rno0j4o9jc1f093c4l46bpac.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/098/4g1b7519rno0j4o9jc1f093c4l46bpac.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0ab/268bkitthx0zxmkgjawlj0zxaq148s2i.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0b2/1lciqfif2l5lob0uud57c4ytiq789kg6.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0b3/jgd9heubo9rkrxj7he5kj5x3na0mgvpt.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0b3/jgd9heubo9rkrxj7he5kj5x3na0mgvpt.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0b4/zt1n27oymc6zau0b2rsmjy32p0zc1bzi.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0b4/zt1n27oymc6zau0b2rsmjy32p0zc1bzi.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0c5/f1lg4oi4sxmindn4g9wze650pw4aj2pr.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0c5/f1lg4oi4sxmindn4g9wze650pw4aj2pr.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0cd/x44ovwzwndsxo7r4sxb44ganeumzccir.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0cf/r8dtedp1q8hdfevvx7mnz36gcq12pnb1.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0cf/r8dtedp1q8hdfevvx7mnz36gcq12pnb1.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0d9/4s2b6g3e9rkn3wl9rzdmtrh5jr719vj4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0d9/4s2b6g3e9rkn3wl9rzdmtrh5jr719vj4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0d9/vj05knef7k4axkd2r2u6qfzxrlrs92e4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0d9/vj05knef7k4axkd2r2u6qfzxrlrs92e4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0de/w2f8ib48qxh1hkxpodxhs0q0qqnzt2wl.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0de/w2f8ib48qxh1hkxpodxhs0q0qqnzt2wl.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0e4/tyw6uik0z7klkt7wk2smrmzjmw7utw66.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0e4/tyw6uik0z7klkt7wk2smrmzjmw7utw66.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0e8/tjr90hi1wj8801mb438kltuawmn1h6d7.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0e8/tjr90hi1wj8801mb438kltuawmn1h6d7.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0e9/i2a33t5n3r9fm11wfdz5vey3ptattui1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0e9/i2a33t5n3r9fm11wfdz5vey3ptattui1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0f3/hdfcs8ws9nbd15xkcstt8y8zfidhhsxu.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0f3/hdfcs8ws9nbd15xkcstt8y8zfidhhsxu.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0f5/w3dzuvr51dhjf3t7qrkvn6qtjntvhf99.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0f5/w3dzuvr51dhjf3t7qrkvn6qtjntvhf99.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0fb/7hw6gw2yxno3evrcjrs8vikq3k6f5lo9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0fb/7hw6gw2yxno3evrcjrs8vikq3k6f5lo9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0fb/b1v6s8ii8ofv40w8dx8u49fvp10chcyt.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0fb/b1v6s8ii8ofv40w8dx8u49fvp10chcyt.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/0fd/piv02yl9y14lgpc5sfpysdfwz3hvavna.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/108/67y4oyvenbvf448o4s50zyj0hg0bw3z6.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/108/67y4oyvenbvf448o4s50zyj0hg0bw3z6.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/10a/nai421gm7x8hc31lhlx3e5lrnxgx5a2e.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/10a/nai421gm7x8hc31lhlx3e5lrnxgx5a2e.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/112/cljvfktgdh1h3ht631fijc5p8ojn92s4.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/112/cljvfktgdh1h3ht631fijc5p8ojn92s4.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/12c/19iu8iyqnra5x3c2d5agcd4mc7o084b7.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/132/pegjhifem3vu60z1udh8wbqv8yt4w5j9.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/148/n9j1o9rwb6bk19oxnv9vedsj4gn90olj.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/148/n9j1o9rwb6bk19oxnv9vedsj4gn90olj.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/14a/7e6c0p3tzrm68d2p80yyaygyqs08zynh.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/14c/4vohuvv5nws0mnargb5hdvtaayrw0x6b.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/170/mp64hp76p4na5l7iz2c3w5vxdd9ohtut.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/170/mp64hp76p4na5l7iz2c3w5vxdd9ohtut.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/174/ovmdnpxbyq3ow32thw9f7y0sbxeg40y0.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/174/ovmdnpxbyq3ow32thw9f7y0sbxeg40y0.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/176/jxcj162g3irvg7j11epmu3ivkaado1lt.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/176/jxcj162g3irvg7j11epmu3ivkaado1lt.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/17f/5909mzh06gp5z8ymhyknau12ms6or11p.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/17f/5909mzh06gp5z8ymhyknau12ms6or11p.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/17f/qkzqtegz0h2642vijgo3q0nlbqnly58c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/17f/qkzqtegz0h2642vijgo3q0nlbqnly58c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/192/5ed6dlebv1803jo7yiwkpk3ktlxmmfm4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/192/5ed6dlebv1803jo7yiwkpk3ktlxmmfm4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/19e/4nyu0mwntfx5giof9emo9clyukfbptjn.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/19e/4nyu0mwntfx5giof9emo9clyukfbptjn.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1a0/hkj2jv2n4yiqrjq1bvm4g2g4qfi0930z.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1a0/hkj2jv2n4yiqrjq1bvm4g2g4qfi0930z.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1ab/unrdjzsonjw1t9vhe2dy9n1d7pmib5dq.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1b3/o82pku431ncnwistngs9g23b4y09iwe8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1b3/o82pku431ncnwistngs9g23b4y09iwe8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1b9/45772zsjq4isvqch2u2br9r05z6y1xmv.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1b9/45772zsjq4isvqch2u2br9r05z6y1xmv.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1ca/iko2t4m7seh0wxazr76g9ww08wweqhkj.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1ca/iko2t4m7seh0wxazr76g9ww08wweqhkj.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1cc/3xagayv30q2nwhmjpv4tt83rtbe8mlzh.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1cc/3xagayv30q2nwhmjpv4tt83rtbe8mlzh.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1d0/ehllkmtt6t1p2rgudm3c8qy4cgr0q22l.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1d3/w9pljuh7px837k62cx39hmstjy8rm8t3.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1e5/9oon1hjuw3domki57xcwo6hlwnj2onb2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/1e5/9oon1hjuw3domki57xcwo6hlwnj2onb2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/20c/xd2bx500ozaf2jm6h4wzab286jtcuyft.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/20c/xd2bx500ozaf2jm6h4wzab286jtcuyft.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/20f/oh4eb711p4x3oz1x6z4inawdqh0y6ich.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/20f/oh4eb711p4x3oz1x6z4inawdqh0y6ich.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/212/m4t5njhvdhlh7raslasqvrcft1g6690j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/212/m4t5njhvdhlh7raslasqvrcft1g6690j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/21e/m8lw5drp44w05yd1kzfng9a5tjowqnav.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/21e/m8lw5drp44w05yd1kzfng9a5tjowqnav.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/227/x9giclszjuu16ktee0iue6t5nbgtvca0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/227/x9giclszjuu16ktee0iue6t5nbgtvca0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/22c/o0ovo551vwab75kygha5i89yy3vjcd8l.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/22c/o0ovo551vwab75kygha5i89yy3vjcd8l.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/232/84pilg7jry9mz7bflvw5tb0p5qfxgf7y.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/232/84pilg7jry9mz7bflvw5tb0p5qfxgf7y.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/234/uoqlthv2hora47psj0o1v8yoc8fsxklb.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/234/uoqlthv2hora47psj0o1v8yoc8fsxklb.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/253/41ofagwh5py85117kodycjtu90ata49p.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/25a/o93eiujg9knvkq3uetp34w1q5d7bh1oh.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/25a/o93eiujg9knvkq3uetp34w1q5d7bh1oh.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/25d/m1f7exjmo1wunudcbiej63klpvs5lwap.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/25d/m1f7exjmo1wunudcbiej63klpvs5lwap.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/260/oorcaermeaqc9jcnu2hsrd850l98uo9q.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/260/oorcaermeaqc9jcnu2hsrd850l98uo9q.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/26d/rv77ncbwkvw76bheojdgpzflc4h36klk.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/270/n203bagu2iossfcqsje8lpvldnhyasqi.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/270/n203bagu2iossfcqsje8lpvldnhyasqi.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/278/tta78wvqke5m0afuyhid62xal4uyi21x.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/278/tta78wvqke5m0afuyhid62xal4uyi21x.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/27a/a2hj8kab4bkyv4x2n5y06w7ccvbpen01.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/27a/a2hj8kab4bkyv4x2n5y06w7ccvbpen01.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/287/dif5z3oyl083h4a5162t5cg8n3ox13hj.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/287/dif5z3oyl083h4a5162t5cg8n3ox13hj.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/287/kuyren2swijgytm5wjvtu1dcoxvun92c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/287/kuyren2swijgytm5wjvtu1dcoxvun92c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/28d/s643sbz8cy3gzyb8smuvjyl3oi4227ea.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/28d/s643sbz8cy3gzyb8smuvjyl3oi4227ea.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/29b/m7zox0bnei2aoe6ia9ul137ji52jpvuo.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/29b/m7zox0bnei2aoe6ia9ul137ji52jpvuo.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/29f/5kywu288q08uw69xtcqr7xy580k2ll18.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/29f/5kywu288q08uw69xtcqr7xy580k2ll18.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2a2/mt5rz6pj37scrxqxzr9xopl6fncjtuva.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2a2/mt5rz6pj37scrxqxzr9xopl6fncjtuva.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2a2/ug35n3iayrtwm5n7357v5n1kg1eqbkiq.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2a2/ug35n3iayrtwm5n7357v5n1kg1eqbkiq.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2c9/jzovz9ac1e3d7u6zetly7gbv90cwcd4q.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2c9/jzovz9ac1e3d7u6zetly7gbv90cwcd4q.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2cc/8450e6ue7cqoqipvem9c8vfsptqxcsb4.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2d0/qg7vvpawtddo3xjyp5gw0rpc05dobwh6.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2d5/4cg5occbfijou5ka061eaw2srmdfyam3.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2d5/4cg5occbfijou5ka061eaw2srmdfyam3.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2d8/3vs7slqsm0jlvralll90rteos5mw232z.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2d8/3vs7slqsm0jlvralll90rteos5mw232z.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2d9/fpqbndpm6pdo7uxzytwlyqqmdg4eb20e.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2d9/fpqbndpm6pdo7uxzytwlyqqmdg4eb20e.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2ee/mfka6xknwt93up801sumsnszizkj9x6b.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2ee/mfka6xknwt93up801sumsnszizkj9x6b.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2f4/2f450688a4ada8b43052da224559e72f.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2f4/2f450688a4ada8b43052da224559e72f.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2fa/papj2j9948jqeywhik3kg7swocpkro01.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/2fa/papj2j9948jqeywhik3kg7swocpkro01.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/30d/cx5wzeyaowpvpa05qphizibtq8xpxf5b.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/30d/cx5wzeyaowpvpa05qphizibtq8xpxf5b.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/30d/k4a4g10ccpkwbc7f89l6c73pipqwyaza.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/30d/k4a4g10ccpkwbc7f89l6c73pipqwyaza.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/317/rf5s7gnhp4is1130bsdiab154ediy0cj.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/317/rf5s7gnhp4is1130bsdiab154ediy0cj.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/31d/gdr9ebjxzxj1466u5yrhig0qiv6pxlif.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/31d/gdr9ebjxzxj1466u5yrhig0qiv6pxlif.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/335/swdo04bg331w092th2usr37o46rtv5db.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/335/swdo04bg331w092th2usr37o46rtv5db.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/345/au0dqmktj1q31xii02np2c5s5eq29h4g.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/351/351eb18b2c0d5cb25834e72dc1b2c89a.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/351/351eb18b2c0d5cb25834e72dc1b2c89a.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/356/ns6wzj7dq4fihyqv2pij0m2uzbt0rbxi.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/369/ooirpa6jaqa5nmihc60v6u1iu13deu4t.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/369/ooirpa6jaqa5nmihc60v6u1iu13deu4t.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/379/abzcm13on1bsqrsd16zysz1oos8rslzo.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/379/abzcm13on1bsqrsd16zysz1oos8rslzo.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/382/svjehjf1voxsou7pdgu84b7255qev1j1.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/382/svjehjf1voxsou7pdgu84b7255qev1j1.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/387/uhe1aolrg3ai052gte6lo3kvw92scs6u.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/394/zasw76abrldw6fjkw3ywxozg8xfwd04d.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/394/zasw76abrldw6fjkw3ywxozg8xfwd04d.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/39b/k5d5nov3gcjfaaxheueu04o5e1jtbrtg.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/39b/k5d5nov3gcjfaaxheueu04o5e1jtbrtg.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3ab/sskcvzg7d2ci1peu21qr335allzii97j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3ab/sskcvzg7d2ci1peu21qr335allzii97j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3ac/egwk336ltmb5ilkz5smsnyoezqrq5md6.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3ac/egwk336ltmb5ilkz5smsnyoezqrq5md6.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3ac/mm8op9kefpa2xnj4g7susfs4iwcd267z.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3ac/mm8op9kefpa2xnj4g7susfs4iwcd267z.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3af/ed3280l3fldnr01inlcikimluo59sg1z.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3b6/c2vhx9q2q3ida7kv3ltfplor93cn5zba.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3b6/c2vhx9q2q3ida7kv3ltfplor93cn5zba.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3c8/sr6p96id12pg81z1uijld8lif6edv310.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3c8/sr6p96id12pg81z1uijld8lif6edv310.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3d2/l05p67ha5spppy4h01i2eeyvafxt4q3y.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3d2/l05p67ha5spppy4h01i2eeyvafxt4q3y.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3d7/o1lv6ate9i3exkbslg0a73u0fxjn1a6r.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3d7/o1lv6ate9i3exkbslg0a73u0fxjn1a6r.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3e3/v6blqhmopkvyilva13lwe856klo0g6a3.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3e3/v6blqhmopkvyilva13lwe856klo0g6a3.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3ec/uk20v19gb2t7k219sp2sb1fff1zhaxlq.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3fe/m3b5o6iaqs8x982zwe6mlvaj6ozpu54j.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/3fe/m3b5o6iaqs8x982zwe6mlvaj6ozpu54j.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/40a/riq34tc9xeity6g594lenki7x0hr34c0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/40a/riq34tc9xeity6g594lenki7x0hr34c0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/418/924rdb18pqbe0sk1npqfs5fasaa0b678.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/418/924rdb18pqbe0sk1npqfs5fasaa0b678.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/41c/0mjzwqq9s2d7pn34ot2ayc12beuq3fh5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/41c/0mjzwqq9s2d7pn34ot2ayc12beuq3fh5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/41f/eopnk3eg2gv214t29bpnwiu6a6cll2k4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/41f/eopnk3eg2gv214t29bpnwiu6a6cll2k4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/424/gis1k66my9r67012eprpqw8ndhqy7aw1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/424/gis1k66my9r67012eprpqw8ndhqy7aw1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/432/fb33votr4zr2ytceimqhkvg35ewtahdl.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/432/fb33votr4zr2ytceimqhkvg35ewtahdl.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/439/0khjbeiarcgjg1m70zgo4tl4dc3kdu4g.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/439/0khjbeiarcgjg1m70zgo4tl4dc3kdu4g.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/43c/g0dtm4tel1os5nz5cinnqd85z5xsuntc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/43c/g0dtm4tel1os5nz5cinnqd85z5xsuntc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/43d/ofv96c84pacx5jo2klgxatboibxbvhvh.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/458/k50b7asp25zzj5ycf35hfd65xarv6uov.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/458/k50b7asp25zzj5ycf35hfd65xarv6uov.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/462/ewwufq3yiz5qbki8mdivf0his7wtpxlu.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/462/yg3o98ggxgbt0hiilre8gsrwnamhoor2.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/46d/potl00kmvm9ip1fyg69jan8bz0akenk7.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/46d/potl00kmvm9ip1fyg69jan8bz0akenk7.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/471/gmpq9c6fdgsrm8gtc6edxzzvk028n5yi.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/471/gmpq9c6fdgsrm8gtc6edxzzvk028n5yi.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/473/2z01dirh4lmfhsi92lta293rasmbffjx.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/473/2z01dirh4lmfhsi92lta293rasmbffjx.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/474/47459dea7415ed5d9827b79271e8a745.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/474/47459dea7415ed5d9827b79271e8a745.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/478/ambnl3z61c9tos77fjdimsa7yzsmns39.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/478/ambnl3z61c9tos77fjdimsa7yzsmns39.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/481/chgls4mkb8hpjtgakqwxqr3vjip5rh63.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/481/chgls4mkb8hpjtgakqwxqr3vjip5rh63.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/485/40ugh5e940oxrn5khhiwwfeoenbeii9w.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/485/40ugh5e940oxrn5khhiwwfeoenbeii9w.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/48a/hghm4nyep88n452vuver3nr4es43etu7.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/48a/hghm4nyep88n452vuver3nr4es43etu7.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/48e/r2n8tir1htgnfnq23hxu53oswj3shupw.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/48e/r2n8tir1htgnfnq23hxu53oswj3shupw.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/490/dw63y5j8bo5y39vbd8neypn0lkvhmv29.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4a9/6p7m217rp6e6gulv7e27r8gt0kuzygjv.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4a9/6p7m217rp6e6gulv7e27r8gt0kuzygjv.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4b6/3jg11sizjxs88xtb7d1lg803fjj7g7tb.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4b6/3jg11sizjxs88xtb7d1lg803fjj7g7tb.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4bd/zc78mo5gl0mfik60yqpughuau6qop3sx.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4bd/zc78mo5gl0mfik60yqpughuau6qop3sx.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4cd/9ryjpppohbz6fsschnsnzupe31jbszts.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4cd/9ryjpppohbz6fsschnsnzupe31jbszts.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4d9/f3lf3sugbspqnxgnhx7xgqwm2ye00plg.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4dd/ewmbc2kfi17si4vc14ubbkbh18z2hviw.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/4dd/ewmbc2kfi17si4vc14ubbkbh18z2hviw.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/509/s9ncuc5ij7027wm7il56u7x0w7ky2lsa.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/509/s9ncuc5ij7027wm7il56u7x0w7ky2lsa.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/50a/u7k0ik9zyjao10er313028awbw3r8g3j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/50a/u7k0ik9zyjao10er313028awbw3r8g3j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/516/516771a7ee27d254ca33b719b524bde4.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/516/516771a7ee27d254ca33b719b524bde4.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/51a/51a0536e64f5eab8315db6a794f40e35.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/51a/51a0536e64f5eab8315db6a794f40e35.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/524/m89fc2ga9dvxetrcfz67ahk13h51he8j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/524/m89fc2ga9dvxetrcfz67ahk13h51he8j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/52d/8exy3xk246q6crqn82thxnn3ffqjv1zp.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/545/l88yuulib0gfuemhyaqcerm342278n1p.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/545/l88yuulib0gfuemhyaqcerm342278n1p.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/549/vupw2rnd3mkeheooowjped6q67fsxp07.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/549/vupw2rnd3mkeheooowjped6q67fsxp07.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/550/ou7t6sj5ecbxbym8erkri9gxzmsaxlvf.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/550/ou7t6sj5ecbxbym8erkri9gxzmsaxlvf.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/551/d7zi8yfbp778u56u1t60p3d6sopxxgk7.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/551/d7zi8yfbp778u56u1t60p3d6sopxxgk7.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/557/3ueyznpkmnjnvhsy03yswkq2v2ouiqb5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/557/3ueyznpkmnjnvhsy03yswkq2v2ouiqb5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/55a/0xkcx3ztw85wzqoyipzovnendld47gad.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/55a/0xkcx3ztw85wzqoyipzovnendld47gad.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/55a/pcxznbbq2bx4uou4dt1msgehf0h9ervk.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/55a/pcxznbbq2bx4uou4dt1msgehf0h9ervk.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/55f/oi66ljogx4blqvu04f7ghmqi8n01pldm.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/55f/oi66ljogx4blqvu04f7ghmqi8n01pldm.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/563/gzdtaeyzjqgexl9kk6a8mdu0k5irec8v.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/563/gzdtaeyzjqgexl9kk6a8mdu0k5irec8v.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/564/ahxgy23wxqc7uvmoj1t9nr91zcqem9hm.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/56a/nbuu05a6imhzzspepx4nmc4yysr5dvcq.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/56a/nbuu05a6imhzzspepx4nmc4yysr5dvcq.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/570/57011746909de9ff566f408d6dd7689e.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/570/57011746909de9ff566f408d6dd7689e.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/575/72gdawo2fd5pcsg9k43d2zkby9i2jnre.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/575/72gdawo2fd5pcsg9k43d2zkby9i2jnre.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/597/guhbpbr43k2daeeymd05sdiw9awjzmt3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/597/guhbpbr43k2daeeymd05sdiw9awjzmt3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5a2/rhxka2wt02wsxpng1pcah0hc8o72ws29.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5a2/rhxka2wt02wsxpng1pcah0hc8o72ws29.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5a6/dfol04byv4b91h0ygorbx3aqcdc2cula.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5a6/dfol04byv4b91h0ygorbx3aqcdc2cula.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5a7/5041kpyyn1at7htbheelmqbbtxx2f9cr.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5a7/5041kpyyn1at7htbheelmqbbtxx2f9cr.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5ae/9e6hdnqmkuo12l84hxcnxf3p8rv9fmof.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5ae/9e6hdnqmkuo12l84hxcnxf3p8rv9fmof.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5b0/z4veas9vazoltr25k60n3fpai3zhpwpg.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5b0/z4veas9vazoltr25k60n3fpai3zhpwpg.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5b9/k4zo7lzl2d1ba06bdl9zeh1jd35xse83.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5b9/k4zo7lzl2d1ba06bdl9zeh1jd35xse83.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5bf/et5vjealmhzopqrk5cl1p61ep3cl3twe.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5bf/et5vjealmhzopqrk5cl1p61ep3cl3twe.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5c1/5y1hzzugybmbayi0bc5auuywp2b4gg3l.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5c1/5y1hzzugybmbayi0bc5auuywp2b4gg3l.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5c6/ohmtzcbiucowgidyn1e47lk8y0b4iw0o.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5c8/immeqh6sjp8g7fio6vn51fe4cav6hasu.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5c8/immeqh6sjp8g7fio6vn51fe4cav6hasu.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5d0/v9uhrar8g70mc4s5jkmgkfsx19i9k634.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5e8/5e8daee4b1ddeac0680f02068499958f.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5e8/5e8daee4b1ddeac0680f02068499958f.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5f1/5f1f9a6835e067dce34ac57b630df38e.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5f1/5f1f9a6835e067dce34ac57b630df38e.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/5f3/7iz0rrdxfgdwefjpuyh16kvzn36aqmp2.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/605/t4d8wnyxjwdmx2vmg9whow2q82y1hrvw.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/605/t4d8wnyxjwdmx2vmg9whow2q82y1hrvw.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/60d/xng6nh94i2b5xaxr8hvfkb0gwvv4h8vz.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/611/ubj34qsa4tx2n55afnz08oef1m46d9ef.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/611/ubj34qsa4tx2n55afnz08oef1m46d9ef.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/622/2qcl2mpou60wc1ic05easjuaf7in358k.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/622/2qcl2mpou60wc1ic05easjuaf7in358k.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/63a/vxoax3f3icctva9oeso46o9hiu3pt1n8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/63a/vxoax3f3icctva9oeso46o9hiu3pt1n8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/63f/63fa2d94302d1d617b6d534734205725.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/63f/63fa2d94302d1d617b6d534734205725.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/641/ezh49smya0sms5atzba2p36co8w5khaz.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/641/ezh49smya0sms5atzba2p36co8w5khaz.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/65f/qave44g9128cqf00je3hs6cw408ofnzs.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/65f/qave44g9128cqf00je3hs6cw408ofnzs.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/689/qfgzq62ga5py08y6a3wqdaq3ek7kgm6w.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/689/qfgzq62ga5py08y6a3wqdaq3ek7kgm6w.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/68b/6tbl0e44expf9aj4d3qpnm7wrnwq8e1m.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/68b/6tbl0e44expf9aj4d3qpnm7wrnwq8e1m.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/690/69000cdbc69626c985bb42789c8e0ebb.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/690/69000cdbc69626c985bb42789c8e0ebb.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/692/3ei19heis4gept5hyehqrzhw2ekh9jzo.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/696/696eac84a11fed3d2b4ceb54935fa0f5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/696/696eac84a11fed3d2b4ceb54935fa0f5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/698/upcm3w4dtn7t1lq5o9c733cnse57t1qi.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/698/upcm3w4dtn7t1lq5o9c733cnse57t1qi.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6af/0411uwyr0dzu94zwxdqv721f35f3mrvr.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6af/0411uwyr0dzu94zwxdqv721f35f3mrvr.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6af/8t4reokcwsluck0gn94lohfy2fze3d34.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6af/8t4reokcwsluck0gn94lohfy2fze3d34.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6b1/xmnfeldjt2ffseofl0zg84e9djeqnf43.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6b1/xmnfeldjt2ffseofl0zg84e9djeqnf43.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6c0/bu5jvndg3pveb6sqpbqitxjy8rg45jhu.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6c0/bu5jvndg3pveb6sqpbqitxjy8rg45jhu.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6ce/qgs6lwyxqpmidbwlzvz9y5600dwtf8wz.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6d2/qkulv09jyg7e23r4ghjs6yrnoz9seyse.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6d2/qkulv09jyg7e23r4ghjs6yrnoz9seyse.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6d4/wm4ehaj2t0vo3jg9qrsd2ado9hqhm073.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6e7/tegbhjj7oweti1eed1pa2r5tbpd1iw24.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6e7/tegbhjj7oweti1eed1pa2r5tbpd1iw24.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6ed/8kv8gxr1tccqz5mj6uqpp2zqxviz5dnj.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6ed/8kv8gxr1tccqz5mj6uqpp2zqxviz5dnj.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6f0/6ob9lw9q8jbwwhvrso3x7i53ys51wtbn.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/6f0/6ob9lw9q8jbwwhvrso3x7i53ys51wtbn.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/700/2ism17kykr3ofq8ig0jx8qlzipdcmqsp.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/700/2ism17kykr3ofq8ig0jx8qlzipdcmqsp.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/705/3l09tf3cco1jwo0c0eqnfl6vif1v4xi0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/705/3l09tf3cco1jwo0c0eqnfl6vif1v4xi0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/708/oxbfbyydioet2zi6y4tthhu8rgjvwqyt.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/708/oxbfbyydioet2zi6y4tthhu8rgjvwqyt.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/708/xdbqvj3toqwa6wa8t20mdohhq3r2jyul.jpeg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/708/xdbqvj3toqwa6wa8t20mdohhq3r2jyul.jpeg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/70e/ikzf890qtontisnmk8w29cey37oay7up.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/70e/ikzf890qtontisnmk8w29cey37oay7up.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/71b/71bfa9b6ffb721af7378d4d65c45cd6a.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/71b/71bfa9b6ffb721af7378d4d65c45cd6a.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/726/sm6dgmlnzo5xrfa49udl1tox0njomlxz.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/726/sm6dgmlnzo5xrfa49udl1tox0njomlxz.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/72b/05t1y38s28pj33gabjtjsb5if01rc32a.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/72b/05t1y38s28pj33gabjtjsb5if01rc32a.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/740/njmyuynoy1mz74bvoqb13d6dsxv9npfd.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/740/njmyuynoy1mz74bvoqb13d6dsxv9npfd.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/74d/l6c6pqop33aemj9lj751kdpw3gan3si8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/74d/l6c6pqop33aemj9lj751kdpw3gan3si8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/750/hdp4wwwinu313vyiv9cnivl19ltadl8f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/750/hdp4wwwinu313vyiv9cnivl19ltadl8f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/752/ofyoi2ejhpbsyd86to6fy5ksr2jpc18b.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/755/874u6whbzsvqxg8b920tbt5r22ianp0m.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/755/874u6whbzsvqxg8b920tbt5r22ianp0m.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/760/3de9qbt03gktlggcwy1jdwhx8wdd2axm.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/764/ffufxvi2300hd3tu0wowr24ymlqwlzgu.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/76f/ud9lv71sd5e705jgq51fh77sz3eo5ow5.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/76f/ud9lv71sd5e705jgq51fh77sz3eo5ow5.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/775/x7xo2h723f70o2a2alpmjk6lqr13ftn9.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/775/x7xo2h723f70o2a2alpmjk6lqr13ftn9.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/77c/wn2q3k85rvqy5rrkxywcm1d258xxw1ag.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7a3/d9a0nnux2i5wk35uknsuv15shurvpjwd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7a3/d9a0nnux2i5wk35uknsuv15shurvpjwd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7bd/m3rl2kp7xkiovr4utqrx81jh9soru7ap.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7bd/m3rl2kp7xkiovr4utqrx81jh9soru7ap.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7c1/7c1e22a3ba147ff45ad3c1b95ecc8668.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7c1/7c1e22a3ba147ff45ad3c1b95ecc8668.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7cf/z45559sd6yucml8276dyu66v407sa6dv.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7dd/me1a0m4pzie3g04yh9a339696kx3ga21.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/7dd/me1a0m4pzie3g04yh9a339696kx3ga21.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/80d/8tuol0xoy0dx3iklzseolfy7vcq2b6d5.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/813/quf902mcyi3yxh7nomskfzsqe8cp1wzm.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/813/quf902mcyi3yxh7nomskfzsqe8cp1wzm.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/813/v1zigw0htd15bpxmjf2z1h22qepgcemc.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/813/v1zigw0htd15bpxmjf2z1h22qepgcemc.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/81b/z9arj4sn6l84y05gq7ahgtreqz4lr277.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/82b/2ou0dgamzkny9vz3447f1ri8i9ufvsvh.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/82b/2ou0dgamzkny9vz3447f1ri8i9ufvsvh.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/835/6mv7onqa0qmym1n392g7f7b3abvx1xto.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/835/6mv7onqa0qmym1n392g7f7b3abvx1xto.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/846/gw200lpm0k9i3qw4jz6atb71pjl0vjdf.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/846/gw200lpm0k9i3qw4jz6atb71pjl0vjdf.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/850/mi30a6iofczqmhonr7f8bc2acnydizuw.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/855/ho3jixpdtnrq2jz6somjhi9fjj0vakdj.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/857/syxqpnj1duhi5wmsswtgxn41hy9w8z12.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/85a/3chzus6s58drfcbuiuhr302q7xcnx4gn.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/85a/3chzus6s58drfcbuiuhr302q7xcnx4gn.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/861/bgta7umv69hlwaql962cxjeexz98sc67.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/861/bgta7umv69hlwaql962cxjeexz98sc67.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/865/219tf4wdrmp8771zfyp1gy08ffu3w83t.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/865/219tf4wdrmp8771zfyp1gy08ffu3w83t.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/87b/fqweecubgviux53qj8wal8u12fe6q10s.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/87b/fqweecubgviux53qj8wal8u12fe6q10s.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/886/8kpaabuht76iysw92g3nf3065ggib0m2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/886/8kpaabuht76iysw92g3nf3065ggib0m2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/899/eq47kzn6s6y0zildoknnlr6g0ws4x6b5.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/899/eq47kzn6s6y0zildoknnlr6g0ws4x6b5.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/89d/ehmz9t41uqk35y8s129esvuq6e4rcj0y.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/89d/ehmz9t41uqk35y8s129esvuq6e4rcj0y.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8a4/1lleu0e38j47y9mqwb4ggokc3a2y14my.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8a4/1lleu0e38j47y9mqwb4ggokc3a2y14my.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8ab/z4496zespps1v4nflgzopxr6mqsyir9a.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8b0/yad4o6h3ja4bgv0s0iaswclw20eddq9m.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8b0/yad4o6h3ja4bgv0s0iaswclw20eddq9m.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8b1/0xh80qys4od79fh7xv4a8c0786z0stxt.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8b1/0xh80qys4od79fh7xv4a8c0786z0stxt.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8b3/kkthqwmk2e84kbwamo2mh9ptg8zare3k.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8b3/kkthqwmk2e84kbwamo2mh9ptg8zare3k.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8bc/7h1vwzqhu81ct2io3u74zdp9igts62oy.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8bc/7h1vwzqhu81ct2io3u74zdp9igts62oy.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8c0/4tf9x8lvn4esordmu30sul0za0bw3vb5.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8c0/4tf9x8lvn4esordmu30sul0za0bw3vb5.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8e3/yfw67rdqc145si2cm4a3o0x593ih9y37.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8e3/yfw67rdqc145si2cm4a3o0x593ih9y37.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8fa/8fa1467f09d1fa3d6a873ee728be66ef.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/8fa/8fa1467f09d1fa3d6a873ee728be66ef.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/900/hz5rbds33fpj3n8e10amdcz1mh399ok1.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/926/u107k9ch66lifwe7j5ingm10osmgo8i0.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/936/v5j42yph3t2c1eu59pf3zve6dhhf9je1.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/939/fqv7j3r0pptf01cfjdfel5l38nurlnk3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/939/fqv7j3r0pptf01cfjdfel5l38nurlnk3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/939/z9vw2icrzar6n5zbdakqp8h48vroznev.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/939/z9vw2icrzar6n5zbdakqp8h48vroznev.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/944/yfrma3gbaixp60kwhyjrllmu5nb2mdw8.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/957/9ro0yuz11sqyuevbbmsf8sqe2yxwd4h4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/957/9ro0yuz11sqyuevbbmsf8sqe2yxwd4h4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/959/1z2r4ko8i8tr1f1b15i24no2gdhqfbqx.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/959/1z2r4ko8i8tr1f1b15i24no2gdhqfbqx.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/965/0etor9hwrf0numk4a73zxkpuq0rzjkro.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/965/0etor9hwrf0numk4a73zxkpuq0rzjkro.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/974/b6r262r2mh1x8u08ylw77tquwigwfs0i.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/974/b6r262r2mh1x8u08ylw77tquwigwfs0i.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/97b/p9gn0kri2vpjqr19pon118q2g7vs245u.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/97b/p9gn0kri2vpjqr19pon118q2g7vs245u.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/98e/gt0sy59env3mfk4awm16fyyobyqotpsa.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/98e/gt0sy59env3mfk4awm16fyyobyqotpsa.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/992/9926846c5f623963e29951d997d2343c.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/992/9926846c5f623963e29951d997d2343c.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9c7/c6de9fp6maf18szunb8bpmczvxkzh9wn.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9c7/c6de9fp6maf18szunb8bpmczvxkzh9wn.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9ca/xnx1wtd6fvryp12ehcl2mae5xha9q3o1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9ca/xnx1wtd6fvryp12ehcl2mae5xha9q3o1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9cc/cznfjlstzq2o0q0cm10ak0ises2qkgqm.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9cc/cznfjlstzq2o0q0cm10ak0ises2qkgqm.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9d3/9d3eca4dcc72566574f56e1e4af26f46.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9d3/9d3eca4dcc72566574f56e1e4af26f46.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9da/h6b5n3wj5n0gw5he85lohoz6xcjdtmj8.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9ee/el05ieqd2kusse2ntctalb3pgwdi827t.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9ee/el05ieqd2kusse2ntctalb3pgwdi827t.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9f4/8adz6084iv79q03t8jrytwcob2z3jjg7.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9f9/q5neu2zsk6aurnav4h3h3md5iwch007r.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/9f9/q5neu2zsk6aurnav4h3h3md5iwch007r.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a02/bxsstr1rv5tj3lw52lrb2nrikovtbw5s.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a02/bxsstr1rv5tj3lw52lrb2nrikovtbw5s.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a03/uoqipsqxjehigrs0sie90drlld18x9p8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a03/uoqipsqxjehigrs0sie90drlld18x9p8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a07/ub074g2mn6t7zvytn82zsgtc87stmlz8.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a0b/s0yyc7xhx6iabx86bn5bosemrtr0xbm7.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a0b/s0yyc7xhx6iabx86bn5bosemrtr0xbm7.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a0e/bnwm7wbzs4zczk1xhwvj6tetyxlvjur1.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a10/lhr4dery3mt4suoe2y83jhtvubikypev.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a12/62z5uas4ykw9bzjuqy8m6dc9avqczezy.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a12/62z5uas4ykw9bzjuqy8m6dc9avqczezy.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a1e/2mqo21pv6slq2816l42c0vajukvlp9tw.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a2c/5d1t325v18wt2bty50l8yco6hkpucqod.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a2c/5d1t325v18wt2bty50l8yco6hkpucqod.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a34/19qa74pkzdeh2d60omqhpqwx7sm2h6hf.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a34/19qa74pkzdeh2d60omqhpqwx7sm2h6hf.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a43/a43317467f0562a9e4ef422d911c45ac.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a43/a43317467f0562a9e4ef422d911c45ac.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a44/e1zto3ii0auenn8m7okl0q7ba0k01lta.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a44/e1zto3ii0auenn8m7okl0q7ba0k01lta.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a48/7rgm8edxv2kgz5e79rx67azi52796tsm.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a48/7rgm8edxv2kgz5e79rx67azi52796tsm.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a49/x3jfw113ghmln470btnulq0njbrxiv6d.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a4b/l3dsm7nae6ckejeptcm48nrzvfi3429j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a4b/l3dsm7nae6ckejeptcm48nrzvfi3429j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a4b/tr0s20jvorps5gmoae7l46bdasiqa3cl.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a4b/tr0s20jvorps5gmoae7l46bdasiqa3cl.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a53/a53c47a9c64fa052eb9cdfb30ac045ad.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a53/a53c47a9c64fa052eb9cdfb30ac045ad.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a54/50jvet0jp7iud6u41dqqwojkfoees0lp.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a58/ug7tz7bt0v26lmcqk6dd8maa31bvssw1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a58/ug7tz7bt0v26lmcqk6dd8maa31bvssw1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a5b/10ialiptzuy0i2c0vu2klq6b89usqnmd.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a5b/10ialiptzuy0i2c0vu2klq6b89usqnmd.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a5e/ndiy4ay4u348iq7hz8d90ywo0zd0ptor.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a5e/ndiy4ay4u348iq7hz8d90ywo0zd0ptor.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a67/t9r3biqr8ifs1i57s4jb7ih47dymsfzu.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a67/t9r3biqr8ifs1i57s4jb7ih47dymsfzu.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a6c/av2p0wx1lur5ndiwe0s6c07k3ichku29.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a6c/av2p0wx1lur5ndiwe0s6c07k3ichku29.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a70/m8u9c87a9etn1iu2kj9ofa10fwj1x2bq.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a7c/yng428lbzf6h55vdzrcm12e0pnnk5scp.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a7c/yng428lbzf6h55vdzrcm12e0pnnk5scp.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a7e/9ne75u8upbfoe9eo80o7pjgwlq4zs798.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a7e/9ne75u8upbfoe9eo80o7pjgwlq4zs798.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a93/hdojtspdi3pv6540zegxo9a43blqm34d.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/a93/hdojtspdi3pv6540zegxo9a43blqm34d.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aa4/lbexjxzw1ailflghd65cg2q6bi8xg81m.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aa4/lbexjxzw1ailflghd65cg2q6bi8xg81m.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/abd/qzinsi7rtapcstvuv7pom2bsr411ab8o.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/abd/qzinsi7rtapcstvuv7pom2bsr411ab8o.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aca/1fsljznrjnfrvoirm2dx18tc7zmzzr3v.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aca/1fsljznrjnfrvoirm2dx18tc7zmzzr3v.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aca/acabb7904f309e89174e2a6ad9293f25.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aca/acabb7904f309e89174e2a6ad9293f25.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ad2/k10vddl8nnkvlkij201el2d47p8bod95.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ad2/k10vddl8nnkvlkij201el2d47p8bod95.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ad3/inh22ft26qhitcerjpu95yaoa5ngkqh5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ad3/inh22ft26qhitcerjpu95yaoa5ngkqh5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aee/qpl8u5jxcm1o3bkql2bpbln3xn97woed.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/aee/qpl8u5jxcm1o3bkql2bpbln3xn97woed.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/af3/q3a2qdn9qhkvrdd4p9i5j5su065g3c0k.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/af3/q3a2qdn9qhkvrdd4p9i5j5su065g3c0k.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/afd/ow4huzla3t214yvmmepu35shnqxez4ar.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/afd/ow4huzla3t214yvmmepu35shnqxez4ar.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b07/ox90j3vozyj2hjg6vtuwjf87lpg6c8f7.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b07/ox90j3vozyj2hjg6vtuwjf87lpg6c8f7.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b0b/dqn4zqtfb6b6oyvoet1296u12txoxonc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b0b/dqn4zqtfb6b6oyvoet1296u12txoxonc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b12/zgqjsjh6mw8jrwqux7vgsggprsnbxbx5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b12/zgqjsjh6mw8jrwqux7vgsggprsnbxbx5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b15/ybfaajzhxrzzjv6l70zm2e1g2h45r1p3.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b1e/61m3s6730gdvr3wvbin5qawf8ffk7yw5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b1e/61m3s6730gdvr3wvbin5qawf8ffk7yw5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b22/7gg7qk9gtijmhzalhmzf1hnsqes60rsv.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b22/7gg7qk9gtijmhzalhmzf1hnsqes60rsv.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b34/h5y1i57pptvim70nko33xp2sz7sdcy05.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b43/t523wvekhdb9vofiuemmie01scqciyuc.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b43/t523wvekhdb9vofiuemmie01scqciyuc.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b4f/b1coznq4lvyyfruvvb06lun79qeyg7x6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b4f/b1coznq4lvyyfruvvb06lun79qeyg7x6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b55/q7wun25occ4kuwokmjitks22kgj7y04f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b55/q7wun25occ4kuwokmjitks22kgj7y04f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b65/guq23nv4mijp9sztj35i4qbjsi4jlzqp.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b65/guq23nv4mijp9sztj35i4qbjsi4jlzqp.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b69/b69dc9553f47e4e85bcac5c27115a771.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b69/b69dc9553f47e4e85bcac5c27115a771.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b6f/6aco88vr20qe9h321j9zeps9mvgp2kfc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b6f/6aco88vr20qe9h321j9zeps9mvgp2kfc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b7a/v4s2qae50gqq3fu1m1xot1ts20t8qbdc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b7a/v4s2qae50gqq3fu1m1xot1ts20t8qbdc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b7d/19kfm58f3eimh3dqxd0hu89vubly52xc.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b81/f1segs0cwrspul1uoetzono447qzofzl.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b8e/4jep7gc1m5cja29uaog6fkh53du4yjf5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/b8e/4jep7gc1m5cja29uaog6fkh53du4yjf5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/baa/xoja0f0ept6f8h0akrpskq25e5rcmn27.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/baa/xoja0f0ept6f8h0akrpskq25e5rcmn27.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bb0/o104xikalzsmawlcxjxxcw8t4ad9o1hi.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bb0/o104xikalzsmawlcxjxxcw8t4ad9o1hi.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bbd/csovp12h456uznfaw4ms4b33t69wrfth.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bd2/js911p6vt32gu173fv9bw4ffh36u4khd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bd2/js911p6vt32gu173fv9bw4ffh36u4khd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bd9/t32hdvephvu3spltbcy5kt9rzs6y529j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bd9/t32hdvephvu3spltbcy5kt9rzs6y529j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bdc/0btmp5kr6oayd60ek8zhq1c06epevcfp.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/be5/sqdvycais530x22vn62z8uy0dyuxvaw0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/be5/sqdvycais530x22vn62z8uy0dyuxvaw0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/be7/jouatrqdpzqkiuz33a0m848zyp6b2rdt.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/be7/jouatrqdpzqkiuz33a0m848zyp6b2rdt.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/be7/tm3c5f3oj4mbsstdlcsx6741j37uu3p1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/be7/tm3c5f3oj4mbsstdlcsx6741j37uu3p1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bea/7hdrevuny9sab8qoimn0fbo94yb4lc6y.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bea/7hdrevuny9sab8qoimn0fbo94yb4lc6y.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bef/d78nlwvwk32vvm46jr5q87vgbih8glsx.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bef/d78nlwvwk32vvm46jr5q87vgbih8glsx.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bf7/e35j50n6oszp6nbbfwf8granul0odlys.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bfc/bfc84c6c4bac5e7a349029625df4c69f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/bfc/bfc84c6c4bac5e7a349029625df4c69f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c1a/mjccfnx8we2jmxh90dqrnbkb7ggw1uci.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c1d/82jb3n6s26j7rj2v0wh25bt7bbghz8j4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c1d/82jb3n6s26j7rj2v0wh25bt7bbghz8j4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c1f/5xlaya0to7z7hrg33cxcefzk7fr4gy5v.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c1f/5xlaya0to7z7hrg33cxcefzk7fr4gy5v.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c26/sim55yk9k2clrqoe4lhw66m5oeopyvpz.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c38/i7b9fv45wzxdez2gj84jylz65f554rue.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c38/i7b9fv45wzxdez2gj84jylz65f554rue.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c5f/vwyre0t5rfzehxf62yz63arwcppdd0vv.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c5f/vwyre0t5rfzehxf62yz63arwcppdd0vv.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c61/s78lm892l5kw1d3zcuub8c7048yyeby8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c61/s78lm892l5kw1d3zcuub8c7048yyeby8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c62/g3cc6ohacuyovl6vnmhalou93p2hg3uc.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c67/upgxk2m822a3s9fvohev7vuft3yxgx8t.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c67/upgxk2m822a3s9fvohev7vuft3yxgx8t.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c77/q3031wiz3htz2us40zjez1yz9ktzks13.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c7a/h0mvw2jwgwrdttfur1mdtg61cj63cwsf.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c8b/c8b9831fd89dab0ae3e0c4efe38a2724.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c8b/c8b9831fd89dab0ae3e0c4efe38a2724.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c8e/3yk25u5q82ctbh7galdcs1ba5bt39dsy.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c8e/3yk25u5q82ctbh7galdcs1ba5bt39dsy.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c9e/gdq9yeghjv4c1bow488229po8m11se0j.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/c9e/gdq9yeghjv4c1bow488229po8m11se0j.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ca7/g5e312vae1objq9qsjzx3c29gh0n7a14.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ca8/njkcfhfnnkezb1dpzungppzbt5lg5ku3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ca8/njkcfhfnnkezb1dpzungppzbt5lg5ku3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cad/ssf8ixgfww2ukf144o0teb67mk6xbc98.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cad/ssf8ixgfww2ukf144o0teb67mk6xbc98.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cbd/0xhox0yzeilfl6foot4tbqvbbro8p2fi.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cbd/0xhox0yzeilfl6foot4tbqvbbro8p2fi.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ccd/e2tllwqk55ib9ni0dq9ixwds6q3lmlyc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ccd/e2tllwqk55ib9ni0dq9ixwds6q3lmlyc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cdb/ov97vby2pam323p6d9s1vt0ih8b00wy7.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cdc/cdce878878286e41b4f358727a908a90.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cdc/cdce878878286e41b4f358727a908a90.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ce7/bzf8p3bj4zgmg0l3nh3rd1g4q0ypl3hp.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ce7/bzf8p3bj4zgmg0l3nh3rd1g4q0ypl3hp.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cee/fm4hd60uekymfw3tz655e92oo0fepag2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cee/fm4hd60uekymfw3tz655e92oo0fepag2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cf1/wtop2snit4kid23jyog28f26grprtogu.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cf1/wtop2snit4kid23jyog28f26grprtogu.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cf4/8d8ny0hil5e9901897o65w23a8aykt7c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cf4/8d8ny0hil5e9901897o65w23a8aykt7c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cfa/lyqb4tjui7swk37n8wj55lvgnb702khr.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/cfa/lyqb4tjui7swk37n8wj55lvgnb702khr.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d00/q2o5u6kfeci4dfh33nux8fvneilparr9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d00/q2o5u6kfeci4dfh33nux8fvneilparr9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d05/yp098xfzh9yv2d1kot17mqs9qriataqp.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d05/yp098xfzh9yv2d1kot17mqs9qriataqp.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d10/yi9a6p6m92qrz153md784m4zw8xiyxr2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d10/yi9a6p6m92qrz153md784m4zw8xiyxr2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d15/g1rbvypysp7syysvsp4u6lfsbnnosj83.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d19/g7ushu0dk660qcw7no7rh039p01kdw8x.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d19/g7ushu0dk660qcw7no7rh039p01kdw8x.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d30/irfh77k25x47ok1cj7a2d3catqntacx4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d30/irfh77k25x47ok1cj7a2d3catqntacx4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d38/l5cvkx3g4exgxg0uvcnbvt7qypt6jrhp.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d38/l5cvkx3g4exgxg0uvcnbvt7qypt6jrhp.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d40/oolhmcz86cgx9kcbueso7p0uqycbnyih.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d40/oolhmcz86cgx9kcbueso7p0uqycbnyih.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d40/s8asp02zb3tyqvdeu5zcgyhc3kssvzig.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d40/s8asp02zb3tyqvdeu5zcgyhc3kssvzig.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d4f/g2vmhaeuodj3goz8modjz0dry4yfj58y.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d4f/g2vmhaeuodj3goz8modjz0dry4yfj58y.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d67/fs78evsdshoal1l1ulrbqepc46num82w.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d67/fs78evsdshoal1l1ulrbqepc46num82w.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d68/cqkdcejwmp5d1rsyr0ttfo89pkcm1f2i.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d76/jwnp79gun1wfljslmkn6v4eabu0hkepd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d76/jwnp79gun1wfljslmkn6v4eabu0hkepd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d77/1c1jlcolj11qd5vh2t5mddl50znwqq3i.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d77/1c1jlcolj11qd5vh2t5mddl50znwqq3i.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d7a/d7ab8ae2dea9cfd95d9868540fbcf0b6.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d7a/d7ab8ae2dea9cfd95d9868540fbcf0b6.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d88/d881171dd652ba81bd9b011a14b1f5c3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d88/d881171dd652ba81bd9b011a14b1f5c3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d8b/b82gd2br4v8c0k4zn97tao08379gon3l.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d8b/b82gd2br4v8c0k4zn97tao08379gon3l.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d8b/d8b4ee682d5f8084246833a56190b49f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d8b/d8b4ee682d5f8084246833a56190b49f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d95/mk2p0zc13yp8gdo3ppgc8s72f52kx23s.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d95/mk2p0zc13yp8gdo3ppgc8s72f52kx23s.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d9d/72zu805rof1vf2850dadiix7hqe0f8np.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/d9d/72zu805rof1vf2850dadiix7hqe0f8np.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dab/sx4himasf2a1sn98u04z8r4dak9sob6n.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dab/sx4himasf2a1sn98u04z8r4dak9sob6n.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dae/2dxic751042viqars01mz2ou098dbg7e.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dae/2dxic751042viqars01mz2ou098dbg7e.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/db0/3kfgjy8yw8x722alg9xpbb1jkvy9kuls.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/db0/3kfgjy8yw8x722alg9xpbb1jkvy9kuls.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/db1/gijn5flefa8n4gtbbdfpco3d90motuqk.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/db1/gijn5flefa8n4gtbbdfpco3d90motuqk.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dbc/r6um79uo72488jdxunujao5clwhdmyq4.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dbc/r6um79uo72488jdxunujao5clwhdmyq4.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dbe/dbe9258bb2b15e8d3d141ab07a9e1caf.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dbe/dbe9258bb2b15e8d3d141ab07a9e1caf.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dc9/xxe4ak072n5hdnvqqprz8jzzrhomtjbu.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dc9/xxe4ak072n5hdnvqqprz8jzzrhomtjbu.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dcb/cfpczbcsejfghdjczdj6sw4jl783f9qb.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dcb/cfpczbcsejfghdjczdj6sw4jl783f9qb.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dd3/e4ro97kn4fggr78yglzif64bfv23r51j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/dd3/e4ro97kn4fggr78yglzif64bfv23r51j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/de2/04agi57us03vcgmr6o5byiclcgaxw048.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/de2/04agi57us03vcgmr6o5byiclcgaxw048.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ded/jp53obiapp26amu42nf3itve4r3i75lg.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ded/jp53obiapp26amu42nf3itve4r3i75lg.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/df2/3ftvb67f3c3bnxr0pfcvvi0hv872kp3o.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/df2/3ftvb67f3c3bnxr0pfcvvi0hv872kp3o.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e22/rhszybgbubz02jsp232y780v3p0eeykj.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e22/rhszybgbubz02jsp232y780v3p0eeykj.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e2e/vliedv5rvlek2ou5zw4fpb3ilyhyomg0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e2e/vliedv5rvlek2ou5zw4fpb3ilyhyomg0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e2f/e2f10960edaa16bd9bf7497d19d8c0fe.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e2f/e2f10960edaa16bd9bf7497d19d8c0fe.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e33/bkurvf5tv3txmhxpjnrk1e3op6b6h88h.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e35/e356fa3c2ae6759cebaca4eddef3a1eb.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e35/e356fa3c2ae6759cebaca4eddef3a1eb.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e53/83zydecjjonl0ofmo5rn322qmcn59aey.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e53/83zydecjjonl0ofmo5rn322qmcn59aey.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e54/15w6m7vv1sjfrxp490zkw902plepeytw.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e54/15w6m7vv1sjfrxp490zkw902plepeytw.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e67/a69osgfo7732yp2kun5im81rfcvk81hn.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e67/a69osgfo7732yp2kun5im81rfcvk81hn.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e6b/95ohgghlrghlm59i2on4f45uumps8tj7.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e6b/95ohgghlrghlm59i2on4f45uumps8tj7.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e80/mortasdjfj9md3yr1cpmm2lvbnz3fhe2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e80/mortasdjfj9md3yr1cpmm2lvbnz3fhe2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e86/k01w0v4q8y585m5f9gg29xitc3gnpm31.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e86/k01w0v4q8y585m5f9gg29xitc3gnpm31.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e86/v9esm5z887zfrs9msk8hyc7d517sxjdl.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e86/v9esm5z887zfrs9msk8hyc7d517sxjdl.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e88/ijs7g2vv1x2mafvvs8qirui4vzhgaxhe.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e88/ijs7g2vv1x2mafvvs8qirui4vzhgaxhe.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e89/f2vmt23ru3qc15yvv359vx2ve2roeko9.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e8d/e8de58793f0dd07b201e0e9cb44654c7.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e8d/e8de58793f0dd07b201e0e9cb44654c7.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e93/ur9u2nmuev61w54kde9haxu6q6yegc0k.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e94/8us1ge72xetrioz395smpu8pbp6lqasd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e94/8us1ge72xetrioz395smpu8pbp6lqasd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e99/4hkqiocdyeeva9rstra9yzxk2nwi3erd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e99/4hkqiocdyeeva9rstra9yzxk2nwi3erd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e9c/7bwlmc3kprp2zmhvded9g95f8oxuquvc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/e9c/7bwlmc3kprp2zmhvded9g95f8oxuquvc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea1/izbx7nqqwwnnfcpg77eu2zh8tpjeeg8l.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea1/izbx7nqqwwnnfcpg77eu2zh8tpjeeg8l.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea5/iy2ihgncamyu1y8g5z5x49dfq922v2oa.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea5/iy2ihgncamyu1y8g5z5x49dfq922v2oa.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea6/8mcf9g9uvotz93gl08kbb7ux3eteekez.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea6/8mcf9g9uvotz93gl08kbb7ux3eteekez.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea9/t849oo1fo3hc6ss7mif8rfldz56u7cv9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ea9/t849oo1fo3hc6ss7mif8rfldz56u7cv9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eb2/in23wysk11m6bms0hblurndckpe4xqq5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eb2/in23wysk11m6bms0hblurndckpe4xqq5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eb2/nhkb040zr7br6was0ncntw543441b1od.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eb2/nhkb040zr7br6was0ncntw543441b1od.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eb3/eb3da988e2f29e46db800a3bbf482ac4.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eb3/eb3da988e2f29e46db800a3bbf482ac4.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ec3/gikhlr1ch0nq8lz5iqs2ebvsg7yqx1l6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ec3/gikhlr1ch0nq8lz5iqs2ebvsg7yqx1l6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ec5/vwisk1nvh5bfri5oee8qefdxig8pet4n.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ec5/vwisk1nvh5bfri5oee8qefdxig8pet4n.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ed2/vyes9985qlpasmccc507lnyighkzfyc6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ed2/vyes9985qlpasmccc507lnyighkzfyc6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ed5/fr6nej0t333yt8wm8675qtuww1a3q2y6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ed5/fr6nej0t333yt8wm8675qtuww1a3q2y6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eda/h1trwu2qazep079tpxmd2t8nv0wv194e.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eda/h1trwu2qazep079tpxmd2t8nv0wv194e.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/edd/tll5fev0vcxpi52v2o1rwhs3gc3yl36j.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/edd/tll5fev0vcxpi52v2o1rwhs3gc3yl36j.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ee7/grfn0821gp1jy44hbdpzsxor3v3ldliq.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ee7/grfn0821gp1jy44hbdpzsxor3v3ldliq.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ee9/6i5drn1uotwlkgkzis74o9pv7vh7wb1k.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/ee9/6i5drn1uotwlkgkzis74o9pv7vh7wb1k.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eec/7509tjgy3xr7dvpatiflabx61v0eztsg.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/eec/7509tjgy3xr7dvpatiflabx61v0eztsg.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/efc/g3w2vq2b14k4qvykaghkfi6k7272p8q0.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/efc/g3w2vq2b14k4qvykaghkfi6k7272p8q0.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f00/6ndxnc29mnmj4sbvbcb0zwstvhrbz3ts.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f00/6ndxnc29mnmj4sbvbcb0zwstvhrbz3ts.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f00/86cybelgugay0lxceweb6ps5cc52z6al.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f00/86cybelgugay0lxceweb6ps5cc52z6al.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f06/ye32h9gouannp6rtymgenj383ucqgr6h.JPG (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f06/ye32h9gouannp6rtymgenj383ucqgr6h.JPG
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f29/q6jqt852w0c2ji3ua5aea0e9ekaetqkb.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f29/q6jqt852w0c2ji3ua5aea0e9ekaetqkb.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f34/j559nw8iji1m8btyzqhj0z61eoyfwhmj.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f40/i46b3ip4ztufwvznh339tr1otdt7f3x3.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f50/ul6ou50bzb7z0f2n85s0fpugnhabzvf8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f50/ul6ou50bzb7z0f2n85s0fpugnhabzvf8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f54/2jb2v0aiq52eywwphikq5vpj32ss2irs.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f54/kj8jov35p4r0zhx9eh0bx28lzi5z53ej.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f54/kj8jov35p4r0zhx9eh0bx28lzi5z53ej.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f56/erz9yjpnko1wk7gx07fr2iny59j2l5by.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f56/erz9yjpnko1wk7gx07fr2iny59j2l5by.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f67/b75s7aazxvp7zb0d0o2ies1pv8z2q3b0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f67/b75s7aazxvp7zb0d0o2ies1pv8z2q3b0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f6c/a0l4tbn8zhc9yi7apeeg62t4g76wue23.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f6e/srlpa7b852nm6kis9jw5mlgj7jei2qg5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f6e/srlpa7b852nm6kis9jw5mlgj7jei2qg5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f70/as9k0cucr8l5lyfcnmcga7oxozloc57z.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f70/as9k0cucr8l5lyfcnmcga7oxozloc57z.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f7d/8ml52quu0zt8ifk1hrvqfgoq6fkbfmz0.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f7d/8ml52quu0zt8ifk1hrvqfgoq6fkbfmz0.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f8c/6y0c6rmnbhdujzgf11cqz2e53hafzvzr.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f8c/6y0c6rmnbhdujzgf11cqz2e53hafzvzr.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f90/f9031630068ac126b2f0174486b73c5c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f90/f9031630068ac126b2f0174486b73c5c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f93/ua7q2u4pf0dn95poojuutgeix0373ven.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f93/ua7q2u4pf0dn95poojuutgeix0373ven.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f99/0e3ot06v28iex451wiux6k2oo575lids.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f99/0e3ot06v28iex451wiux6k2oo575lids.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/f9d/0ufddap4evm4msnwtmum8dybozatv9s3.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fa8/xb57a7afq100fd59amm59m72onj4soyh.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fa8/xb57a7afq100fd59amm59m72onj4soyh.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fa9/g3nzggz1s00foerz88053kpec6ofeubi.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fac/1ruvfal4dib2rvxpv43udcoo4tewqv2q.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/faf/7hfhs30a7uao5zdg9g82o513cf0acko5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/faf/7hfhs30a7uao5zdg9g82o513cf0acko5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fb7/mi3ypd2et0h1yxa34rhths6va4d3f315.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fb7/mi3ypd2et0h1yxa34rhths6va4d3f315.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fd9/2w618p3q6zw79ke8je3u9ht55ayll267.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fdf/4az1aoxndoj2vsab6fnf1q1l197vudwl.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//iblock/fdf/4az1aoxndoj2vsab6fnf1q1l197vudwl.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_biggrin.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_biggrin.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_confuse.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_confuse.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_cool.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_cool.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_cry.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_cry.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_eek.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_eek.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_evil.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_evil.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_exclaim.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_exclaim.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_facepalm.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_facepalm.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_idea.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_idea.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_kiss.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_kiss.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_like.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_like.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_neutral.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_neutral.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_question.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_question.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_redface.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_redface.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_sad.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_sad.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_smile.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_smile.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_wink.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/2/bx_smile_wink.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_biggrin.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_biggrin.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_cool.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_cool.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_cry.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_cry.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_eek.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_eek.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_evil.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_evil.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_exclaim.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_exclaim.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_idea.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_idea.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_kiss.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_kiss.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_neutral.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_neutral.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_question.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_question.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_redface.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_redface.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_sad.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_sad.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_smile.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_smile.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_wink.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//main/smiles/4/icon_wink.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/0f5/200_200_1/w3dzuvr51dhjf3t7qrkvn6qtjntvhf99.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/253/200_200_1/41ofagwh5py85117kodycjtu90ata49p.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/4d9/200_200_1/f3lf3sugbspqnxgnhx7xgqwm2ye00plg.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/52d/200_200_1/8exy3xk246q6crqn82thxnn3ffqjv1zp.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/5c1/200_200_1/5y1hzzugybmbayi0bc5auuywp2b4gg3l.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/5c1/200_200_1/5y1hzzugybmbayi0bc5auuywp2b4gg3l.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/622/200_200_1/2qcl2mpou60wc1ic05easjuaf7in358k.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/8b0/200_200_1/yad4o6h3ja4bgv0s0iaswclw20eddq9m.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/8b0/200_200_1/yad4o6h3ja4bgv0s0iaswclw20eddq9m.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/a1e/200_200_1/2mqo21pv6slq2816l42c0vajukvlp9tw.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/d8b/200_200_1/b82gd2br4v8c0k4zn97tao08379gon3l.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//resize_cache/iblock/fd9/200_200_1/2w618p3q6zw79ke8je3u9ht55ayll267.png (image/png)
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/01b1d0138b1a1f6c8cdc77909467f9f6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/01b1d0138b1a1f6c8cdc77909467f9f6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/03128d7f1ca8ae2c39afaa185a583861.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/03128d7f1ca8ae2c39afaa185a583861.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0542fe82289687e1bdf9a1abccba53d5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0542fe82289687e1bdf9a1abccba53d5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/054ede292e3797f73972cb780dc11d71.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/054ede292e3797f73972cb780dc11d71.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/061123eccb76830b1d49df5387da9041.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/061123eccb76830b1d49df5387da9041.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0622c7d3516f3f747c685cf8e3991af9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0622c7d3516f3f747c685cf8e3991af9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/06b63d9fa54a56c34090922dce3965e6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/06b63d9fa54a56c34090922dce3965e6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/06b716c7be586bc79df8dd1c0302f2a6.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/06b716c7be586bc79df8dd1c0302f2a6.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0895b0d8aa26295429fc8182fd19d5cd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0895b0d8aa26295429fc8182fd19d5cd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0961e6150aa66a146b3593eab502548c.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0961e6150aa66a146b3593eab502548c.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0be6cc71a259b6ee0a71cf8596045d50.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0be6cc71a259b6ee0a71cf8596045d50.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0c48998d9d3627e981f0cdceae2eb56d.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/0c48998d9d3627e981f0cdceae2eb56d.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1173cd31ff14226ef7a8d243e89c287e.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1173cd31ff14226ef7a8d243e89c287e.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1410b0d05d0f9063905cadbd95314d78.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1410b0d05d0f9063905cadbd95314d78.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/14e63a7a34e983d771b928dbbe506fe8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/14e63a7a34e983d771b928dbbe506fe8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1635da218d084f171e203117d51d72e5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1635da218d084f171e203117d51d72e5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/17ca85c3fab176014746dc435583464f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/17ca85c3fab176014746dc435583464f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1b14abdd3fb94c22ce96adfd1afe61f9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1b14abdd3fb94c22ce96adfd1afe61f9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1c47299d43a6531f2450b6d07ff1cd0a.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1c47299d43a6531f2450b6d07ff1cd0a.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1c4c71a3a818e386d7a7ceb5d33efc2f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1c4c71a3a818e386d7a7ceb5d33efc2f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1dea7de8e9c7af8a7d1bfc2e8e5a03ea.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/1dea7de8e9c7af8a7d1bfc2e8e5a03ea.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/2289c54c3e6642c78cd631733ccfffac.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/2289c54c3e6642c78cd631733ccfffac.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/265a6cf757d146e1271366ef325052d3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/265a6cf757d146e1271366ef325052d3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/2b4c9841ef807570b9eca427363ad860.jpg (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/2b4c9841ef807570b9eca427363ad860.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/2c6f8cf54acccd7adfdb2cedfb60c99f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/2c6f8cf54acccd7adfdb2cedfb60c99f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3224ea5f7d1df56ec6b45982203d4ce5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3224ea5f7d1df56ec6b45982203d4ce5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/32532107d6335a001e1af70397fc1a07.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/32532107d6335a001e1af70397fc1a07.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3419c636f0ce6abe6a7323d026e482cc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3419c636f0ce6abe6a7323d026e482cc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/34f6b423e09afb7a6fb1479613c3f32a.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/34f6b423e09afb7a6fb1479613c3f32a.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/365b64fe3c4acda51fddd69e1672a075.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/365b64fe3c4acda51fddd69e1672a075.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/372dfbb5b1ec52600befb118c7a2ea8b.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/372dfbb5b1ec52600befb118c7a2ea8b.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/37db78a53e690196f0ef3578056fab00.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/37db78a53e690196f0ef3578056fab00.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3c92f7609eaf326f8b5aa7464d73cfd1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3c92f7609eaf326f8b5aa7464d73cfd1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3d79f588ac488f6e7ee3540fdafbea9c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/3d79f588ac488f6e7ee3540fdafbea9c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/41f3fd5f0c79e2a4638336e3ec380b6d.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/41f3fd5f0c79e2a4638336e3ec380b6d.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/44fd1fe375565c50edc9fa9c843e5314.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/44fd1fe375565c50edc9fa9c843e5314.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/496a35df95856877615c4cc9c55726cb.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/496a35df95856877615c4cc9c55726cb.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4972081fa51d419d4632827125e76a5c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4972081fa51d419d4632827125e76a5c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/49e346ca5557a4557b5dea0413da908c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/49e346ca5557a4557b5dea0413da908c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4aa8547aea1e037e8fe06f64d87cccb5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4aa8547aea1e037e8fe06f64d87cccb5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4c5d72411cca5a3105f9d1f4860c4a14.jpg (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4c5d72411cca5a3105f9d1f4860c4a14.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4ea257f8667e356144450f2fa6756808.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/4ea257f8667e356144450f2fa6756808.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/51dc05797b853ccb8527d9243ca5e9be.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/51dc05797b853ccb8527d9243ca5e9be.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/520b75fc0b9b21d88511f658aecd9754.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/520b75fc0b9b21d88511f658aecd9754.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/56460ad1f7b4a8d31bc5d546e4cda778.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/56460ad1f7b4a8d31bc5d546e4cda778.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/5869fee38bdc2e54c952a1bb1f6c62c9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/5869fee38bdc2e54c952a1bb1f6c62c9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/59548dd50ca31150b8c1d9eb69d3f3c3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/59548dd50ca31150b8c1d9eb69d3f3c3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/5c0f767d4d964bc3fbed0be5eac54843.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/5c0f767d4d964bc3fbed0be5eac54843.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/5d876cbfcd7ca5d2985d238b4df160b3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/5d876cbfcd7ca5d2985d238b4df160b3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/60f3af781887e9d0ef4e067301f42bdf.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/60f3af781887e9d0ef4e067301f42bdf.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/61ed081b94ed5a11d89404e1d57863ae.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/61ed081b94ed5a11d89404e1d57863ae.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6297531798abd61d27c70325dcfcc655.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6297531798abd61d27c70325dcfcc655.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/643861d257e964a8d780ff5ec1880cca.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/643861d257e964a8d780ff5ec1880cca.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/646884f4448edabd32f6ffbb347196f4.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/646884f4448edabd32f6ffbb347196f4.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/650a5d8d1506dbfed21cd5a2cfaaa669.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/650a5d8d1506dbfed21cd5a2cfaaa669.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/655d1332877960c0dd3af45cf33b62f5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/655d1332877960c0dd3af45cf33b62f5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6a7622f5a336970a55d5380fe47e9bd0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6a7622f5a336970a55d5380fe47e9bd0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6b62b78786af76c7ec291c7e9b0e4e37.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6b62b78786af76c7ec291c7e9b0e4e37.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6b7e988a40a74cc59ead61a167176613.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/6b7e988a40a74cc59ead61a167176613.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/70f2fbd390eabe07d53eaadaa2462673.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/70f2fbd390eabe07d53eaadaa2462673.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7267586ed6229ae2ec707ea380423dd9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7267586ed6229ae2ec707ea380423dd9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7346e0fd306af50a6d86d5e82c7d8502.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7346e0fd306af50a6d86d5e82c7d8502.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/742af25d9b81d89ef019ccaa72503ecc.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/742af25d9b81d89ef019ccaa72503ecc.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/743dd2bbec70f2600e6d7d8682d86f2c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/743dd2bbec70f2600e6d7d8682d86f2c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7bf148ab4b17aab436a55780e7ccec49.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7bf148ab4b17aab436a55780e7ccec49.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7e8566e73b79d73d425d28f88717b9e8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/7e8566e73b79d73d425d28f88717b9e8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/808fd83942dc5fdc9c442d17861f5b9d.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/808fd83942dc5fdc9c442d17861f5b9d.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/829a47be8da04bd2bdf2c6b31e69bfa9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/829a47be8da04bd2bdf2c6b31e69bfa9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/88589ea2decebfbae0f10b2cc5fec216.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/88589ea2decebfbae0f10b2cc5fec216.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/8fe21839d6291234960512e309e35cad.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/8fe21839d6291234960512e309e35cad.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/963d8c6e2197dc9b9228b9be831ac359.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/963d8c6e2197dc9b9228b9be831ac359.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/96dd2829547483ec81ce184fff694eeb.jpg (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/96dd2829547483ec81ce184fff694eeb.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9838262b3eb2ce5ac562837bdaea5bfd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9838262b3eb2ce5ac562837bdaea5bfd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/999086fded0095355592ea55e79e8d28.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/999086fded0095355592ea55e79e8d28.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9b6fe7a3fe428ed22b9681ef05b63152.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9b6fe7a3fe428ed22b9681ef05b63152.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9be4203371640f05caeafdd7f5af8b82.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9be4203371640f05caeafdd7f5af8b82.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9d266e517d6d616d1098b1735b7f6e1e.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9d266e517d6d616d1098b1735b7f6e1e.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9e0257e91926b3d1c6fd7eef4f22dbfa.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/9e0257e91926b3d1c6fd7eef4f22dbfa.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a00d9f0ec82b59b5355bb487a1378296.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a00d9f0ec82b59b5355bb487a1378296.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a0489a29e9be677c5b12b45051cecf0c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a0489a29e9be677c5b12b45051cecf0c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a1e660f58d7edff1ccbb8924451f76c5.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a1e660f58d7edff1ccbb8924451f76c5.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a2ac3489e7c7aa7aeb24f2c67a40391f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a2ac3489e7c7aa7aeb24f2c67a40391f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a6e0f8e968c4c746709d3826ca9e26f2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a6e0f8e968c4c746709d3826ca9e26f2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a7d23ab4f6405f6b3617c5a938bdc9d1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a7d23ab4f6405f6b3617c5a938bdc9d1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a99244ab94a8cecea2d8f7e9582c55c8.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/a99244ab94a8cecea2d8f7e9582c55c8.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/abb56f2806467f81abf5b1cac6dd6f42.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/abb56f2806467f81abf5b1cac6dd6f42.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b3575e9917e137bb238e4978ee0cdf33.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b3575e9917e137bb238e4978ee0cdf33.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b358f6cb835adf9eb8716a70eff8e8a9.jpg (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b358f6cb835adf9eb8716a70eff8e8a9.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b45c637af56e1c4449c43b0c5766b582.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b45c637af56e1c4449c43b0c5766b582.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b4b246eed7884742b7c1b91ea319b13b.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b4b246eed7884742b7c1b91ea319b13b.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b873e50b1b258f031d2b9974082d953c.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b873e50b1b258f031d2b9974082d953c.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b96d8a99c7695001aceba8a4234403a9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b96d8a99c7695001aceba8a4234403a9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b979499e3b5204481f9b44a797e0a385.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/b979499e3b5204481f9b44a797e0a385.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/bef5df3e6218e7aef5eb5ba987ec8aa2.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/bef5df3e6218e7aef5eb5ba987ec8aa2.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/bf76f69f1551a1a9175e494a938f1f7d.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/bf76f69f1551a1a9175e494a938f1f7d.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/bf8c96c0c057e9a48ec40034a8b702b0.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/bf8c96c0c057e9a48ec40034a8b702b0.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c0c9c61fe45c5e614dbfc671cfde8876.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c0c9c61fe45c5e614dbfc671cfde8876.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c193c24e7bca191eb980e80e04908a21.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c193c24e7bca191eb980e80e04908a21.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c462848d65a9299bf13d1c1e786551bb.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c462848d65a9299bf13d1c1e786551bb.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c568033082d3b5cd0cfc4881494ad712.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c568033082d3b5cd0cfc4881494ad712.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c84010ec2e83bf6770f54ea5b6dda36f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c84010ec2e83bf6770f54ea5b6dda36f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c8d93c95f73631a18f4e21f76e426c4a.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/c8d93c95f73631a18f4e21f76e426c4a.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/cbda657160412d54eb8baf8cacd0e49f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/cbda657160412d54eb8baf8cacd0e49f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/ccfe210acd8e83f5a1e8bab5610e8c15.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/ccfe210acd8e83f5a1e8bab5610e8c15.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/d4f84f31681c78060714a97fb05f4097.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/d4f84f31681c78060714a97fb05f4097.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/d60c1c9bff320dc9d728fd1201db4941.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/d60c1c9bff320dc9d728fd1201db4941.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e02500798636cba520fa434b41d6a181.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e02500798636cba520fa434b41d6a181.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e32f1a5f3b30339311d6db6d6211fe13.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e32f1a5f3b30339311d6db6d6211fe13.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e632e40b13a2c9f8e07fc1e9be8d55ea.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e632e40b13a2c9f8e07fc1e9be8d55ea.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e6abb7e6a01f1cb6b05bc0bc7720b280.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e6abb7e6a01f1cb6b05bc0bc7720b280.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e6f4abaeaf7989cab33701e035068e6a.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e6f4abaeaf7989cab33701e035068e6a.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e9008bcd20999004e25d92b42dcf1381.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/e9008bcd20999004e25d92b42dcf1381.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/ec7be454b1944b848a6bf23f134b37c3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/ec7be454b1944b848a6bf23f134b37c3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/eccc8f098ee600a0d6a7b137b64921b3.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/eccc8f098ee600a0d6a7b137b64921b3.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/ede773d2ba95999110a94f990bd4f5cd.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/ede773d2ba95999110a94f990bd4f5cd.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/eed041ca93da2737da4f28b58cfd3c66.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/eed041ca93da2737da4f28b58cfd3c66.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f2303c8ce98472001b3d64a7fea464b1.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f2303c8ce98472001b3d64a7fea464b1.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f2bd86136bb25b4e467c85de80608194.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f2bd86136bb25b4e467c85de80608194.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f2fc9601ee1f9a64991ad8bb02a2ba68.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f2fc9601ee1f9a64991ad8bb02a2ba68.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f6671322d59c1abadc3ad4643707345a.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/f6671322d59c1abadc3ad4643707345a.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fafad86e9280b4b1bd347796e417e9b5.jpg (image/jpeg)
+JPEG сжат (jpegoptim): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fafad86e9280b4b1bd347796e417e9b5.jpg
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fbd6a23999c023f06d09f7b05c67049f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fbd6a23999c023f06d09f7b05c67049f.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fc10b88b6c258ffa9f78e29c2a7595e9.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fc10b88b6c258ffa9f78e29c2a7595e9.png
+Обрабатываем: /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fc311add05e1d3f4d0b9ad667f02808f.png (image/png)
+PNG сжат (pngquant): /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload//uf/menu/fc311add05e1d3f4d0b9ad667f02808f.png
+✅ Сжатие завершено!

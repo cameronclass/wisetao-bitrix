@@ -1,62 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // const linkClickedBlock = document.querySelector('div.link-clicked');
-  //
-  // if (linkClickedBlock) {
-  //     // Находим все ссылки, которые ведут на внутренние страницы сайта, исключая якорные ссылки (#)
-  //     const links = document.querySelectorAll('a[href^="/"], a[href^="./"], a[href^="../"], a:not([href^="http"])');
-  //
-  //     // Фильтруем ссылки, исключая те, которые содержат класс 'page-menu__menu_link' или 'not-clickable'
-  //     const filteredLinks = Array.from(links).filter(link => {
-  //         // Исключаем ссылки с классом 'page-menu__menu_link' или 'not-clickable', и ссылки, которые начинаются с '#'
-  //         return !link.classList.contains('page-menu__menu_link') &&
-  //             !link.classList.contains('not-clickable') &&
-  //             !link.getAttribute('href').startsWith('#');
-  //     });
-  //
-  //     // Добавляем обработчик события клика на отфильтрованные ссылки
-  //     filteredLinks.forEach(link => {
-  //         link.addEventListener('click', function() {
-  //             linkClickedBlock.classList.add('active'); // Добавляем класс 'active' к блоку
-  //         });
-  //     });
-  // }
-
-  // // Получаем все элементы с классом .main-select__menu_link
-  // const firstMenuLinks1 = document.querySelectorAll('.main-select__menu_link');
-
-  // // Получаем элемент <div class="link-clicked">
-  //     const linkClickedElement = document.querySelector('.link-clicked');
-  //
-  // // Добавляем обработчик события клика для каждой ссылки
-  //     firstMenuLinks1.forEach(link => {
-  //         link.addEventListener('click', (event) => {
-  //             const href = link.getAttribute('href');
-  //
-  //             // Проверяем, начинается ли ссылка с '/'
-  //             if (href.startsWith('/')) {
-  //                 // Добавляем класс active к элементу <div class="link-clicked">
-  //                 linkClickedElement.classList.add('active');
-  //             } else if (href.startsWith('#')) {
-  //                 // Если ссылка начинается с '#', ничего не делаем
-  //                 event.preventDefault(); // предотвращаем переход по ссылке, если это необходимо
-  //             }
-  //         });
-  //     });
-  //
-  //
-  //     // Получаем все элементы с классом .activate-preloader
-  //     const preloaderElements = document.querySelectorAll('.activate-preloader');
-  //
-  //
-  // // Добавляем обработчик события клика для каждого элемента .activate-preloader
-  //     if (preloaderElements){
-  //         preloaderElements.forEach(element => {
-  //             element.addEventListener('click', () => {
-  //                 // Добавляем класс active к элементу <div class="link-clicked">
-  //                 linkClickedElement.classList.add('active');
-  //             });
-  //         });
-  //     }
+  const imagesAll = document.querySelectorAll("img");
+  imagesAll.forEach((img) => {
+    img.setAttribute("loading", "lazy");
+  });
 
   // Анимация главного меню
   const circle1 = document.querySelector(".main-select__circle_1");

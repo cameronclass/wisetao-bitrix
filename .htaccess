@@ -1,5 +1,3 @@
-php_value max_input_vars 10000
-
 Options -Indexes
 ErrorDocument 404 /404.php
 
@@ -44,8 +42,16 @@ ErrorDocument 404 /404.php
   DirectoryIndex index.php index.html
 </IfModule>
 
+# Автоматическая подстановка WebP вместо JPG/PNG
+RewriteCond %{HTTP_ACCEPT} image/webp
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteCond %{REQUEST_FILENAME} "\.(jpe?g|png)$"
+RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
+RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=REQUEST_image]
+
 <IfModule mod_expires.c>
   ExpiresActive on
+  ExpiresByType image/webp "access plus 3 days"
   ExpiresByType image/jpeg "access plus 3 day"
   ExpiresByType image/gif "access plus 3 day"
   ExpiresByType image/png "access plus 3 day"
