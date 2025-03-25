@@ -10470,7 +10470,6 @@ button:focus {
   position: relative;
   border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 15px;
-  overflow: hidden;
 }
 @media screen and (max-width: 767px) {
   .review-ask {
@@ -10481,11 +10480,13 @@ button:focus {
   height: 100%;
   position: absolute;
   z-index: -1;
+  border-radius: 15px;
 }
 .review-ask__bg img {
   width: 100%;
   height: 100%;
   object-fit: fill;
+  border-radius: 15px;
 }
 .review-ask__block {
   position: relative;
@@ -11130,6 +11131,8 @@ button:focus {
   z-index: -1;
   left: 0;
   top: 0;
+  width: 100%;
+  height: 100%;
 }
 .location-card__bg img {
   width: 100%;

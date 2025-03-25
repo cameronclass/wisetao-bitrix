@@ -41,7 +41,7 @@ $count = 0;
 <div class="group-title" data-aos="fade-up" style="font-weight: 600;">Отзывы</div>
 <div class="marketing-review row mb-4" data-aos="fade-up">
     <div class="col-xl-9">
-        <div class="row" style="margin: 0;">
+        <div class="row" style="margin: 0 -5px;">
             <? endif; ?>
             <div class="col-md-4 mb-4" id="<?= $this->GetEditAreaId($arItem['ID']); ?>">
                 <div class="marketing-review-card">

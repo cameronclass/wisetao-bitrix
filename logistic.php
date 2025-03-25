@@ -55,8 +55,7 @@ $APPLICATION->SetPageProperty("title", $title);
                                     <a class="how-to-use-calc fancy-link"
                                         href="<?= SITE_TEMPLATE_PATH ?>/assets/video/2.mp4" data-fancybox="gallery">
                                         <span class="how-to-use-calc__img">
-                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/how-to-use-calc.jpg"
-                                                alt="">
+                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/logistic/2.jpg" alt="">
                                         </span>
                                         <span class="how-to-use-calc__icon">
                                             <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/play-icon.svg" alt="">
@@ -67,8 +66,7 @@ $APPLICATION->SetPageProperty("title", $title);
                                     <a class="how-to-use-calc fancy-link"
                                         href="<?= SITE_TEMPLATE_PATH ?>/assets/video/3.mp4" data-fancybox="gallery">
                                         <span class="how-to-use-calc__img">
-                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/how-to-use-calc.jpg"
-                                                alt="">
+                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/logistic/3.jpg" alt="">
                                         </span>
                                         <span class="how-to-use-calc__icon">
                                             <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/play-icon.svg" alt="">
@@ -79,20 +77,7 @@ $APPLICATION->SetPageProperty("title", $title);
                                     <a class="how-to-use-calc fancy-link"
                                         href="<?= SITE_TEMPLATE_PATH ?>/assets/video/4.mp4" data-fancybox="gallery">
                                         <span class="how-to-use-calc__img">
-                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/how-to-use-calc.jpg"
-                                                alt="">
-                                        </span>
-                                        <span class="how-to-use-calc__icon">
-                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/play-icon.svg" alt="">
-                                        </span>
-                                    </a>
-                                </div>
-                                <div class="swiper-slide">
-                                    <a class="how-to-use-calc fancy-link"
-                                        href="<?= SITE_TEMPLATE_PATH ?>/assets/video/5.mp4" data-fancybox="gallery">
-                                        <span class="how-to-use-calc__img">
-                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/how-to-use-calc.jpg"
-                                                alt="">
+                                            <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/logistic/4.jpg" alt="">
                                         </span>
                                         <span class="how-to-use-calc__icon">
                                             <img src="<?= SITE_TEMPLATE_PATH ?>/assets/images/play-icon.svg" alt="">
