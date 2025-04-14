@@ -1,6 +1,6 @@
 // CalculatorApp.js
 import { Currency } from "./api/Currency.js";
-import { TnvedManager } from "./api/TnvedManager.js";
+import { TnvedManager } from "./api/TnvedManager.js?v=1.1";
 import { Calculator } from "./calculations/Calculator.js";
 import KitDeliveryCalculator from "./calculations/KitDeliveryCalculator.js";
 import PriceSelector from "./calculations/PriceSelector.js";

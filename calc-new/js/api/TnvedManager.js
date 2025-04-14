@@ -49,37 +49,117 @@ export class TnvedManager {
   async handleInput() {
     const query = this.tnvedInput.value.trim();
 
-    // 1) Запоминаем введённое в State.tnvedSelection.inputValue
+    // 1. Обновляем состояние
     State.tnvedSelection.inputValue = query;
-    // 2) Сбрасываем выбранный элемент
     State.tnvedSelection.selectedItem = null;
 
-    // Если пользователь начинает печатать заново,
-    // убираем .active у блока name-code-container
+    // 2. Сброс контейнера при изменении ввода
     if (this.nameCodeContainer.classList.contains("active")) {
       this.nameCodeContainer.classList.remove("active");
-      // Очистим поля отображения
       this.nameInput.textContent = "";
       this.codeInput.textContent = "";
-
       State.clientData.tnvedSelectedName = null;
       State.clientData.tnvedSelectedCode = null;
       State.clientData.tnvedSelectedImp = null;
     }
 
-    // Если длина ввода <3 => не ищем
+    // 3. Проверка на 10-значный цифровой код
+    if (/^\d{10}$/.test(query)) {
+      this.handleManualCodeInput(query);
+      return;
+    }
+
+    // 4. Стандартная обработка для коротких запросов
     if (query.length < 3) {
       this.hideSuggestions();
       return;
     }
 
-    // Запускаем анимацию загрузки
+    // 5. Дебаунс для поиска подсказок
     this.startLoadingAnimation();
-
     clearTimeout(this.debounceTimer);
     this.debounceTimer = setTimeout(async () => {
-      await this.loadSuggestions(query);
+      try {
+        await this.loadSuggestions(query);
+      } catch (e) {
+        this.stopLoadingAnimation();
+        this.renderNoSuggestions();
+      }
     }, this.DEBOUNCE_DELAY);
+  }
+
+  async handleManualCodeInput(code) {
+    this.hideSuggestions();
+    this.startLoadingAnimation();
+
+    try {
+      // 1. Запрос данных по коду
+      const itemData = await this.fetchDataForChosenGood(code);
+
+      // 2. Создаем искусственный элемент
+      const item = {
+        CODE: code,
+        KR_NAIM: itemData?.KR_NAIM || "Название не найдено",
+      };
+
+      // 3. Обновляем состояние и UI
+      State.tnvedSelection.selectedItem = item;
+      this.nameInput.textContent = item.KR_NAIM;
+      this.codeInput.textContent = item.CODE;
+      this.nameCodeContainer.classList.add("active");
+      this.tnvedInput.value = item.CODE;
+
+      const tnvedField = document.querySelector('input[name="tnved_input"]');
+      if (tnvedField) {
+        tnvedField.classList.remove("error-input");
+        const parent =
+          tnvedField.closest(".form-group") || tnvedField.parentElement;
+        const errorSpan = parent.querySelector(".error-message");
+        if (errorSpan) errorSpan.textContent = "";
+      }
+
+      // 4. Запрашиваем данные о пошлине
+      await this.fetchDataForChosenCode(code);
+    } catch (error) {
+      console.error("Ошибка обработки кода:", error);
+      this.renderCodeInputError();
+    } finally {
+      this.stopLoadingAnimation();
+    }
+  }
+
+  // ==========================
+  // НОВЫЙ МЕТОД: Запрос данных по коду
+  // ==========================
+  async fetchDataForChosenGood(code) {
+    const response = await fetch(`${this.apiBase}/get-data-for-chosen-good`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: `code=${encodeURIComponent(code)}`,
+    });
+
+    if (!response.ok) throw new Error("Ошибка запроса данных");
+    return await response.json();
+  }
+
+  // ==========================
+  // НОВЫЙ МЕТОД: Отображение ошибки
+  // ==========================
+  renderCodeInputError() {
+    this.nameCodeContainer.classList.remove("active");
+    this.tnvedInput.classList.add("error-input");
+    const errorMessage = "Код ТНВЭД не найден";
+
+    // Добавляем/обновляем сообщение об ошибке
+    let errorEl = this.tnvedInput.parentNode.querySelector(".error-message");
+    if (!errorEl) {
+      errorEl = document.createElement("div");
+      errorEl.className = "error-message";
+      this.tnvedInput.parentNode.appendChild(errorEl);
+    }
+    errorEl.textContent = errorMessage;
   }
 
   async loadSuggestions(query) {

@@ -8969,7 +8969,7 @@ button:focus {
   position: absolute;
   left: -1px;
   top: 0;
-  z-index: 100;
+  z-index: 6;
   display: flex;
   flex-direction: column;
   -webkit-overflow-scrolling: touch;
@@ -10311,7 +10311,7 @@ button:focus {
     position: absolute;
     top: 20px;
     right: 10px;
-    z-index: 7;
+    z-index: 6;
   }
 }
 .menu-back-btn {

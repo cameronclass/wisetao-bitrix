@@ -29,7 +29,7 @@ sudo chmod -R 775 /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/upload
 
 Дать доступ к папке и ко всем файлам внутри
 chmod -R 777 /Applications/XAMPP/xamppfiles/htdocs/bitrix_site/bitrix/templates/main-wisetao/assets/images/logistic
-
+enter
 
 Экспорт базы данных
 /Applications/XAMPP/xamppfiles/bin/mysqldump -u root -p bitrix_local > ~/Downloads/backup.sql

@@ -2199,9 +2199,6 @@ input[type="number"] {
   .main-calc-parametr__main {
     grid-template-columns: 1fr 1fr;
   }
-  .content-page__page {
-    width: 90%;
-  }
 }
 @media screen and (max-width: 768px) {
   html {
@@ -2417,6 +2414,7 @@ input[type="number"] {
 
   .white-cargo__justinfo .group-input {
     display: flex;
+    align-items: flex-start;
   }
   .main-calc__from-to_adress {
     grid-column-end: initial;
